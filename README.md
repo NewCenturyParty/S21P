@@ -2,6 +2,10 @@
   <img src="images/ncp-logo-transparent-gold.svg" alt="NCP logo" width="200">
 </p>
 
+<h1 align="center">New Century Party</h1>
+
+> <p align="center"><strong>21 Policies for a 21st Century Saskatchewan.</strong></p>
+
 ## Welcome
 
 This repository houses the source material for every policy in the New Century Party platform. Each folder corresponds to one of the 21 policies and contains research notes, early drafts, and accessories that eventually feed the public website and campaign materials.
