@@ -4,7 +4,7 @@
 
 <h1 align="center">The Saskatchewan 21 Policies (S21P)</h1>
 
-> <p align="center"><strong>For 21st Century Saskatchewan.</strong></p>
+> <p align="center"><strong>For a 21st Century Saskatchewan.</strong></p>
 
 ## Welcome
 
