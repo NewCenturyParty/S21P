@@ -4,7 +4,7 @@
 
 <h1 align="center">New Century Party</h1>
 
-> <p align="center"><strong>21 Policies for a 21st Century Saskatchewan.</strong></p>
+> <p align="center"><strong>The Saskatchewan 21 Policies (S21P) for a 21st Century Saskatchewan.</strong></p>
 
 ## Welcome
 
