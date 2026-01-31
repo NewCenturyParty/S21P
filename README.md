@@ -2,9 +2,9 @@
   <img src="images/ncp-logo-transparent-gold.svg" alt="NCP logo" width="200">
 </p>
 
-<h1 align="center">New Century Party</h1>
+<h1 align="center">The Saskatchewan 21 Policies (S21P)</h1>
 
-> <p align="center"><strong>The Saskatchewan 21 Policies (S21P) for a 21st Century Saskatchewan.</strong></p>
+> <p align="center"><strong>For 21st Century Saskatchewan.</strong></p>
 
 ## Welcome
 
