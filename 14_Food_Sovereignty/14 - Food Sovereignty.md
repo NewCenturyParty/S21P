@@ -25,7 +25,7 @@ Saskatchewan will pursue amendments to the CFTA to permit provincial food securi
 
 The Saskatchewan Agriculture Board (SAB) will be mandated to ensure Saskatchewan farmers are in charge of the value chain from seed to sale. It will ensure domestic food security, and that Saskatchewan families are fed by fresh food from Saskatchewan soil. 
 
-Farmers may sign up to pay into a voluntary margin insurance program that guarantees a Revenue Risk Management Program (RRMP) based on the Regional Benchmark Cost of Production (RBCP) plus a cost of living margin. The RRMP will be actuarily sound and WTO Green Box compliant. This will act as a backstop against global market fluctuations. If the average market price drops below the RBCP plus the cost of living margin then SAB pays the difference. Premiums will be cost shared 60/40 between the Province and the Producer.
+Farmers may sign up to pay into a voluntary margin insurance program that guarantees a Revenue Risk Management Program (RRMP) based on the Regional Benchmark Cost of Production (RBCP) plus a cost of living margin. SAB RRMP supplements SCIC and AgriStability; it does not replace them, and it is targeted at price/margin risk, not weather or yield loss. The RRMP will be actuarily sound and WTO Green Box compliant. This will act as a backstop against global market fluctuations. If the average market price drops below the RBCP plus the cost of living margin then SAB pays the difference. Premiums will be cost shared 60/40 between the Province and the Producer.
 
 The SAB will operate voluntary pools for all major commodities, including grains, pulses, and produce. Farmers who commit to a pool before Spring of that year will receive an immediate, interest free, Spring Time Advance (STA) of up to 75% of the projected crop value upfront. 
 
@@ -33,7 +33,7 @@ SAB programs will include streams for organic, specialty, and direct-market prod
 
 To reiterate, the SAB pools are voluntary. Farmers who want to sell directly to export markets can simply not join the pool. This isn't a restriction on trade, it's a choice farmers get to make for themselves.
 
-The STA will be secured against the crop and integrated with the Saskatchewan Crop Insurance Corporation (SCIC) to cover any weather risks. No more high-interest operating loans. 
+The STA will be secured against the crop and integrated with the Saskatchewan Crop Insurance Corporation (SCIC) to cover any weather risks. No more high-interest operating loans. To be clear, the SCIC remains the primary weather and production insurer, while SAB covers pooled marketing, advances, and margin stabilization.
 
 The SAB will create a strategic reserve of essential agricultural inputs and outputs like dry grains to protect against any supply chain shocks.
 
@@ -80,11 +80,11 @@ SaskGrocery will be made of two entities: SaskGrocery Wholesale, and SaskGrocery
 
 SaskGrocery Wholesale aggregates provincial purchasing power to negotiate lower costs for all participating retailers. It will sell to SaskGrocery retail locations AND independent/co-op grocers across the province at the same transparent wholesale price. This breaks the monopoly of private wholesalers.
 
-The Essentials Basket, a defined list of staples (bread, milk, eggs, flour, baby formula, seasonal produce) will be sold at Landed Cost + Logistics + 1%. These items are treated as a public utility, not a profit centre. There will also be no slotting fees. 
+The Essentials Basket will be sold at a single equalized price in every SaskGrocery location across Saskatchewan. That price will be set using the weighted average landed cost of Essential Basket goods across the SaskGrocery system, plus system-wide logistics and handling costs, plus a modest operating margin of 3%. Additional costs associated with serving remote and northern communities will be covered through geographic parity support and system-wide cross-subsidization, not by charging higher prices to residents of those communities.
+
+So, to be clear, the price of the Essential Basket will be identical in every SaskGrocery location. A litre of milk will cost the same in Stony Rapids as it does in Moose Jaw.
 
 The Essential Basket will be determined by a public advisory committee including nutritionists, consumer advocates, and representatives from low-income communities. The committee will review and adjust the basket annually based on nutritional guidelines and community input.
-
-The price of the Essential Basket will be identical in every SaskGrocery location. A litre of milk will cost the same in Stony Rapids as it does in Moose Jaw.
 
 SaskGrocery Retail will have a network of stores across the province. The Initial rollout will prioritize food deserts and underserved communities. Within five years, SaskGrocery aims to operate at least 50 retail locations across the province, with at least 20 in communities currently lacking full-service grocery options.
 
@@ -140,7 +140,7 @@ It means farmers get the respect and help they deserve.
 
 It means a grocery store that doesn't cheat you. 
 
-It means the dignity of feeding your family.
+It means the dignity of feeding your family. 
 
 ---
 

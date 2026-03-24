@@ -1,4 +1,4 @@
-# Policy 21 — Funding the Future: A Fully Costed 20-Year Fiscal Framework for the Saskatchewan 21 Policies
+# Policy 21 — Funding the Future: A Fully Costed 25-Year Fiscal Framework for the Saskatchewan 21 Policies
 
 > We all pay our fair share to share in a fair society.
 
@@ -6,892 +6,567 @@
 
 ## Part I — The Fiscal Philosophy
 
-The Saskatchewan 21 Policies represent the most ambitious provincial platform in Canadian history. They demand an equally ambitious and transparent funding model. This policy is the keystone that holds the other twenty together. Every dollar of new spending identified below is matched to a revenue source, a bond instrument, a Crown Corporation return, or an economic feedback mechanism. Where gaps exist, they are stated openly.
+The Saskatchewan 21 Policies represent one of the most ambitious provincial platforms in Canadian history. They demand an equally ambitious and transparent funding model. This policy is the keystone that holds the other twenty together. The costs identified below are matched to funding lanes, modelled offsets, borrowing instruments, or clearly stated areas of uncertainty. Where long-run feedback effects are plausible but not yet bankable enough for the base case, they are discussed openly rather than quietly counted as hard revenue. Where uncertainty remains, it is presented as a range, not hidden behind a single confident number.
 
 The fiscal philosophy of the NCP rests on five principles:
 
-1. **Honesty.** The public deserves to see every assumption, every risk, and every trade-off. This document hides nothing.
-2. **Investment, not Expense.** The vast majority of new spending creates productive assets, builds human capital, or generates revenue streams that compound over time. We are planting trees whose shade we will sit in.
-3. **Velocity of Money.** Money that stays and circulates in Saskatchewan generates more wealth than money extracted to distant shareholders. The SFG, credit unions, Crown Corporations, and SaskBonds are designed to keep the circular flow of dollars within our borders.
-4. **Intergenerational Equity.** The Saskatchewan Sovereignty Fund ensures that resource wealth is saved and invested for future generations, not consumed today. Bond-funded capital projects spread costs across the decades of benefit they deliver.
-5. **Fiscal Sustainability.** The platform phases in over 4-8 years. Early deficits are structural investments. By Year 10-12, the economy is substantially larger, Crown Corporations are generating returns, and the SSF is contributing meaningfully from interest. By Year 15-20, the system approaches a dynamic fiscal balance.
+1. **Honesty.** The public deserves to see every assumption, every risk, and every trade-off. This document hides nothing. It uses low, base, and high scenarios because no honest 25-year model produces one exact number.
+2. **Investment, not Expense.** More than half of this platform's net cost sits in productive capital and public asset buildout — housing, energy systems, factories, infrastructure, and resilience. These are not consumption items. They are assets that last, lower future costs, and build the province's durable productive capacity. We are planting trees whose shade we will sit in.
+3. **Local Circulation and Value Retention.** Money that stays and circulates in Saskatchewan generates more local wealth than money extracted to distant shareholders. The SFG, credit unions, Crown Corporations, and SaskBonds are designed to keep more of that circulation within our borders. Lower household costs leave people with more disposable income, and stronger public and local ownership helps keep more of that income working inside Saskatchewan.
+4. **Intergenerational Equity.** The Saskatchewan Sovereignty Fund ensures that resource wealth is saved and invested for future generations, not consumed today. Bond-funded capital projects spread costs across the decades of benefit they deliver. The SSF principal is not a political reserve account to be raided when costs become inconvenient.
+5. **Fiscal Sustainability.** The platform phases in over its first decade. Early years carry the heaviest costs as institutions are created, capital is mobilized, and services expand. By Years 16–25, the system matures: capital intensity drops, recovery channels deepen, and the province settles into a more sustainable long-run operating profile. The peak year is not the permanent year.
 
 ### Baseline Context
 
-Saskatchewan's current (2025-26) fiscal position is approximately:
+Saskatchewan's 2025-26 fiscal position is already large. The provincial operating budget is roughly a C$21 billion state, and the Crown sector is already carrying a multi-billion-dollar annual utility capital program. That matters because Policy 21 is not being proposed as a one-year bolt-on to a tiny baseline. It is being proposed against a province that already manages large operating systems, large Crown balance sheets, and long-horizon infrastructure commitments.
 
-| Item | Amount ($M) |
-|---|---|
-| Total Provincial Revenue | ~$20,000 |
-| Personal Income Tax | ~$3,500 |
-| Corporate Income Tax | ~$1,100 |
-| Provincial Sales Tax (6%) | ~$3,000 |
-| Other Tax Revenue | ~$3,400 |
-| Resource Royalties | ~$2,500 |
-| Federal Transfers | ~$3,000 |
-| Crown Dividends | ~$1,500 |
-| Other Revenue | ~$2,000 |
-| **Total Spending** | **~$20,000** |
-| Health | ~$7,500 |
-| Education | ~$4,000 |
-| Social Services | ~$1,500 |
-| Infrastructure & Transport | ~$1,500 |
-| All Other | ~$5,500 |
+The correct comparison, then, is not between "normal government" and "suddenly huge government." It is between the current structure of Saskatchewan's public spending and a different 25-year structure that shifts more of that spending into housing, health, energy sovereignty, education, public assets, and household cost reduction.
 
-Population: ~1,220,000. GDP: ~$95 billion. Employed persons: ~580,000.
+### What the Platform Costs
 
-The S21P platform will approximately double the size of the provincial operating budget at full implementation, offset by approximately $8-12 billion in new annual revenues and substantial economic growth that broadens the tax base over time.
+On the current model, the Saskatchewan 21 Policies carry a 25-year net cost of approximately C$181.89 billion in the base case. The low case is approximately C$120.71 billion. The high case is approximately C$282.72 billion. Annual net cost peaks around Year 10 at roughly C$8.94 billion in the base case before declining to about C$6.47 billion by Year 25.
+
+| Scenario | 25-Year Net Cost (C$B) | Peak Annual Net Cost (C$B) | Peak Year | Year-25 Annual Net Cost (C$B) |
+|---|---|---|---|---|
+| Low | 120.71 | 5.82 | 10 | 4.60 |
+| Base | 181.89 | 8.94 | 10 | 6.47 |
+| High | 282.72 | 14.44 | 10 | 9.15 |
+
+Those numbers need to be read carefully. They do not describe a permanent annual operating increase of C$8.94 billion. They describe a long-horizon mix of one-time setup costs, gross capital buildout, gross operating expansion, and substantial built-in offsets and recoveries already modelled into the platform.
+
+| Cost Type | Low (C$B) | Base (C$B) | High (C$B) | Base Share |
+|---|---|---|---|---|
+| One-Time Setup | 1.53 | 2.08 | 3.22 | 1.15% |
+| Gross Capital | 64.24 | 105.43 | 175.39 | 57.96% |
+| Gross Operating | 104.89 | 151.17 | 235.53 | 83.11% |
+| Modeled Offsets | (49.96) | (76.79) | (131.42) | (42.22%) |
+| **Net Platform Cost** | **120.71** | **181.89** | **282.72** | **100.00%** |
+
+The platform cannot be described as one giant undifferentiated call on the General Revenue Fund. A large share of the fiscal weight is tied to assets, systems, and recoveries that have to be understood on their own terms.
+
+### Modeling Rules
+
+All figures are expressed in constant 2026 Canadian dollars over a 25-year horizon. The model uses low, base, and high scenarios to reflect real uncertainty around uptake, construction costs, delivery pace, workforce constraints, and revenue recovery.
+
+The base case includes direct policy costs and hard offsets only — explicit levies, rents, rates, royalties, contract recovery, vendor savings, and conservative cost-sharing where the policy design already provides for them. It does not depend on major lawsuit winnings, aggressive export upside, or sweeping assumptions about GDP growth. Where the political case for the platform includes plausible-but-not-yet-bankable returns, those appear later as upside scenarios rather than being smuggled into the core math.
 
 ---
 
-## Part II — Revenue Framework
+## Part II — The Fiscal Character of the Platform
 
-### A. Tax Revenue Reforms
+Government cannot pretend that all spending is the same. There is a meaningful difference between routine operating spending, social stabilization, and long-lived productive public capital. A government that borrows to cover recurring shortfalls with no structural reform is engaging in fiscally corrosive borrowing. A government that borrows to build housing stock, grid capacity, thermal systems, digital infrastructure, factories, and resilience assets is doing something fundamentally different. Those assets last. They lower future costs, generate recoveries, or increase the province's durable productive capacity.
 
-#### 1. Provincial Sales Tax (PST) Increase
-
-The PST will increase from 6% to 7%, effective the first full fiscal year.
-
-| Year | Rate | Estimated Annual Revenue Gain ($M) |
-|---|---|---|
-| Year 1 | 7% | ~$500 |
-| Year 5 | 7% | ~$590 |
-| Year 10 | 7% | ~$680 |
-| Year 20 | 7% | ~$900 |
-
-Revenue grows with nominal consumer spending. 20-year cumulative: ~$13.5 billion.
-
-#### 2. Personal Income Tax (PIT) Reform
-
-All existing bracket rates increase by +1.5 percentage points. Two new high-income brackets are created. All thresholds indexed annually to Saskatchewan CPI.
-
-| Taxable Income | Current Rate | New Rate | Change |
-|---|---|---|---|
-| $0 – $53,462 | 10.5% | 12.0% | +1.5% |
-| $53,462 – $99,287 | 12.5% | 14.0% | +1.5% |
-| $99,287 – $200,000 | 14.5% | 16.0% | +1.5% |
-| $200,000 – $500,000 | 14.5% | 16.5% | +2.0% |
-| $500,000+ | 14.5% | 17.0% | +2.5% |
-
-**New Non-Refundable Dignity Tax Credit:** Fully offsets provincial PIT on the Dignity Dividend for incomes under $50,000. Phases out between $50,000 and $100,000. Fully taxable above $100,000.
-
-**Priority Professional Tax Credit:** New tax credits for priority professions (physicians, nurses, educators, etc.), to be determined in consultation with relevant unions and boards.
-
-Estimated annual revenue gain: ~$950M at full implementation (Year 2+), growing to ~$1.5B by Year 20 with bracket creep and economic growth.
-
-**METR Safeguard:** The Minister of Finance must annually publish combined Marginal Effective Tax Rate (METR) curves. METR must not exceed 55% across the SDD phase-out range ($50,000–$100,000). If METR exceeds 55%, corrective measures must be tabled within 60 days. Published with the annual budget.
-
-#### 3. Corporate / Co-operative Income Tax Reform
-
-| Business Limit | Current Rate | New Rate | Change |
-|---|---|---|---|
-| $0 – $600,000* | 1% | 1% | 0% |
-| $600,000 – $1,200,000* | 12% | 12% | 0% |
-| $1,200,000 – $10,000,000 | 12% | 13% | +1.0% |
-| $10,000,000+ | 12% | 14% | +2.0% |
-
-*Small business rate preserved to protect small enterprises and co-operatives.*
-
-**Associated/Related Entities:** Corporations under common control are aggregated for bracket purposes. Anti-fragmentation rules apply where entities share premises, systems, branding, management, or have >25% intra-group revenue. A provincial GAAR applies to arrangements with the primary purpose of accessing lower brackets.
-
-Qualifications for Associated/Related Entity status:
-- Same 4-digit NAICS code
-- Shared branding, website, phone, advertising, or common loyalty program
-- Shared premises or equipment
-- Mostly shared employees or management
-- More than 25% intra-group revenue
-- Centralized pricing, booking, POS, or back office
-
-Businesses that are distinct with separate premises, staff, and branding are not aggregated.
-
-Estimated annual revenue gain: ~$180M at full implementation, growing to ~$300M by Year 20.
-
-#### 4. Dignity Dividend Tax Clawback
-
-The Dignity Dividend is taxable income. For earners above $100,000, it is fully taxable at their marginal rate. The graduated phase-out between $50,000 and $100,000 generates an effective partial clawback. Approximately 20-25% of gross SDD expenditure is recovered through the tax system.
-
-Estimated annual clawback recovery: ~$1.2 billion (Year 2+), growing with CPI indexation to ~$1.6B by Year 20.
-
-20-year cumulative tax clawback: ~$27 billion.
-
-### B. Universal Health Levy (UHL)
-
-See Policy 03 — Universal Health.
-
-A new payroll tax replaces existing private health insurance premiums for most workers and employers. Contribution rates are set by an independent, arm's-length board within actuarial corridors, with the mandate that the average worker and employer do not pay more overall than they do currently for health coverage.
-
-Employers are prohibited by law from clawing back the levy through wage cuts or benefit reductions.
-
-UHL revenues flow to the General Revenue Fund but by law may only be used for health spending. Annual public reporting is required on the breakdown of health funding sources.
-
-| Year | Estimated UHL Revenue ($M) |
-|---|---|
-| Year 1 | ~$610 (partial implementation) |
-| Year 2 | ~$1,450 |
-| Year 3+ | ~$2,100 (full implementation) |
-| Year 10 | ~$2,700 |
-| Year 20 | ~$3,500 |
-
-20-year cumulative: ~$52 billion.
-
-The UHL is the single largest new dedicated revenue source. It replaces private insurance premiums that Saskatchewan workers and employers are already paying. The net new burden on the economy is minimal; the money is simply redirected from private insurers to the provincial health system.
-
-### C. Resource Royalties — Complete Redesign
-
-The current royalty regime is opaque, riddled with holidays and deductions, and fails to capture fair value for Saskatchewan residents. The NCP will implement a simple, transparent, two-tier royalty system.
-
-**Base Rate:** A significantly higher floor royalty applicable to all resource extraction (potash, uranium, lithium, rare earths, oil and gas during the sunset period, and all other minerals). Target: the effective rate should capture at least 35% of economic profit.
-
-**Windfall Rate:** A variable surcharge triggered when commodity prices exceed defined thresholds, ensuring Saskatchewan residents share in super-profits. Target: effective capture of up to 49% of profit during boom periods.
-
-**Royalty Revenue Allocation:**
-- General Revenue Fund: An annual amount equal to the five-year rolling average of royalty revenue. This provides budget stability.
-- Saskatchewan Sovereignty Fund: All royalty revenue above the five-year rolling average. This captures windfall gains for future generations.
-
-**15% Floor Contribution to SSF:** Regardless of the rolling average, a minimum of 15% of all base-rate royalty revenues flows directly to the Saskatchewan Sovereignty Fund each year.
-
-**Close Existing Loopholes:** All existing royalty holidays, accelerated deductions, and potash production tax credits will be phased out over three years. No new subsidies will be granted to extractive industries.
-
-| Year | Estimated Total Resource Revenue ($M) | Vs. Current (~$2,500M) |
-|---|---|---|
-| Year 1 | ~$3,300 | +$800 |
-| Year 3 | ~$4,200 | +$1,700 |
-| Year 5 | ~$5,100 | +$2,600 |
-| Year 10 | ~$6,800 | +$4,300 |
-| Year 15 | ~$7,800 | +$5,300 |
-| Year 20 | ~$9,000 | +$6,500 |
-
-Resource revenue growth is driven by: higher effective royalty rates, new uranium mines and processing under the SNRC trilateral model (Policy 15), new lithium and rare earth extraction, potash expansion, and closure of existing loopholes. This is partially offset by the 15-year sunset of oil and gas operations (Policy 13), with non-fossil resource revenues more than compensating over time.
-
-20-year cumulative resource revenue: ~$120 billion (vs. ~$50B under current regime).
-
-### D. Energy Veterans Security Surcharge
-
-See Policy 10 — Energy Veterans.
-
-A 5.5% surcharge on all annual Saskatchewan revenues of businesses operating in specified Oil and Gas NAICS code industries. This funds the Energy Veterans pathways through the SSF.
-
-| Year | Estimated Revenue ($M) | Notes |
-|---|---|---|
-| Year 1 | ~$900 | Full O&G operations |
-| Year 5 | ~$750 | Slight decline with sunset beginning |
-| Year 10 | ~$450 | Accelerating sunset |
-| Year 15 | ~$100 | Near-complete sunset |
-| Year 20 | $0 | Sunset complete |
-
-15-year cumulative: ~$8 billion. 80% flows to the SSF; 20% to the GRF for direct Energy Veterans Agency operations.
-
-### E. Crown Corporation Dividends
-
-Every Crown Corporation shall pay the five-year rolling average of its dividend to the GRF. Dividend amounts above the five-year rolling average go to the Saskatchewan Sovereignty Fund.
-
-As new and expanded Crowns mature (SaskGrocery, STC, SNRC, SMC, SDS, SFG), dividend revenue grows substantially:
-
-| Year | Current Crowns ($M) | New Crowns ($M) | Total ($M) |
-|---|---|---|---|
-| Year 1 | ~$1,545 | $0 | ~$1,545 |
-| Year 5 | ~$1,740 | ~$300 | ~$2,040 |
-| Year 10 | ~$2,015 | ~$1,100 | ~$3,115 |
-| Year 15 | ~$2,340 | ~$2,000 | ~$4,340 |
-| Year 20 | ~$2,715 | ~$3,000 | ~$5,715 |
-
-By Year 20, the expanded Crown Corporation system is contributing nearly $6 billion annually. This is the long-term payoff of building productive public assets.
-
-### F. Other New Revenue Sources
-
-| Revenue Source | Year 1 ($M) | Year 5 ($M) | Year 10 ($M) | Year 20 ($M) |
+| Fiscal Character | Included Policies | Base 25-Year Net Cost (C$B) | Share | What It Means |
 |---|---|---|---|---|
-| Vacancy Tax + Dormant Land Tax | 30 | 95 | 120 | 160 |
-| Dormant Mineral Lease Tax | 25 | 100 | 120 | 150 |
-| Value-Add Levy (raw export) | 0 | 130 | 190 | 250 |
-| Film/TV Production Tax Credit (cost) | (15) | (30) | (35) | (45) |
-| **Net Other Revenue** | **40** | **295** | **395** | **515** |
+| Productive capital and public asset buildout | 05, 06, 14, 15, 16, 19, 20 | 102.12 | 56.14% | Long-lived public assets, utilities, factories, resilience infrastructure, housing stock, and other systems that either reduce future costs or create long-run revenue capacity. |
+| Necessary operating state expansion | 02, 03, 04, 07, 08, 09, 10, 11, 12, 18 | 76.55 | 42.09% | Core program expansion in health, education, income security, labour standards, reconciliation, public safety, and democratic institutions. |
+| Institutional balance-sheet architecture | 17 | 2.68 | 1.47% | The SSF and SFG reshape the province's treasury and wealth architecture. |
+| Foundational governance and rights | 01, 13 | 0.54 | 0.29% | Rights, enforcement, and climate-accountability architecture with limited direct fiscal weight. |
+
+More than half of the platform's net 25-year cost sits in productive capital and public asset buildout. That distinction matters. Not every public asset becomes a profit centre — some investments are justified because they reduce long-run harm, stabilize households, and make the province more governable and productive over time. Universal healthcare, anti-poverty policy, reconciliation, and democratic renewal cannot be forced into a crude "cash return" frame to be defensible.
+
+The fiscal goal of the platform is not austerity. It is to build a province with lower recurring social harm, stronger public capacity, more in-province ownership, and a larger share of long-run value retained in Saskatchewan.
+
+---
+
+## Part III — Cost Concentration: Where the Real Argument Is
+
+Most of the platform's cost is concentrated in a relatively small number of major projects. That concentration is politically useful as well as fiscally important. It means the platform is not 21 random spending commitments piled on top of each other. It is a smaller number of very large state-building projects, surrounded by a broader set of moderate reforms, institutional changes, and targeted supports.
+
+### Major Cost Drivers
+
+| Policy | Base 25-Year Net Cost (C$B) | Share | Base Peak Annual (C$B) | What Drives Cost |
+|---|---|---|---|---|
+| 05 — Housing Crisis | 40.95 | 22.51% | 1.86 | SaskHomes capital build, housing operations, repairs, acquisitions, retrofit support |
+| 03 — Universal Health | 34.15 | 18.78% | 1.86 | Workforce compensation reset, phased coverage expansion, LTC conversion |
+| 15 — Resource & Energy Sovereignty | 30.90 | 16.99% | 2.19 | Grid modernization, reactor buildout, renewable expansion, public equity participation |
+| 12 — Lifelong Learning | 23.75 | 13.06% | 1.06 | K-12 operating uplift, universal pre-K, school meals, post-secondary expansion |
+| 06 — Connected Communities | 9.18 | 5.04% | 0.66 | Thermal utility networks, municipal infrastructure grants, STC revival |
+| 14 — Food Sovereignty | 7.59 | 4.17% | 0.40 | RRMP support, soil-health supports, Farmland Trust, SaskGrocery rollout |
+| 09 — Fair Labour | 6.46 | 3.55% | 0.30 | Sick-day tax credit, SME transition support, public-employer adaptation |
+
+Housing alone accounts for roughly 22.5% of the platform's base 25-year cost. Universal Health accounts for about 18.8%. Resource and Energy Sovereignty accounts for about 17%. Lifelong Learning accounts for about 13.1%. Together, those four policies make up over 70% of the fiscal picture.
+
+That tells the public where the real argument is. The debate is not mainly about whether a small agency should cost a few million dollars more or less. The debate is about whether Saskatchewan is willing to build public housing at scale, expand health coverage, remake its energy system, rebuild education, and modernize core infrastructure over a generation.
+
+### Full Policy Cost Summary
+
+| Policy | Low 25-Year Net (C$B) | Base 25-Year Net (C$B) | High 25-Year Net (C$B) | Base Peak Annual (C$B) | Peak Year | One-Time Setup (C$M) |
+|---|---|---|---|---|---|---|
+| 01 — Human Dignity | 0.05 | 0.08 | 0.13 | 0.00 | 1 | 1.5 |
+| 02 — Saskatchewan Social Security | (0.44) | 2.73 | 8.77 | 0.12 | 3 | 25 |
+| 03 — Universal Health | 29.66 | 34.15 | 50.68 | 1.86 | 10 | 870 |
+| 04 — Reconciliation | 0.58 | 1.05 | 1.83 | 0.04 | 2 | 5 |
+| 05 — Housing Crisis | 29.32 | 40.95 | 56.37 | 1.86 | 9 | 38 |
+| 06 — Connected Communities | 5.43 | 9.18 | 14.84 | 0.66 | 5 | 15 |
+| 07 — Public Safety | 1.55 | 2.63 | 4.92 | 0.11 | 4 | 8 |
+| 08 — Co-operative Development | 0.27 | 0.51 | 0.94 | 0.03 | 3 | 25 |
+| 09 — Fair Labour | 3.96 | 6.46 | 11.67 | 0.30 | 3 | 22 |
+| 10 — Energy Veterans | 1.00 | 1.64 | 2.72 | 0.12 | 16 | 8 |
+| 11 — Century Corps | 1.11 | 2.10 | 3.11 | 0.09 | 9 | 15 |
+| 12 — Lifelong Learning | 15.38 | 23.75 | 38.02 | 1.06 | 10 | 157 |
+| 13 — Climate Crossroads | 0.32 | 0.46 | 0.65 | 0.06 | 3 | 95 |
+| 14 — Food Sovereignty | 3.89 | 7.59 | 14.82 | 0.40 | 5 | 67 |
+| 15 — Resource & Energy Sovereignty | 18.29 | 30.90 | 42.69 | 2.19 | 17 | 90 |
+| 16 — Digital Sovereignty | 2.41 | 4.01 | 6.90 | 0.35 | 6 | 15 |
+| 17 — Financial Sovereignty | 1.78 | 2.68 | 4.28 | 0.53 | 1 | 573 |
+| 18 — Democratic Renewal | 0.77 | 1.53 | 2.70 | 0.09 | 5 | 8 |
+| 19 — Manufacturing | 3.15 | 5.34 | 9.02 | 0.56 | 5 | 35 |
+| 20 — Disaster Resilience | 2.21 | 4.16 | 7.67 | 0.39 | 6 | 12 |
+
+Notes:
+- Policy 02 goes slightly negative in the low case because modelled replacement of current provincial programs outweighs new expansion costs under low uptake assumptions.
+- These are net policy totals, not gross program totals. Modelled offsets and recoveries are already subtracted.
+- The low, base, and high cases are cost scenarios reflecting real uncertainty. The low case is not a promise of effortless affordability. The high case is not a prediction of failure.
+
+---
+
+## Part IV — Policy-by-Policy Context
+
+The following sections provide context for each policy's fiscal weight. Detailed component-level costing lives within each policy document. What follows here is the fiscal logic: what drives the cost, what offsets are already built in, and what the money builds.
+
+### Policy 1 — Human Dignity Act
+
+**Base 25-year net cost: C$0.08B.** Minimal ongoing cost. The Human Dignity Act is a legislative framework, not a spending program. Costs are limited to expanding the Saskatchewan Human Rights Commission's capacity and funding legal expertise for Act drafting. Democracy and rights are foundational public goods.
+
+### Policy 2 — Saskatchewan Social Security
+
+**Base 25-year net cost: C$2.73B | Low: (C$0.44B) | High: C$8.77B.** The SSS replaces a substantial share of existing provincial income support programs. The offset from those replaced programs — approximately C$17.30B over 25 years — is already modelled in the base case. At full implementation, gross SSS payments are large, but the net fiscal cost is substantially reduced by program replacement and the graduated tax clawback.
+
+The SSS should have a strong local-demand effect because lower-income households tend to spend additional income quickly on necessities inside the real economy. But the base case does not rely on multiplier effects to close the gap — those belong in the conservative feedback or upside scenarios.
+
+**METR Safeguard:** The Minister of Finance must annually publish combined Marginal Effective Tax Rate (METR) curves. METR must not exceed 55% across the SSS phase-out range. If METR exceeds 55%, corrective measures must be tabled within 60 days and published with the annual budget.
+
+### Policy 3 — Universal Health
+
+**Base 25-year net cost: C$34.15B | Low: C$29.66B | High: C$50.68B.** This is the second-largest policy by cost. The main drivers are the workforce compensation reset (bringing health worker wages to competitive levels), phased coverage expansion (pharmacare, dental, vision, mental health, hearing, home and community care), and long-term care conversion.
+
+The Universal Health Levy — a new payroll tax replacing existing private health insurance premiums — is already modelled as a C$13.33B offset over 25 years. The UHL is the single largest dedicated revenue source in the platform. Its purpose is to replace costs many workers and employers are already bearing privately, with those funds redirected into the provincial health system. Employers are prohibited by law from clawing back the levy through wage cuts or benefit reductions.
+
+**Economic Returns:** Universal pharmacare, mental-health expansion, dental care, and earlier intervention should reduce downstream emergency, justice, and employer cost pressures over time. But those savings are lagged and unevenly timed — they belong in the conservative feedback case, not the hard base case.
+
+### Policy 4 — Reconciliation
+
+**Base 25-year net cost: C$1.05B | Low: C$0.58B | High: C$1.83B.** This covers the Reconciliation Commissioner Office, MMIWG2S Office, consent-process capacity funding, TRC and UNDRIP implementation capacity across government, Crown land right-of-first-refusal administration, and the public-sector cost of the National Day for Truth and Reconciliation. The current base model does not rely on early SSF disbursements to fund reconciliation, because the SSF is treated as a true long-term fund rather than a short-run spending pool. Reconciliation is a foundational public good and is defended on its merits, not on its cash return.
+
+### Policy 5 — Housing Crisis
+
+**Base 25-year net cost: C$40.95B | Low: C$29.32B | High: C$56.37B.** The largest single policy in the platform. The main cost drivers are the SaskHomes capital build, housing operations and maintenance, the Rapid Rebuild program, and retrofit support. The large-scale public housing build is bond-funded through SaskBonds (see Part VII). Rental revenue retained within the housing system is modelled as a C$13.50B offset over 25 years.
+
+The housing buildout is spread across the full 25-year horizon rather than front-loaded unrealistically. Each phase proves the asset before the next tranche of bonds is issued. Rental revenue is retained inside the public housing system, and the SSS is designed to reduce arrears risk by maintaining a social-income floor.
+
+### Policy 6 — 21st Century Connected Communities
+
+**Base 25-year net cost: C$9.18B | Low: C$5.43B | High: C$14.84B.** Covers STC operations, municipal grants for transit and walkability, HSR planning, and thermal utility network operations. Geothermal ambient loop capital, SaskTel fibre deployment, and STC depot construction are bond-funded and Crown-financed. Thermal-service and on-bill capital recovery (C$2.48B) and municipal/federal infrastructure cost-sharing (C$1.01B) are already modelled as offsets.
+
+Operating costs for SaskEnergy thermal and SaskTel fibre are offset by customer tariffs and service revenues. The thermal networks and municipal buildout proceed in phases tied to readiness, not political calendars.
+
+### Policy 7 — Public Safety
+
+**Base 25-year net cost: C$2.63B | Low: C$1.55B | High: C$4.92B.** Community Crisis Officers and 24/7 Addictions Centres are the main cost drivers. The redirected Saskatchewan Marshals budget (C$0.50B over 25 years) is already modelled as an offset. Similar alternative-response programs elsewhere suggest real downstream savings are possible, but those savings belong in the conservative feedback case rather than the hard base case.
+
+### Policy 8 — Co-operative Development
+
+**Base 25-year net cost: C$0.51B | Low: C$0.27B | High: C$0.94B.** Low-cost, high-return. SCDA operations net of brokerage fee revenue. Every worker co-op created broadens the tax base and keeps profit local. The fiscal weight here is small relative to the rest of the platform.
+
+### Policy 9 — Fair Labour
+
+**Base 25-year net cost: C$6.46B | Low: C$3.96B | High: C$11.67B.** The main drivers are the provincial sick-day tax credit, SME transition grants (temporary and deliberately front-loaded), Fair Work Authority operations, SaskJobs expansion, and apprenticeship and employer-support incentives.
+
+The 30-hour work week does not have a direct government cost but has substantial economic implications. The SME transition grants are temporary — they sunset by design and do not silently become permanent entitlements. The provincial sick-day share costs real money but reduces workplace illness transmission, improves productivity, and prevents the economic losses from presenteeism.
+
+### Policy 10 — Energy Veterans
+
+**Base 25-year net cost: C$1.64B | Low: C$1.00B | High: C$2.72B.** Funded primarily through the Energy Veterans sector transition levy (C$0.70B modelled offset). The program covers bonuses, debt shield, pension bridge payments, retraining, wage top-ups, and EVA operations. It sunsets after 15 years. The fiscal logic is straightforward: it is cheaper to transition skilled workers into new employment than to absorb long-tail unemployment, debt distress, and community decline.
+
+### Policy 11 — Saskatchewan Century Corps
+
+**Base 25-year net cost: C$2.10B | Low: C$1.11B | High: C$3.11B.** The SCC is both a spending program and a revenue generator. Its contract work — ambient loop installation, SaskHomes construction, grid modernization, fibre deployment — would otherwise be contracted to private firms at higher cost. SCC contract revenue from Standing Master Agreements is modelled as a C$3.45B offset over 25 years. Workers who leave the Corps with recognized skills, trade hours, and stable work histories strengthen the province's long-run tax base well beyond the direct contract recovery already counted here.
+
+### Policy 12 — Lifelong Learning
+
+**Base 25-year net cost: C$23.75B | Low: C$15.38B | High: C$38.02B.** The fourth-largest policy. Cost drivers include K-12 per-student operating uplift, universal pre-K, school meals, educator compensation, post-secondary statutory increase, SARPA research, arts funding, SaskDLC, library expansion, and capacity expansion. The long-run justification is stronger workforce quality, lower remediation pressure, and higher lifetime productivity. But those returns arrive slowly and diffusely — they are too long-horizon for aggressive early counting in the base case.
+
+### Policy 13 — Climate Crossroads
+
+**Base 25-year net cost: C$0.46B | Low: C$0.32B | High: C$0.65B.** Covers the SEEA, Climate Lawsuit legal costs, cleanup-bond enforcement, and related climate-accountability administration. The fossil-fuel subsidy and incentive termination savings (C$0.60B) are already modelled as an offset. The Climate Lawsuit is a speculative but potentially transformative revenue source. If successful, proceeds flow to the SSF. This projection does **not** include lawsuit proceeds in the revenue baseline — they are treated as non-core upside. If the lawsuit produces nothing, nothing changes. If it produces anything, it is all upside.
+
+### Policy 14 — Food Sovereignty
+
+**Base 25-year net cost: C$7.59B | Low: C$3.89B | High: C$14.82B.** Covers SAB operations, margin insurance, SaskGrocery operations, Farmland Trust, and logistics buildout. Capital costs for hopper cars, inland terminals, grocery rollout, and related logistics assets are bond-funded. SaskGrocery approaches system-wide break-even in the medium term but retains a geographic parity subsidy to ensure identical Essential Basket pricing province-wide. Grocery margins, lease repayments, and logistics recovery reduce the net cost over time.
+
+### Policy 15 — Resource and Energy Sovereignty
+
+**Base 25-year net cost: C$30.90B | Low: C$18.29B | High: C$42.69B.** The third-largest policy by cost and the most capital-intensive. Covers SNRC operations, SaskPower expansion, grid modernization, reactor buildout, renewable expansion, public equity participation, and EV charging infrastructure.
+
+Incremental royalty, windfall levy, dormant lease, and value-add revenues are modelled as a C$13.50B offset. Expanded electricity sales and rate-backed recovery add another C$2.85B. Early public-ownership dividends and equity earnings add C$2.70B. These are already in the base case.
+
+Reactors, grid expansion, and major energy buildout must be phased and gated through decision stages. The biggest commitments proceed through readiness gates rather than being treated as all-or-nothing instant obligations. By the platform's later years, SNRC and SaskPower operations generate substantial revenue — but the base case remains conservative about when that revenue materializes.
+
+### Policy 16 — Digital Sovereignty
+
+**Base 25-year net cost: C$4.01B | Low: C$2.41B | High: C$6.90B.** Covers SDS operations, SaskStack development, and digital migration. Reduced external vendor spend and platform consolidation savings (C$1.00B) are already modelled. Digital sovereignty is a cost-reduction strategy in the medium term: eliminating vendor lock-in, licence fees, and American cloud hosting saves real money. Migration should be paced to avoid disruption and duplicate spend.
+
+### Policy 17 — Financial Sovereignty
+
+**Base 25-year net cost: C$2.68B | Low: C$1.78B | High: C$4.28B.** The SSF seed capital and SFG operations. SFG treasury income, wholesale spreads, and service-fee recovery (C$0.66B) are already modelled. The SSF and SFG are not ordinary spending programs. They reshape the province's treasury and wealth architecture. The SSF principal generates compounding returns for generations. The SFG operates from its own capital and investment returns.
+
+### Policy 18 — Democratic Renewal
+
+**Base 25-year net cost: C$1.53B | Low: C$0.77B | High: C$2.70B.** This covers MMP implementation, Elections Saskatchewan expansion, election-week delivery costs, mandatory-voting administration, ethics and political-finance enforcement, CodeShare Civics, legislative digitization, and civic outreach. Democratic renewal is fiscally modest relative to the largest social and capital planks in the platform, and it is defended as a foundational public good.
+
+### Policy 19 — Manufacturing
+
+**Base 25-year net cost: C$5.34B | Low: C$3.15B | High: C$9.02B.** SMC operations net of factory revenue. Factories should be sequenced by supply-chain readiness and public demand. As factories reach full production — SaskHomes modules, heat pump assemblies, food processing, uranium fuel fabrication — revenue covers a growing share of costs. Third-party sales, processing margins, and internal Crown demand provide recovery channels.
+
+### Policy 20 — Disaster Resilience
+
+**Base 25-year net cost: C$4.16B | Low: C$2.21B | High: C$7.67B.** Resilience hub upgrades, islandable power for critical sites, and SPSA operations. Federal resilience and mitigation cost-sharing (C$0.84B) is already modelled. This is front-loaded investment that declines as hardening is completed. Its fiscal logic is avoided loss: lower disaster disruption, lower emergency-response pressure, and lower rebuilding costs over time. Retrofit and backup-power rollout is staged by risk and facility type.
+
+---
+
+## Part V — Time Phasing: When the Money Flows
+
+The time profile of the platform matters just as much as the total number. This is one of the most important interpretive points in the whole document. The peak year is not the permanent year. Early rollout costs are not the mature-state costs. A platform that builds housing stock, energy systems, public factories, resilience infrastructure, and healthcare capacity should not be judged as if its construction years and its mature operating years are fiscally identical.
+
+| Period | Low Avg Annual (C$B) | Base Avg Annual (C$B) | High Avg Annual (C$B) | What Is Happening |
+|---|---|---|---|---|
+| Years 1–5 | 3.34 | 5.27 | 8.67 | Legal setup, institutional creation, early rollout, early capital mobilization |
+| Years 6–10 | 5.35 | 8.28 | 13.43 | Main peak buildout period |
+| Years 11–15 | 5.52 | 8.42 | 13.25 | Heavy but more mature system expansion |
+| Years 16–20 | 5.33 | 7.94 | 12.05 | Capital taper begins, recoveries deepen, large systems mature |
+| Years 21–25 | 4.61 | 6.47 | 9.15 | Mature-state operating profile with lower capital intensity |
+
+The first decade will be hard. The costs are real. But so are the homes, the hospitals, the factories, the geothermal loops, the nuclear reactors, the schools, the grocery stores, and the thousands of families with a stable place to live.
+
+The phasing also makes clear why optimism has to be disciplined. The best long-run case for the platform depends on surviving the heavy middle years without pretending they are easy. If Policy 21 is honest about that, it becomes stronger, not weaker.
+
+---
+
+## Part VI — Funding Lanes
+
+Because the platform is not one kind of spending, it cannot be funded through one kind of revenue. Policy 21 uses separate funding lanes, each matched to the fiscal character of what it funds.
+
+### A. Core GRF and Tax-Supported Operating State
+
+**What it funds:** Income security, health operations, education operations, public administration, labour enforcement, democracy, reconciliation, safety.
+**Policies:** 02, 03, 04, 07, 08, 09, 10, 11, 12, 18.
+**Instruments:** Income taxes, PST, federal transfers, ordinary provincial revenue.
+**Why it fits:** These are core public functions and should be financed as core public functions.
+
+#### General Revenue Approach
+
+The current cost model does not hard-code a full province-wide PIT, CIT, and PST reform table into the base case. Instead, it assumes these core operating functions are financed through Saskatchewan's ordinary tax base, federal transfers, and annual budget decisions taken by future governments within the fiscal guardrails of Policy 21.
+
+That is the more honest approach at this stage. A future government may choose a more progressive tax package, a broader base, narrower credits, or other general-revenue reforms. But those choices should be published and costed transparently in the budget that actually proposes them, rather than buried here as false precision.
+
+### B. Dedicated Levies and Earmarked Revenue
+
+**What it funds:** Policy-linked recurring revenue streams tied to the sector or system being expanded.
+**Policies:** 03, 10, 15, parts of 17.
+**Instruments:** Universal Health Levy, transition levies, resource royalties, windfall levies, dormant lease taxes, value-add levies.
+**Why it fits:** These revenues are more credible than vague future growth because they are explicitly tied to policy design.
+
+**Universal Health Levy (UHL):** See Policy 03. A new payroll tax replacing existing private health insurance premiums. Modelled 25-year recovery: C$13.33B. Contribution rates set by an independent, arm's-length board within actuarial corridors.
+
+**Resource Royalties and Levies — Complete Redesign:** The current royalty regime is opaque, riddled with holidays and deductions, and fails to capture fair value for Saskatchewan residents. Policy 15 assumes a materially stronger royalty, windfall levy, dormant-lease, and value-add framework than exists today. The model carries C$13.50B in incremental 25-year resource revenue from those reforms. The exact legal design should be set transparently in the Resource Sovereignty Act rather than hidden in ad hoc incentive programs and deductions.
+
+**Energy Veterans Security Surcharge:** See Policy 10. A surcharge on Saskatchewan O&G industry revenues. Modelled 25-year recovery: C$0.70B. Sunsets with the O&G operational sunset.
+
+### C. Crown / Utility Borrowing with Rate-Backed Recovery
+
+**What it funds:** Utility systems, thermal networks, grid expansion, digital hosting infrastructure.
+**Policies:** 06, 15, parts of 16.
+**Instruments:** Crown borrowing, utility debt, on-bill recovery, electricity sales, service charges.
+**Why it fits:** These are long-lived assets with recoverable revenue streams and should not be treated as ordinary GRF spending.
+
+The base case models Crown and utility recoveries conservatively through specific channels already identified in the policy cost model: thermal-service recovery, electricity sales, rate-backed utility recovery, vendor savings, and limited treasury earnings. It does not assume automatic excess-dividend formulas from every Crown, and it does not rely on aggressive early profitability from new public enterprises.
+
+### D. SaskBonds and Long-Dated Public Capital Borrowing
+
+**What it funds:** Public housing, factories, resilience retrofits, logistics assets, grocery infrastructure.
+**Policies:** 05, 14, 19, 20.
+**Instruments:** SaskBonds, long-term capital borrowing, project-based public debt.
+**Why it fits:** This is the clearest case for productive debt — long-lived public assets delivering benefits for decades.
+
+See Part VII for the full SaskBonds structure.
+
+### E. Enterprise Revenues and User Recoveries
+
+**What it funds:** Internal recoveries and retained revenue from public systems.
+**Policies:** 05, 06, 11, 14, 15, 16, 19.
+**Instruments:** Rents, thermal-service charges, contract revenue, vendor savings, public-enterprise sales, utility revenue.
+**Why it fits:** These lower the long-run net cost of the platform without pretending the systems are free.
+
+### F. Intergenerational Wealth Architecture
+
+**What it funds:** Wealth preservation, treasury retention, long-run financial resilience.
+**Policy:** 17.
+**Instruments:** SSF contributions, SFG treasury retention, later SSF payout capacity.
+**Why it fits:** This is balance-sheet architecture, not ordinary day-to-day program financing.
 
 ### G. Federal Transfers
 
-Federal transfers currently sit at approximately $3 billion annually and grow with population and inflation. The NCP will pursue expanded Canada Health Transfers to reflect Saskatchewan's expanded health coverage, and will negotiate in good faith for additional infrastructure and reconciliation funding.
-
-Conservative assumption: 3.5% annual growth in base transfers, with a 5% uplift beginning Year 4 from successful health transfer negotiations.
-
-| Year | Estimated Federal Transfers ($M) |
-|---|---|
-| Year 1 | ~$3,105 |
-| Year 5 | ~$3,670 |
-| Year 10 | ~$4,475 |
-| Year 20 | ~$6,650 |
-
-### H. Saskatchewan Sovereignty Fund — Interest Disbursements
-
-See Policy 17 — Financial Sovereignty.
-
-As the SSF grows from its $500M seed and ongoing resource royalty contributions, its annual interest disbursements become a material revenue source for the GRF. Target real return: 4-5% annually.
-
-| Year | SSF Principal ($M) | Annual Interest ($M) | SDD Share (54%) | Reconciliation (15%) | Resilience/EV (15%) | Debt (10%) | Strategic (5%) |
-|---|---|---|---|---|---|---|---|
-| Year 1 | ~$1,600 | ~$72 | $39 | $11 | $11 | $7 | $4 |
-| Year 5 | ~$8,400 | ~$378 | $204 | $57 | $57 | $38 | $19 |
-| Year 10 | ~$22,300 | ~$1,004 | $542 | $151 | $151 | $100 | $50 |
-| Year 15 | ~$33,400 | ~$1,503 | $812 | $225 | $225 | $150 | $75 |
-| Year 20 | ~$47,700 | ~$2,017 | $1,089 | $303 | $303 | $202 | $101 |
-
-By Year 20, the SSF alone generates over $2 billion annually in interest disbursements, with over $1 billion directed to the Dignity Dividend. This is the intergenerational endowment at work.
-
-### Revenue Summary — 20-Year Projection
-
-| Revenue Category | Year 1 ($M) | Year 5 ($M) | Year 10 ($M) | Year 20 ($M) |
-|---|---|---|---|---|
-| Personal Income Tax (incl. new rates) | 4,100 | 5,400 | 7,100 | 10,600 |
-| Corporate Income Tax (incl. new rates) | 1,280 | 1,600 | 2,000 | 2,900 |
-| PST (at 7%) | 3,500 | 4,100 | 4,750 | 6,400 |
-| Other Tax Revenue | 3,400 | 3,950 | 4,450 | 5,800 |
-| Resource Royalties | 3,300 | 5,100 | 6,800 | 9,000 |
-| Federal Transfers | 3,100 | 3,670 | 4,475 | 6,650 |
-| Crown Corp Dividends | 1,545 | 2,040 | 3,115 | 5,715 |
-| Universal Health Levy | 610 | 2,250 | 2,700 | 3,500 |
-| EV Surcharge | 900 | 750 | 450 | 0 |
-| SDD Tax Clawback | 600 | 1,320 | 1,520 | 1,960 |
-| Vacancy/Dormant/Value-Add | 55 | 325 | 430 | 560 |
-| SSF Interest Disbursements | 72 | 378 | 1,004 | 2,017 |
-| Other Revenue | 2,000 | 2,320 | 2,690 | 3,610 |
-| **Total Revenue** | **~$24,462** | **~$33,203** | **~$41,484** | **~$58,712** |
+Federal transfers remain a major standing revenue source for Saskatchewan, and the NCP will pursue expanded Canada Health Transfers and additional infrastructure, resilience, and reconciliation support where available. But the current model is deliberately conservative about additional federal participation. Only explicit cost-sharing already attached to specific policies is counted in the base case.
 
 ---
 
-## Part III — Expenditure Framework
+## Part VII — The Capital Budget: SaskBonds
 
-### Operating Budget — Policy-by-Policy Costing
-
-The following tables present the estimated **incremental** cost of each policy above existing baseline spending. Baseline spending (current programs continued at current service levels, growing with inflation and population at ~3.5% annually) is shown separately.
-
-#### Policy 1 — Human Dignity Act
-
-| Component | Year 1 ($M) | Year 5 ($M) | Year 10 ($M) | Year 20 ($M) |
-|---|---|---|---|---|
-| SHRC Expansion & Act Drafting | 5 | 12 | 15 | 20 |
-| **Total** | **5** | **12** | **15** | **20** |
-
-Minimal ongoing cost. The Human Dignity Act is a legislative framework, not a spending program. Costs are limited to expanding the Saskatchewan Human Rights Commission's capacity and funding legal expertise for Act drafting.
-
-#### Policy 2 — Saskatchewan Dignity Dividend (SDD)
-
-| Component | Year 1 ($M) | Year 5 ($M) | Year 10 ($M) | Year 20 ($M) |
-|---|---|---|---|---|
-| Gross SDD Payments | 2,660 | 5,580 | 6,500 | 8,800 |
-| Less: Tax Clawback (see revenue) | (600) | (1,320) | (1,520) | (1,960) |
-| Less: SSF Interest (SDD share) | (39) | (204) | (542) | (1,089) |
-| **Net Fiscal Cost** | **~2,020** | **~4,056** | **~4,438** | **~5,751** |
-
-Year 1 is partial (July 1 start). Gross cost grows with population (~1.5% annually) and CPI indexation (2.5%). The net cost narrows over time as the SSF matures and its SDD-earmarked interest grows, and as the tax clawback recovers more from rising incomes.
-
-At $350/month (2027 dollars), this is $4,200 per resident per year. For a family of four, that is $16,800 per year — a transformative income floor.
-
-**Fiscal Multiplier Effect:** The SDD has a fiscal multiplier estimated at 0.8-1.2. Low-income recipients spend nearly 100% of the transfer locally, generating sales tax revenue, local business revenue, and economic activity. The velocity of money effect is strong: $1 of SDD spending circulates multiple times through the Saskatchewan economy before leaving the province.
-
-#### Policy 3 — Universal Health
-
-| Component | Year 1 ($M) | Year 5 ($M) | Year 10 ($M) | Year 20 ($M) |
-|---|---|---|---|---|
-| Pharmacare | 200 | 660 | 770 | 990 |
-| Oral Health / Dental | 150 | 550 | 640 | 820 |
-| Vision Care | 50 | 165 | 190 | 245 |
-| Mental Health & Addictions | 100 | 385 | 450 | 575 |
-| Hearing Care | 20 | 83 | 95 | 125 |
-| Home & Community Care | 100 | 440 | 510 | 655 |
-| 25% Wage Increase (all health workers) | 400 | 1,100 | 1,280 | 1,640 |
-| Recruitment Bonuses ($15K, one-time) | 500 | 0 | 0 | 0 |
-| Medical Student Tuition & Living | 50 | 165 | 190 | 245 |
-| **Total Health Incremental** | **~1,570** | **~3,548** | **~4,125** | **~5,295** |
-| **Less: UHL Revenue** | **(610)** | **(2,250)** | **(2,700)** | **(3,500)** |
-| **Net GRF Health Cost** | **~960** | **~1,298** | **~1,425** | **~1,795** |
-
-The UHL covers approximately 60-65% of incremental health costs. The remaining 35-40% comes from the General Revenue Fund, federal health transfers, and efficiency gains from eliminating private insurance administrative overhead (estimated at 15-20% of private premiums vs. 2-3% for single-payer administration).
-
-**Economic Returns:** Universal pharmacare alone is estimated to save the economy $200-400M annually through bulk purchasing power and reduced employer insurance costs. Mental health investment reduces downstream criminal justice and emergency health costs. Dental coverage prevents expensive acute care.
-
-#### Policy 4 — Reconciliation
-
-| Component | Year 1 ($M) | Year 5 ($M) | Year 10 ($M) | Year 20 ($M) |
-|---|---|---|---|---|
-| Reconciliation Commissioner Office | 15 | 20 | 25 | 35 |
-| MMIWG2S Office | 15 | 20 | 25 | 35 |
-| Consent Protocol Capacity Funding | 20 | 50 | 60 | 80 |
-| TLE and Cultural Revitalization | 0 | 80 | 100 | 130 |
-| SSF Reconciliation Ring-Fence (15%) | (from SSF) | 57 | 151 | 303 |
-| **Total GRF Cost** | **~50** | **~170** | **~210** | **~280** |
-
-Plus SSF reconciliation disbursements growing from $11M (Year 1) to $303M (Year 20). Total reconciliation investment over 20 years: ~$6+ billion.
-
-#### Policy 5 — Housing Crisis
-
-| Component | Year 1 ($M) | Year 5 ($M) | Year 10 ($M) | Year 20 ($M) |
-|---|---|---|---|---|
-| Rapid Rebuild Program | 300 | 345 | 255 | 0 |
-| SHC Operations & Maintenance | 105 | 160 | 260 | 450 |
-| SGI Renters/Housing Insurance | 20 | 23 | 27 | 35 |
-| Retrofit Loan Interest Subsidy | 0 | 50 | 80 | 60 |
-| **Total GRF Cost** | **~425** | **~578** | **~622** | **~545** |
-
-The large-scale 100,000-unit SaskHomes build is **bond-funded** (see Capital Budget below) and does not appear in the operating budget. Rental revenues from public housing service the bonds. The GRF costs here are for immediate repair, SHC operations, and programs that cannot be bond-funded.
-
-#### Policy 6 — 21st Century Connected Communities
-
-| Component | Year 1 ($M) | Year 5 ($M) | Year 10 ($M) | Year 20 ($M) |
-|---|---|---|---|---|
-| STC Operations (net of revenue) | 90 | 230 | 250 | 280 |
-| Municipal Grants (transit, walkability) | 200 | 460 | 510 | 655 |
-| HSR Planning & Corridor Protection | 20 | 57 | 64 | 82 |
-| **Total GRF Cost** | **~310** | **~747** | **~824** | **~1,017** |
-
-Geothermal ambient loop capital, SaskTel fibre deployment, and STC depot construction are **bond-funded**. Operating costs for SaskEnergy thermal and SaskTel fibre are offset by customer tariffs and service revenues.
-
-#### Policy 7 — Public Safety
-
-| Component | Year 1 ($M) | Year 5 ($M) | Year 10 ($M) | Year 20 ($M) |
-|---|---|---|---|---|
-| Community Crisis Officers | 80 | 220 | 255 | 330 |
-| 24/7 Addictions Centres | 100 | 330 | 385 | 490 |
-| Less: Marshal Budget Redirected | (20) | (23) | (27) | (35) |
-| **Total** | **~160** | **~527** | **~613** | **~785** |
-
-Addictions Centres funded primarily through the UHL (health spending). Net GRF cost for CCOs is partially offset by reduced police overtime, emergency room visits, and criminal justice costs. Studies of similar programs (CAHOOTS in Eugene, Oregon; STAR in Denver) show 30-50% reductions in police dispatch for targeted call types.
-
-#### Policy 8 — Co-operative Development
-
-| Component | Year 1 ($M) | Year 5 ($M) | Year 10 ($M) | Year 20 ($M) |
-|---|---|---|---|---|
-| SCDA Operations | 15 | 30 | 35 | 45 |
-| Less: Brokerage Fee Revenue | 0 | (5) | (10) | (15) |
-| **Total GRF Cost** | **~15** | **~25** | **~25** | **~30** |
-
-Low-cost, high-return. Every worker co-op created broadens the tax base and keeps profit local.
-
-#### Policy 9 — Fair Labour
-
-| Component | Year 1 ($M) | Year 5 ($M) | Year 10 ($M) | Year 20 ($M) |
-|---|---|---|---|---|
-| Fair Work Authority | 50 | 92 | 105 | 135 |
-| SaskJobs Expansion | 40 | 86 | 95 | 125 |
-| SME Transition Grants (4 yrs) | 350 | 0 | 0 | 0 |
-| Provincial Sick Day Share (7.5 days) | 0 | 340 | 385 | 490 |
-| Apprenticeship Tax Credits | 0 | 50 | 60 | 80 |
-| **Total** | **~440** | **~568** | **~645** | **~830** |
-
-The 30-hour work week does not have a direct government cost but has substantial economic implications modelled in Part V. The SME transition grants are temporary (4 years) and deliberately front-loaded.
-
-**Provincial Sick Day Share:** The province covers the first 7.5 sick days per employee per year via payroll tax credits. This costs ~$300-500M annually but reduces workplace illness transmission, improves productivity, and prevents the economic losses from presenteeism (estimated at 2-3× the cost of absenteeism).
-
-#### Policy 10 — Energy Veterans
-
-| Component | Year 1 ($M) | Year 5 ($M) | Year 10 ($M) | Year 20 ($M) |
-|---|---|---|---|---|
-| $15K Bonuses | 38 | 30 | 30 | 0 |
-| Debt Shield (interest reimbursement) | 20 | 16 | 16 | 0 |
-| Pension Bridge Payments | 63 | 50 | 50 | 0 |
-| Retraining (tuition + wage replacement) | 60 | 48 | 48 | 0 |
-| Wage Top-Ups (Redeploy) | 11 | 9 | 9 | 0 |
-| EVA Operations | 30 | 34 | 39 | 0 |
-| **Total** | **~222** | **~187** | **~192** | **$0** |
-
-Funded through the EV Surcharge → SSF → GRF ring-fenced disbursement. The program sunsets after 15 years. Approximately 30,000-40,000 workers over the life of the program. Cost per worker averages ~$100,000-150,000 across all pathways combined — a fraction of the lifetime earnings and tax contributions of a successfully transitioned worker.
-
-#### Policy 11 — Saskatchewan Century Corps
-
-| Component | Year 1 ($M) | Year 5 ($M) | Year 10 ($M) | Year 20 ($M) |
-|---|---|---|---|---|
-| Wages (~5,000 → 20,000 workers, $30+/hr) | 234 | 562 | 655 | 840 |
-| Overhead (benefits, training, equipment) | 105 | 253 | 295 | 378 |
-| Tuition Voucher Redemptions | 11 | 31 | 38 | 50 |
-| Less: Contract Revenue Returned | (23) | (169) | (295) | (378) |
-| **Net GRF Cost** | **~327** | **~677** | **~693** | **~890** |
-
-The SCC is both a spending program and a revenue generator. Its contract work (ambient loop installation, SaskHomes construction, grid modernization, fibre deployment) would otherwise be contracted to private firms at higher cost. The SCC trains the workforce while doing the work, and its contract revenue offsets a growing share of its costs.
-
-**Economic Return:** Every SCC worker trained to journey-level credentials in clean energy, construction, or care work becomes a lifelong taxpayer with $1-2M+ in lifetime earnings. At 15,000-20,000 workers, the SCC generates ~$1B/year in direct wages circulating in the Saskatchewan economy.
-
-#### Policy 12 — Lifelong Learning
-
-| Component | Year 1 ($M) | Year 5 ($M) | Year 10 ($M) | Year 20 ($M) |
-|---|---|---|---|---|
-| K-12 Per-Student to $25K (incremental) | 500 | 1,200 | 1,500 | 2,200 |
-| 25% Educator Wage Increase | 250 | 575 | 660 | 850 |
-| Educator Bonuses ($15K, one-time) | 500 | 0 | 0 | 0 |
-| Universal Pre-K (4-year-olds) | 100 | 345 | 385 | 490 |
-| Post-Secondary Statutory Increase | 150 | 345 | 385 | 490 |
-| SARPA (Research) | 30 | 86 | 95 | 125 |
-| Arts Funding ($15/capita) | 19 | 21 | 24 | 32 |
-| SaskDLC Expansion | 30 | 86 | 95 | 125 |
-| Saskatchewan Library Authority | 20 | 46 | 51 | 65 |
-| Capacity Expansion Fund | 50 | 172 | 190 | 245 |
-| Film/TV Tax Credit | 15 | 30 | 35 | 45 |
-| **Total** | **~1,664** | **~2,906** | **~3,420** | **~4,667** |
-
-Education is the second-largest spending category after the SDD. The investment is justified by overwhelming economic evidence: every $1 invested in early childhood education returns $4-9 in reduced social costs and increased lifetime productivity. K-12 investment at $25,000/student would make Saskatchewan the best-funded education system in Canada, attracting families and educators to the province.
-
-#### Policy 13 — Climate Crossroads
-
-| Component | Year 1 ($M) | Year 5 ($M) | Year 10 ($M) | Year 20 ($M) |
-|---|---|---|---|---|
-| SEEA (Environmental Economics) | 30 | 57 | 64 | 82 |
-| Climate Lawsuit Legal Costs | 30 | 92 | 105 | 135 |
-| SNRC Transition Operations | 100 | 115 | 64 | 0 |
-| **Total** | **~160** | **~264** | **~233** | **~217** |
-
-The Climate Lawsuit is a speculative but potentially transformative revenue source. If successful, proceeds flow to the SSF. Even partial success could add tens of billions to the SSF principal. This projection does **not** include lawsuit proceeds in the revenue baseline — they are treated as upside contingency.
-
-#### Policy 14 — Food Sovereignty
-
-| Component | Year 1 ($M) | Year 5 ($M) | Year 10 ($M) | Year 20 ($M) |
-|---|---|---|---|---|
-| SAB Operations | 50 | 172 | 190 | 245 |
-| Margin Insurance (60% province share) | 0 | 115 | 130 | 165 |
-| SaskGrocery Operating Subsidy | 100 | 345 | 255 | 165 |
-| **Total** | **~150** | **~632** | **~575** | **~575** |
-
-SaskGrocery approaches system-wide break-even by Year 8-10 but retains a geographic parity subsidy to ensure identical Essential Basket pricing province-wide. Capital costs for processing facilities, hopper cars, and terminals are bond-funded.
-
-#### Policy 15 — Resource and Energy Sovereignty
-
-| Component | Year 1 ($M) | Year 5 ($M) | Year 10 ($M) | Year 20 ($M) |
-|---|---|---|---|---|
-| SNRC Operations | 100 | 230 | 255 | 330 |
-| Less: SNRC Profit Offset | 0 | (115) | (640) | (1,320) |
-| SaskPower Incremental Ops | 200 | 230 | 640 | 820 |
-| EV Charging Infrastructure | 30 | 34 | 39 | 50 |
-| **Total GRF Cost** | **~330** | **~379** | **~294** | **~(120)** |
-
-By Year 15-20, the SNRC is generating sufficient profit from uranium, lithium, and rare earth operations that it becomes a net contributor to the GRF rather than a cost centre. SaskPower's nuclear and renewable generation creates export revenue (MISO, neighbouring provinces) that offsets incremental operating costs.
-
-#### Policy 16 — Digital Sovereignty
-
-| Component | Year 1 ($M) | Year 5 ($M) | Year 10 ($M) | Year 20 ($M) |
-|---|---|---|---|---|
-| SDS Operations | 50 | 172 | 190 | 245 |
-| SaskStack Development | 30 | 57 | 64 | 82 |
-| Less: Vendor Savings | 0 | (34) | (128) | (165) |
-| **Total GRF Cost** | **~80** | **~195** | **~126** | **~162** |
-
-Digital sovereignty is a cost-reduction strategy in the medium term. Eliminating vendor lock-in, licence fees, and American cloud hosting costs saves hundreds of millions over the 20-year period. SaskCloud and SaskTel data centre operations are funded by SaskBonds capital and user fees.
-
-#### Policy 17 — Financial Sovereignty
-
-| Component | Year 1 ($M) | Year 5 ($M) | Year 10 ($M) | Year 20 ($M) |
-|---|---|---|---|---|
-| SSF Seed Capital | 500 | 0 | 0 | 0 |
-| SFG Operations | 20 | 23 | 27 | 35 |
-| **Total GRF Cost** | **~520** | **~23** | **~27** | **~35** |
-
-The $500M SSF seed is a one-time investment that generates compounding returns for generations. The SFG operates from its own capital (provincial float) and investment returns.
-
-#### Policy 18 — Democratic Renewal
-
-| Component | Year 1 ($M) | Year 5 ($M) | Year 10 ($M) | Year 20 ($M) |
-|---|---|---|---|---|
-| Elections SK (50% increase) | 10 | 12 | 13 | 17 |
-| CodeShare Civics | 5 | 11 | 13 | 17 |
-| Expanded Legislature (100 seats) | 15 | 17 | 19 | 25 |
-| Per-Vote Subsidy ($2.50/vote) | 4 | 4 | 5 | 6 |
-| **Total** | **~34** | **~44** | **~50** | **~65** |
-
-Democracy is cheap. The entire democratic renewal costs less per year than a single kilometre of highway.
-
-#### Policy 19 — Manufacturing
-
-| Component | Year 1 ($M) | Year 5 ($M) | Year 10 ($M) | Year 20 ($M) |
-|---|---|---|---|---|
-| SMC Operations | 100 | 345 | 385 | 490 |
-| Less: Factory Revenue Offset | 0 | (57) | (385) | (825) |
-| **Net GRF Cost** | **~100** | **~288** | **~0** | **~(335)** |
-
-Like the SNRC, the SMC transitions from a cost centre to a profit centre as factories reach full production. By Year 10-12, the combination of SaskHomes modules, heat pump assemblies, food processing, and uranium fuel fabrication generates enough revenue to cover operating costs. By Year 15-20, SMC is a net contributor to the GRF.
-
-#### Policy 20 — Disaster Resilience
-
-| Component | Year 1 ($M) | Year 5 ($M) | Year 10 ($M) | Year 20 ($M) |
-|---|---|---|---|---|
-| Resilience Hub Upgrades | 50 | 57 | 39 | 30 |
-| Islandable Power (critical sites) | 50 | 57 | 26 | 0 |
-| SPSA Operations & Drills | 20 | 23 | 27 | 35 |
-| **Total** | **~120** | **~137** | **~92** | **~65** |
-
-Front-loaded investment that declines as hardening is completed. Every $1 spent on disaster preparedness saves $4-11 in avoided disaster response and recovery costs (FEMA estimates).
-
-#### Policy 21 — Funding Administration
-
-| Component | Year 1 ($M) | Year 5 ($M) | Year 10 ($M) | Year 20 ($M) |
-|---|---|---|---|---|
-| Bond Management Office | 20 | 23 | 27 | 35 |
-| METR Monitoring & Reporting | 5 | 6 | 7 | 9 |
-| **Total** | **~25** | **~29** | **~34** | **~44** |
-
-### Expenditure Summary — 20-Year Projection
-
-| Category | Year 1 ($M) | Year 5 ($M) | Year 10 ($M) | Year 20 ($M) |
-|---|---|---|---|---|
-| Baseline Spending (existing programs) | 20,700 | 23,720 | 28,250 | 40,070 |
-| P2 — Dignity Dividend (net) | 2,020 | 4,056 | 4,438 | 5,751 |
-| P3 — Health (net of UHL) | 960 | 1,298 | 1,425 | 1,795 |
-| P12 — Lifelong Learning | 1,664 | 2,906 | 3,420 | 4,667 |
-| P11 — Century Corps (net) | 327 | 677 | 693 | 890 |
-| P9 — Fair Labour | 440 | 568 | 645 | 830 |
-| P6 — Connected Communities | 310 | 747 | 824 | 1,017 |
-| P5 — Housing (GRF portion) | 425 | 578 | 622 | 545 |
-| P14 — Food Sovereignty | 150 | 632 | 575 | 575 |
-| P15 — Resources & Energy | 330 | 379 | 294 | (120) |
-| P7 — Public Safety | 160 | 527 | 613 | 785 |
-| P10 — Energy Veterans | 222 | 187 | 192 | 0 |
-| P4 — Reconciliation | 50 | 170 | 210 | 280 |
-| P13 — Climate Crossroads | 160 | 264 | 233 | 217 |
-| P16 — Digital Sovereignty | 80 | 195 | 126 | 162 |
-| P17 — Financial Sovereignty | 520 | 23 | 27 | 35 |
-| P19 — Manufacturing (net) | 100 | 288 | 0 | (335) |
-| P20 — Disaster Resilience | 120 | 137 | 92 | 65 |
-| P18 — Democratic Renewal | 34 | 44 | 50 | 65 |
-| P8 — Co-op Development | 15 | 25 | 25 | 30 |
-| P1 — Human Dignity | 5 | 12 | 15 | 20 |
-| P21 — Funding Admin | 25 | 29 | 34 | 44 |
-| Bond Debt Service (net) | 228 | 625 | 838 | 387 |
-| **Total Spending** | **~29,045** | **~38,081** | **~43,351** | **~57,775** |
-
----
-
-## Part IV — The Capital Budget: SaskBonds
-
-The capital budget is entirely separate from the operating budget. Capital investments are funded by SaskBonds — government-obligation or use-of-proceeds bonds sold to Saskatchewan residents, pension funds, institutional investors, and ESG-aligned funds. These bonds fund productive assets that generate revenue to service their own debt.
+The capital budget should be treated separately from the operating budget. Capital investments are funded through SaskBonds and related long-dated public capital instruments sold to Saskatchewan residents, pension funds, institutional investors, and aligned long-horizon buyers. These instruments fund productive assets that either generate recoverable revenue, lower future costs, or expand the province's durable productive capacity.
 
 ### SaskBonds Structure
 
-All SaskBonds are Government Obligation (GO) bonds backed by the full faith and credit of the Government of Saskatchewan. They are issued in use-of-proceeds series, meaning every dollar raised is ring-fenced for a specific project category. No general revenue slush.
+SaskBonds are long-dated public capital bonds issued in ring-fenced use-of-proceeds series for eligible project classes. Depending on the asset type, a series may be Province-backed, Crown-backed, or structured around specific project cash flows. What matters is not one universal template. What matters is transparent use of proceeds, staged issuance, and clear separation between operating borrowing and asset-building capital.
 
-**Minimums:** $100 per bond, so every Saskatchewan resident can invest.
+Early series may be straightforward Province-backed or Crown-backed issues. Later series, especially housing or utility-linked series, can rely increasingly on proven revenue streams and established operating histories. The base model does not assume SSF first-loss tranches, guaranteed rating outcomes, or a single identical bond structure across every class of project.
 
-**Access:** Automatic payroll deductions, online portal, and SFG/credit union purchase points.
+**Reporting:** Annual allocation reports, clear project eligibility rules, and full public transparency on every dollar spent.
 
-**Tranches:** Each bond series has a Senior and Junior class:
-- **Junior Tranche (First Loss):** Purchased by the Saskatchewan Sovereignty Fund. Absorbs any revenue shortfalls before they affect senior bondholders.
-- **Senior Tranche:** Sold to residents, pension funds, and institutional investors. Backed by the SSF junior tranche AND the full faith and credit of the Government of Saskatchewan.
+### Capital-Heavy Policies and Financing Logic
 
-This structure is designed to achieve a AA or better credit rating on the senior tranche.
+| Policy | Base 25-Year Gross Capital (C$B) | Main Capital Vehicle | Primary Recovery Channel | Staging Logic |
+|---|---|---|---|---|
+| 15 — Resource & Energy Sovereignty | 45.85 | Crown/utility borrowing, staged public capital, long-term project finance | Royalties, electricity sales, rate-backed recovery, public ownership earnings | Reactors, grid expansion, and major energy buildout phased and gated |
+| 05 — Housing Crisis | 37.85 | SaskBonds, SHC borrowing, long-term public housing capital | Rent revenue retained within the housing system | Housing buildout spread across full horizon |
+| 06 — Connected Communities | 10.55 | Utility borrowing, SaskBonds, municipal co-funding | Thermal-service charges, cost-sharing, some logistics recovery | Thermal networks and municipal buildout proceed in phases |
+| 20 — Disaster Resilience | 3.58 | SaskBonds, SPSA capital programs | Limited federal cost-sharing, avoided-loss logic | Staged by risk and facility type |
+| 19 — Manufacturing | 3.06 | SaskBonds, Crown capital, staged factory buildout | Internal Crown demand, third-party sales, processing margins | Factories sequenced by supply-chain readiness |
+| 16 — Digital Sovereignty | 2.44 | Crown capital, SaskTel capital plan | Vendor savings, shared-service recovery, hosting recovery | Migration paced to avoid disruption |
+| 14 — Food Sovereignty | 1.88 | SaskBonds, Crown capital | Grocery margins, lease repayments, logistics recovery | Phased regional rollout |
 
-**Reporting:** Annual allocation reports, second-party opinions, and full public transparency on every dollar spent.
+### SaskHousing Bonds — Public Housing Bond Cycle
 
-### Bond Series
-
-| Series | Purpose | Maturities | Target ($B, 20yr) |
-|---|---|---|---|
-| **Foundation Bonds** (Limited) | New Crown Corp startups (one-time) | 25 yr | $6.0 |
-| **SaskHousing Bonds** | 100,000 public housing units, backed by rental revenue (a public REIT) | 10-30 yr | $25.0 |
-| **SaskEnergy Bonds** | Ambient loops, grid modernization, renewables, nuclear | 15-30 yr | $18.0 |
-| **SaskInfrastructure Bonds** | Municipal upgrades, STC depots, data centres, HSR corridor | 10-25 yr | $12.0 |
-| **SaskManufacturing Bonds** | SMC factories, processing facilities | 10-25 yr | $7.0 |
-| **SaskInvestment Bonds** | General savings bond for residents, monthly coupon | 5-10 yr | $9.0 |
-| **Total 20-Year Bond Issuance** | | | **~$77.0** |
-
-### SaskHousing Bonds — The Public Housing REIT
-
-The SaskHousing Bonds deserve special attention. They are structured as a revenue bond backed by the rental cash flows of the 100,000 public housing units.
+The SaskHousing Bonds deserve special attention. They are best understood as a staged housing bond program built around the rental cash flows of the public housing stock.
 
 The sequence:
 
-1. **Foundation Bonds** (Year 1-3): $2-3B in GO bonds backed purely by GRF. Used to build the first 10,000-15,000 units.
-2. **Prove the Asset** (Year 2-4): Once those units are built, tenanted, and generating stable rental cash flow for 24 months, you have a proven, class-A asset.
-3. **Securitize** (Year 3+): That proven revenue stream is securitized into the larger SaskHousing Bond series. With a proven asset, the SSF as first-loss protection, and a government backstop, the senior tranche can achieve a AA rating.
-4. **Repeat:** Each tranche of bonds funds the next batch of units. Each batch's rental revenue is added to the collateral pool. The bond becomes safer with each iteration.
+1. **Foundation Phase (Years 1–3):** Province-backed borrowing used to build the first units and prove the model.
+2. **Prove the Asset (Years 2–5):** Once units are built, tenanted, and generating stable rental cash flow for 24 months, you have a proven cash-flowing public asset.
+3. **Scale (Year 3+):** That proven revenue stream supports larger SaskHousing Bond series, with stronger cash-flow visibility and continued public credit support.
+4. **Repeat:** Each tranche of bonds funds the next batch of units. Each batch's rental revenue is added to the broader housing system, strengthening the operating base over time.
 
-Rent is always paid in Saskatchewan, especially with the Dignity Dividend ensuring no tenant falls below the income floor needed to pay 30%-of-income rent. Default risk is extremely low.
+**SaskHousing Bonds are public housing finance, not developer speculation** — a way to build homes at cost, retain rental revenue inside the system, and recycle that revenue into further housing supply.
 
-**SaskHousing Bonds are a public REIT** — a real estate investment trust owned by the people, paying coupons from rental revenue, building homes at cost with no developer profit margin.
+Not all capital commitments happen at once. Major buildouts must be staged. Reactors, major grid expansion, public factories, and large-scale housing programs proceed in phases tied to readiness, workforce capacity, supply chains, business cases, and public need. Announcing a long-term program is not the same as issuing an irrevocable cheque for every future phase on day one.
 
-### Capital Budget — 20-Year Projection
+### Debt Service and the Real Budget Pressure
 
-| Category | Year 1-5 ($B) | Year 6-10 ($B) | Year 11-15 ($B) | Year 16-20 ($B) | Total ($B) |
-|---|---|---|---|---|---|
-| Foundation Bonds | 6.0 | 0 | 0 | 0 | 6.0 |
-| Housing Bonds | 7.0 | 10.0 | 5.5 | 2.5 | 25.0 |
-| Energy Bonds | 4.5 | 7.5 | 4.0 | 2.0 | 18.0 |
-| Infrastructure Bonds | 5.0 | 4.0 | 2.0 | 1.0 | 12.0 |
-| Manufacturing Bonds | 3.0 | 3.0 | 0.5 | 0.5 | 7.0 |
-| Investment Bonds | 2.0 | 3.0 | 2.0 | 2.0 | 9.0 |
-| **Total** | **27.5** | **27.5** | **14.0** | **8.0** | **77.0** |
+The platform should be read in two ways at once.
 
-### Debt Sustainability
+The first is the direct-capital model used throughout this document so far. That model counts capital commitments when they are made. It is the correct way to show the full scale of what the platform is actually building.
 
-| Metric | Year 5 | Year 10 | Year 15 | Year 20 |
-|---|---|---|---|---|
-| Cumulative Bond Debt ($B) | ~$27.5 | ~$55.0 | ~$69.0 | ~$77.0 |
-| Gross Debt Service ($B/yr) | ~$1.1 | ~$2.2 | ~$2.8 | ~$3.1 |
-| Asset Revenue Offset ($B/yr) | ~$0.5 | ~$1.4 | ~$2.2 | ~$2.7 |
-| **Net Debt Service ($B/yr)** | **~$0.6** | **~$0.8** | **~$0.6** | **~$0.4** |
-| Debt-to-GDP Ratio | ~18% | ~26% | ~27% | ~24% |
-| Net Debt Service as % of Revenue | ~1.8% | ~2.0% | ~1.2% | ~0.7% |
+The second is a debt-service model. That model converts eligible long-lived capital into annual borrowing costs instead of treating every capital dollar as if it were paid in cash immediately. This is closer to the annual budget pressure a government would actually face.
 
-The debt-to-GDP ratio peaks at approximately 27% around Year 12-15, then declines as assets mature and generate growing revenue streams. For context, the Canadian federal government's debt-to-GDP ratio is approximately 42%, and most AA-rated provinces carry 25-35%. Saskatchewan's current net debt-to-GDP ratio is approximately 12%.
+For the debt-service model, eligible capital is financed on different horizons depending on the asset class: long public infrastructure at roughly 2.0% real over 30 years, utility and energy capital at roughly 2.25% real over 35 years, industrial and logistics assets at roughly 2.5% real over 25 years, and digital capital at roughly 1.75% real over 10 years. Using those assumptions, about C$106.13B of capital issuance is financed rather than expensed up front.
 
-The critical insight is that this is **productive debt** — it builds homes that generate rent, factories that generate revenue, nuclear reactors that generate electricity, and infrastructure that supports economic growth. It is not consumption debt.
+| Measure | Direct-Capital View | Debt-Service View |
+|---|---:|---:|
+| Peak annual fiscal pressure | C$8.94B | C$7.36B |
+| Peak year | Year 10 | Year 25 |
+| Year-25 annual fiscal pressure | C$6.47B | C$7.36B |
+| 25-year total inside the horizon | C$181.89B | C$134.67B |
+| Financed capital issuance | n/a | C$106.13B |
+| Year-25 debt-service component | n/a | C$4.53B |
+| Debt-service tail after 2051 | n/a | C$83.61B through 2076 |
+
+This is the tradeoff debt financing creates. It lowers the first-25-year cash burden materially, but it does not make the platform cheap. It replaces large early capital outlays with a long financing tail. In this model, the later years do not become effortless. They carry a substantial operating state plus accumulated debt service from the buildout years.
+
+### Does It Balance?
+
+On the hard base case, no. Even with financed capital, the platform does not return to annual balance within the 25-year horizon unless Saskatchewan also grows its fiscal capacity beyond what is already hard-coded in the base model.
+
+To test that question honestly, the model uses three breakeven scenarios. Here, "real fiscal-capacity growth" means growth in provincial revenue capacity above ordinary inflation and baseline service pressure, not just nominal GDP getting bigger on paper.
+
+| Scenario | Additional Assumption | Annual Balance Returns | Cumulative Payback | Year-25 Position |
+|---|---|---:|---:|---:|
+| Platform-only | No added fiscal-capacity growth beyond the current hard model | Not within horizon | Not within horizon | -C$7.36B |
+| Moderate balance path | 1.0% annual real fiscal-capacity growth plus C$1.0B/year of extra feedbacks by 2051 | 2053 | 2069 | -C$0.40B |
+| Transformation path | 1.25% annual real fiscal-capacity growth plus C$2.5B/year of extra feedbacks by 2051 | 2042 | 2054 | +C$2.83B |
+
+That means the platform only becomes self-balancing inside a generation if the broader economic thesis works to at least a moderate degree. In the moderate case, annual balance returns in the early 2050s. In the stronger transformation case, annual balance returns in the early 2040s. In both cases, cumulative payback of the earlier buildout years takes longer.
+
+This is why Policy 21 cannot honestly claim that the platform simply pays for itself. What it can claim is narrower and more serious: debt financing makes the buildout more manageable, and long-run balance becomes plausible if Saskatchewan actually captures the growth, savings, and value-retention effects the rest of the platform is designed to create.
 
 ---
 
-## Part V — Economic Impact: The 20-Year Transformation
+## Part VIII — Direct Offsets Already in the Model
 
-### GDP Growth
+One of the easiest ways to misread this platform is to treat its gross costs as if there were no recoveries already built in. That would be wrong. The current base case already includes approximately C$76.79 billion in modelled offsets and recoveries over the 25-year horizon.
 
-The S21P platform transforms Saskatchewan's economy through five channels:
-
-1. **Infrastructure Multiplier (1.5-2.0):** Every $1 of infrastructure spending generates $1.50-$2.00 in GDP through direct construction activity, supply chain demand, and induced consumption. At $3-5B/year in bond-funded capital spending, this adds $5-10B/year to GDP.
-
-2. **Transfer Payment Multiplier (0.8-1.2):** The SDD puts money directly into the hands of consumers with high marginal propensity to consume. $5B+ in annual SDD payments generates $4-6B in consumer spending, overwhelmingly within Saskatchewan.
-
-3. **Public Service Multiplier (1.2-1.6):** Health and education spending creates well-paying local jobs. The 25% wage increases for health and education workers immediately boost consumer spending power.
-
-4. **Velocity of Money Premium (1-2% GDP):** The SFG, credit unions, Crown Corporations, and SaskBonds keep money circulating within the province. Each dollar earned and spent locally generates more economic activity than dollars extracted to distant corporate headquarters or shareholders. Over five years, this builds to a 1-2% permanent GDP premium.
-
-5. **Population Growth (1.5-2.0%/year):** Universal health care, the Dignity Dividend, affordable housing, 30-hour work weeks, and world-class education make Saskatchewan the most attractive province in Canada. Population growth drives tax base growth.
-
-### 20-Year GDP Projection
-
-| Year | Baseline GDP ($B) | Enhanced GDP ($B) | Policy GDP Boost ($B) | Real Growth Rate |
-|---|---|---|---|---|
-| Year 1 (2027) | $100 | $123 | $23 | ~7% |
-| Year 3 (2029) | $109 | $137 | $28 | ~5% |
-| Year 5 (2031) | $119 | $152 | $33 | ~4.5% |
-| Year 10 (2036) | $145 | $186 | $41 | ~3.5% |
-| Year 15 (2041) | $176 | $227 | $51 | ~3% |
-| Year 20 (2046) | $214 | $274 | $60 | ~3% |
-
-By Year 20, Saskatchewan's GDP is approximately 28% larger than it would be under a business-as-usual scenario. GDP per capita grows from ~$78,000 (2025) to ~$164,000 (2046), reflecting both real economic growth and inflation.
-
-### Employment
-
-| Year | Base Employment | New Direct Jobs | Total Employment Effect (incl. indirect) |
+| Policy | Offset Source | 25-Year Base Value (C$B) | Type |
 |---|---|---|---|
-| Year 1 | 580,000 | ~95,000 | ~145,000 |
-| Year 5 | 615,000 | ~130,000 | ~194,000 |
-| Year 10 | 655,000 | ~120,000 | ~180,000 |
-| Year 20 | 740,000 | ~80,000 | ~117,000 |
+| 02 — Saskatchewan Social Security | Current provincial programs replaced by SSS | (17.30) | Baseline program replacement |
+| 05 — Housing Crisis | SaskHomes tenant rent revenue | (13.50) | User revenue |
+| 15 — Resource & Energy Sovereignty | Incremental royalty, windfall levy, dormant lease, and value-add revenues | (13.50) | Dedicated resource revenue |
+| 03 — Universal Health | Universal Health Levy | (13.33) | Dedicated levy |
+| 11 — Century Corps | SCC contract revenue from Standing Master Agreements | (3.45) | Contract recovery |
+| 15 — Resource & Energy Sovereignty | Expanded electricity sales and rate-backed recovery | (2.85) | Utility recovery |
+| 15 — Resource & Energy Sovereignty | Early public-ownership dividends and equity earnings | (2.70) | Enterprise revenue |
+| 06 — Connected Communities | Thermal-service and on-bill capital recovery | (2.48) | Utility recovery |
+| 06 — Connected Communities | Municipal and federal infrastructure cost-sharing | (1.01) | External cost-sharing |
+| 16 — Digital Sovereignty | Reduced external vendor spend and platform consolidation savings | (1.00) | Vendor savings |
+| 20 — Disaster Resilience | Federal resilience and mitigation cost-sharing | (0.84) | External cost-sharing |
+| 10 — Energy Veterans | Sector transition levy | (0.70) | Dedicated levy |
+| 17 — Financial Sovereignty | SFG treasury income, wholesale spreads, and service-fee recovery | (0.66) | Treasury/financial recovery |
+| 13 — Climate Crossroads | Fossil-fuel subsidy and incentive termination savings | (0.60) | Spending reduction |
+| 07 — Public Safety | Redirected Saskatchewan Marshals funding | (0.50) | Program redirection |
 
-The employment surge is front-loaded during the construction boom (Years 1-10). The Century Corps alone employs 15,000-20,000 directly. Bond-funded construction employs tens of thousands more. As the economy stabilizes at higher capacity, the employment effect becomes more about quality (higher wages, better conditions) than quantity.
+These offsets are not fantasy numbers pulled from general optimism. They come from explicit policy mechanisms already written into the platform. Critics will often cite the largest gross numbers and ignore the fact that major offsets are already embedded in the base-case math. The platform is not being sold on pure gross expansion. It is already modelled as a net fiscal program with substantial recoveries.
 
-### The 30-Hour Work Week — Economic Modelling
-
-The transition to a 30-hour standard work week is the most economically significant reform in Policy 9. It has no direct government cost but reshapes the economy.
-
-**Assumption:** Employers hire additional staff to maintain output. With wages held constant (same weekly/monthly pay for 30 hours as formerly for 40), labor costs per hour rise by ~33%.
-
-**Offsets:**
-- Productivity per hour increases. Evidence from 4-day work week trials shows 20-40% productivity improvement per hour. Conservative assumption: 15% improvement.
-- Reduced absenteeism, turnover, and workplace injury. Saves employers 5-10% of labor costs.
-- Reduced unemployment and underemployment. New workers enter the labor market, expanding the tax base.
-- Higher consumer spending from newly employed workers (multiplier effect).
-- Reduced healthcare and social service costs from a healthier, less stressed population.
-
-**Net Impact:** The 30-hour week is a short-term cost to employers (~15-20% net increase in labor costs after productivity gains), partially offset by SME transition grants (4 years), offset in the medium term by a larger employed tax base, and offset in the long term by a more productive, healthier, more innovative workforce. Evidence from France's 35-hour week showed initial costs followed by sustained employment growth and GDP convergence within 5-7 years.
+At the same time, the document does not oversell these offsets. Some are very hard and explicit — levy revenue, vendor savings. Others are more operational — rent recovery, contract recovery. They reduce net cost, but they do not erase the need for large upfront capital and operating commitments.
 
 ---
 
-## Part VI — Saskatchewan Sovereignty Fund: The Intergenerational Endowment
+## Part IX — Secondary Returns and Feedback Channels
 
-### Growth Trajectory
+Beyond the direct offsets already in the model, the platform also reduces long-run fiscal pressure in ways that are real but harder to time precisely. These savings are described clearly, but they remain secondary to the base case rather than carrying it.
 
-| Year | Annual Contributions ($M) | Cumulative Principal ($M) | Annual Interest ($M) | Total Disbursements ($M) |
-|---|---|---|---|---|
-| 1 | 1,633 | 1,633 | 72 | 72 |
-| 3 | 1,950 | 4,647 | 209 | 209 |
-| 5 | 2,100 | 8,374 | 378 | 378 |
-| 10 | 2,700 | 19,623 | 883 | 883 |
-| 15 | 2,800 | 33,425 | 1,504 | 1,504 |
-| 20 | 3,200 | 47,745 | 2,017 | 2,017 |
+### Conservative Feedback Effects (Not Relied On in Base Case)
 
-**Contributions:** The SSF is funded by: the $500M seed, 15% of base resource royalties, 50% of windfall royalties, 80% of the EV Surcharge, Crown dividends above the 5-year rolling average, and the junior tranche purchases of SaskBonds.
-
-**Comparison:** At $47.7 billion by Year 20, the SSF would be comparable to the Alaska Permanent Fund ($80B) in relative terms for Saskatchewan's population, and approximately 17% of the size of Alberta's Heritage Fund ($23B actual, which would be $300B+ had Alberta saved properly).
-
-**Climate Lawsuit Upside:** If the Climate Lawsuit (Policy 13) produces even partial success — say, $10-50 billion in settlements or judgments over 10-20 years — the SSF could reach $75-100 billion by Year 20, permanently funding the Dignity Dividend and Reconciliation initiatives from interest alone.
-
-### Disbursement Formula (Locked by Supermajority)
-
-| Category | Share | Year 20 Amount ($M) |
+| Policy Area | Likely Secondary Effect | Why It Is Not Fully Counted |
 |---|---|---|
-| Saskatchewan Dignity Dividend | 54% | $1,089 |
-| Reconciliation Funding | 15% | $303 |
-| Resilience & Energy Veterans | 15% | $303 |
-| Debt Servicing | 10% | $202 |
-| Strategic Domestic Investment | 5% | $101 |
-| Administration | 1% | ~$20 |
-| **Total** | **100%** | **~$2,017** |
+| 02 — Saskatchewan Social Security | Lower shelter use, lower crisis-income churn, lower child intervention and justice pressure | Savings are real but lagged and difficult to time precisely |
+| 03 — Universal Health | Lower avoidable acute-care use, better chronic-disease management, lower turnover and vacancy costs | Preventive care savings are real but slow and unevenly timed |
+| 05 — Housing Crisis | Lower homelessness-response costs, lower shelter and hotel use, lower health and justice churn | Many savings are indirect and spread across systems |
+| 07 — Public Safety | Fewer repeat crisis contacts and lower police burden for non-police emergencies | Depends on implementation quality and alternative-response scale |
+| 09 — Fair Labour | Stronger PIT and PST base from higher wages and better labour standards | Tax-base gains are plausible but depend on labour-market adjustment |
+| 12 — Lifelong Learning | Higher productivity, participation, and long-run tax capacity | Strong long-run upside but too diffuse for aggressive early counting |
+| 14 — Food Sovereignty | Lower household food costs and stronger farm income retention | Demand and retention effects are real but indirect fiscally |
+| 19 — Manufacturing | Stronger local value-add and job creation | External sales and cluster effects are uncertain |
+| 20 — Disaster Resilience | Lower disaster-response costs, lower emergency disruption | Avoided-loss logic is strong but not a stable annual cash stream |
+
+The strongest candidates are concentrated in a handful of policies. Saskatchewan Social Security should reduce shelter demand and crisis-income churn. Universal Health should reduce avoidable acute care and lower vacancy costs. Housing should reduce homelessness-response costs and the expensive cycling of people through unstable housing, hospitals, and crisis systems.
+
+These savings are politically important because they show that poverty, instability, and institutional failure are already expensive. Saskatchewan is already paying for unmanaged social harm. It is simply paying for it in the most reactive and inefficient way possible.
+
+But the platform remains disciplined here. A large anti-poverty or preventive-health investment does not instantly return dollar-for-dollar to the Treasury in the same year. Most of these effects arrive slowly, unevenly, and across multiple systems. That is why they belong in a conservative feedback case rather than the hard base case.
+
+### Household Cost Compression
+
+A large part of the platform's economic logic is not captured by ordinary budget language. Several major policies are designed to lower the unavoidable monthly costs that make households poor, unstable, and unable to participate fully in the province's economic life.
+
+Saskatchewan Social Security lowers income insecurity. Public housing lowers rent burdens. Connected Communities lowers long-run heating and connectivity costs. Universal Health reduces direct household exposure to care costs. Food Sovereignty lowers food costs and stabilizes access. Fair Labour improves wages, paid leave, and income stability. Taken together, these policies compress the cost structure of ordinary life.
+
+Lower unavoidable costs do not just improve dignity. They also leave people with more disposable income — income that is more likely to be spent in the real local economy than income concentrated at the top end of the distribution. The correct economic claim is not simply that "money moves faster." It is that lower household cost structures increase local consumer demand, reduce arrears and financial precarity, and allow more income to circulate through Saskatchewan households, businesses, and communities.
+
+### Saskatchewan Value Capture
+
+The platform's economic argument is not only about demand. It is also about ownership.
+
+A major share of the Saskatchewan 21 Policies is designed to reduce the amount of wealth that leaves the province through outside ownership, outside procurement, outside finance, outside data hosting, and the export of raw value with little local processing. Co-operative Development, Food Sovereignty, Resource and Energy Sovereignty, Digital Sovereignty, Financial Sovereignty, and Manufacturing all work in this direction.
+
+Saskatchewan should not have to export raw value and then buy back dependency at a premium. It should retain more ownership, more margins, more processing, more data control, more financing capacity, and more public revenue inside the province.
+
+That does not mean every local or public structure automatically outperforms every private one. The platform does not make that blanket claim. It argues instead that the current model leaks too much value out of Saskatchewan and that these policies are designed to reduce that leakage deliberately.
+
+### Upside Scenarios (Not Included in Core Projections)
+
+| Upside Channel | Potential Effect | Why Excluded From Base Case |
+|---|---|---|
+| Climate Lawsuit Success (Policy 13) | Very large non-core recovery if successful | Litigation outcomes are too uncertain to count on |
+| Stronger In-Migration | Larger workforce, higher tax base, more business formation | Also creates added housing and service demand |
+| Stronger Resource and Power Revenues | Larger long-run public revenue and ownership earnings | Commodity prices, export demand, and build pace are uncertain |
+| Stronger Public-Enterprise Performance | Higher rents, utility recovery, manufacturing sales, vendor savings | Management, demand, and ramp-up risk make aggressive early counting unwise |
+| Large Productivity Gains from Health and Education | Stronger GDP, participation, earnings, and tax capacity | Hard to time and easy to overclaim |
+| Larger Local-Demand Effects | More PST-generating spending and stronger small-business activity | Some spending leaks out of province |
 
 ---
 
-## Part VII — Fiscal Balance and Sustainability
+## Part X — Fiscal Guardrails and Safeguards
 
-### The Honest Assessment
+Because the platform is large, ambitious, and long-running, it must also be governed by rules that prevent drift, overclaiming, and fiscal disorder.
 
-This platform is expensive. There is no pretending otherwise. In the first 5-8 years, the operating budget will run deficits as new spending programs are implemented faster than new revenue streams mature. This is deliberate: the spending creates the conditions for the revenue.
+### 1. Climate Lawsuit Independence
+The platform does not rely on climate lawsuit winnings to make the core math work. Any recovery under Climate Crossroads is treated as non-core upside, not as an assumed balancing item.
 
-### Annual Fiscal Balance (Operating + Net Debt Service)
+### 2. SSF Supermajority Lock
+The SSF principal cannot be accessed, and the disbursement formula cannot be changed, without a two-thirds supermajority vote in the Legislature. The SSF exists to preserve intergenerational wealth, not to serve as a political reserve account.
 
-| Year | Total Revenue ($M) | Total Spending ($M) | Annual Balance ($M) | Cumulative Balance ($M) |
-|---|---|---|---|---|
-| 1 (2027) | 24,462 | 29,045 | (4,583) | (4,583) |
-| 3 (2029) | 29,400 | 35,300 | (5,900) | (14,500) |
-| 5 (2031) | 33,200 | 38,100 | (4,900) | (24,500) |
-| 7 (2033) | 36,500 | 41,500 | (5,000) | (33,000) |
-| 10 (2036) | 41,500 | 43,400 | (1,900) | (43,000) |
-| 12 (2038) | 44,500 | 46,500 | (2,000) | (47,000) |
-| 15 (2041) | 50,000 | 52,000 | (2,000) | (52,000) |
-| 18 (2044) | 55,500 | 57,000 | (1,500) | (56,000) |
-| 20 (2046) | 58,700 | 57,800 | +900 | (53,500) |
+### 3. METR Cap
+The combined Marginal Effective Tax Rate across all programs (PIT, SSS phase-out, UHL, benefit clawbacks) must not exceed 55% at any income level. Annual publication required.
 
-The operating deficit peaks in Years 3-5 as the SDD, health, and education expansions reach full implementation. It narrows steadily as Crown Corporation revenues grow, the SSF matures, resource revenues expand from new mines, and the enlarged economy generates more tax revenue. By Year 18-20, the platform achieves approximate fiscal balance.
+### 4. Bond Transparency
+Every SaskBond series must publish annual allocation reports showing exactly where every dollar was spent. Second-party opinions required for each series.
 
-### How the Gap Is Managed
+### 5. Crown Corporation Performance
+Each new Crown Corporation must publish quarterly financial dashboards and face annual independent performance reviews. Any Crown operating at a loss for more than five consecutive years must submit a restructuring plan to the Legislature.
 
-The cumulative operating deficit over 20 years of approximately $53 billion is managed through:
+### 6. Reporting Discipline
+GRF operating expansion, Crown capital investment, utility borrowing, rate-backed recovery systems, and intergenerational wealth architecture must always be reported separately. A government that blurs those categories will make the platform less legible and easier to attack.
 
-1. **Provincial borrowing at AA-rated GO bond rates** (~3.5-4.0%). The deficit is financed alongside the capital program. Saskatchewan's combined debt-to-GDP ratio remains below 30% throughout.
+### 7. Sunset Provisions
+The SME Transition Grants, Energy Veterans Surcharge, and Oil & Gas operational licences automatically sunset as specified in their respective policies. Temporary transition supports remain temporary — they do not silently become permanent entitlements without explicit political approval and public costing.
 
-2. **Economic growth feedback.** Every 1% of additional GDP growth generates approximately $500M in additional tax revenue. The model projects GDP 28% higher than baseline by Year 20 — translating into $5-8B/year in additional revenue that is already captured in the projections above but conservatively estimated.
+### 8. Staged Approval of Major Capital
+The biggest commitments proceed through decision gates rather than being treated as all-or-nothing instant obligations. This is especially important for reactors, major grid works, large factory buildouts, and other complex infrastructure.
 
-3. **Crown Corporation maturation.** New Crowns (SMC, SNRC, SaskGrocery, STC, SDS) transition from cost centres to profit centres between Years 8-15, contributing an eventual $3B+ annually in dividends.
+### 9. Debt and Borrowing Discipline
+Policy 21 does not rely on an arbitrary single debt ceiling divorced from asset quality, debt-service burden, and recoverable Crown and utility revenues. Instead, the Minister of Finance must publish annual debt-to-GDP, debt-service-to-revenue, and capital-borrowing trajectories, along with a corrective plan whenever the Province materially departs from the platform's published path.
 
-4. **SSF compounding.** By Year 20, SSF interest alone covers $1.1B of the SDD and $300M of reconciliation. By Year 30 (not modelled), the SSF would generate $3-4B annually.
-
-5. **Climate Lawsuit contingency.** Not included in projections. Even $10B in settlement proceeds would reduce the cumulative gap by approximately 20%.
-
-### Debt Sustainability Summary
-
-| Metric | Year 5 | Year 10 | Year 15 | Year 20 |
-|---|---|---|---|---|
-| Total Provincial Debt (bonds + operating) ($B) | ~$52 | ~$98 | ~$121 | ~$131 |
-| Debt-to-GDP Ratio | ~34% | ~53% | ~53% | ~48% |
-| Interest Costs as % of Revenue | ~6% | ~8% | ~7% | ~6% |
-| Net Debt-to-Revenue Ratio | 1.6x | 2.4x | 2.4x | 2.2x |
-
-These ratios are higher than Saskatchewan's current position (~15% debt-to-GDP) but within the range of comparable Canadian provinces (Ontario: ~40%, Quebec: ~43%, federal: ~42%). The critical distinction is that Saskatchewan's debt is overwhelmingly invested in productive assets (housing, factories, reactors, infrastructure) that generate revenue, unlike consumption-driven debt.
+### 10. Annual Budget Publication and Five-Year Refresh
+A full PBO-style fiscal update must be published annually, including updated 25-year projections, METR analysis, Crown Corporation performance, SSF statements, and bond allocation reports. A full model refresh must occur every five years. The numbers hide nothing.
 
 ---
 
-## Part VIII — Risk Assessment
+## Part XI — Risk Assessment
+
+No honest 25-year fiscal framework should pretend that uncertainty is minor. The low, base, and high scenarios exist because the future will not follow one exact path.
 
 ### Fiscal Risks (High Impact)
 
 | Risk | Likelihood | Impact | Mitigation |
 |---|---|---|---|
-| Resource price collapse | Medium | High | SSF stabilization reserve; diversified resource base (potash, uranium, lithium vs. O&G dependence) |
-| Interest rate spike | Medium | High | Fixed-rate bonds; phased issuance; SSF first-loss layer |
-| Population growth below projections | Low-Medium | High | SDD, universal health, and housing are powerful migration attractors |
+| Resource price collapse | Medium | High | Conservative base-case royalty assumptions, phased capital commitments, diversified revenue base |
+| Construction inflation | Medium-High | High | Phased buildout, multiple waves; not front-loading unrealistically |
+| Interest rate spike | Medium | High | Fixed-rate borrowing where appropriate, phased issuance, and staged capital approvals |
+| Labour shortage during buildout | Medium-High | High | SCC and Energy Veterans provide trained workforce; immigration attraction; SaskJobs active placement |
+| Growth below expectations | Low-Medium | High | Base case does not rely on aggressive migration assumptions; core social gains still stand on their own |
 | Federal government non-cooperation | Medium | Medium | Platform designed to function under provincial jurisdiction; federal transfers are supplementary |
-| Legal challenges to Redwater Strategy | High | High | Constitutional division of powers strongly supports provincial environmental regulation; contingency plans for SNRC operations |
-| 30-hour week reduces output | Low-Medium | Medium | Evidence from global trials suggests productivity per hour increases; SME transition grants ease adjustment |
+| Legal challenges to Redwater Strategy | High | High | Constitutional division of powers strongly supports provincial environmental regulation |
+| Revenue recovery underperformance | Medium | High | Rents, utility recovery, contract recovery, vendor savings may arrive more slowly than modelled |
 
 ### Economic Risks
 
 | Risk | Likelihood | Impact | Mitigation |
 |---|---|---|---|
-| Capital flight | Medium | Medium | SFG keeps provincial float local; Credit Union ecosystem strengthened; SaskBonds provide local investment outlet |
-| Inflation from stimulus | Medium | Medium | Phased implementation; UHL and tax increases are contractionary offsets; SaskGrocery Essential Basket provides price anchor |
-| Labour shortage during transition | Medium | Medium | SCC and Energy Veterans provide trained workforce; immigration attraction; SaskJobs active placement |
-| Bond market appetite insufficient | Low-Medium | High | SSF first-loss tranche de-risks; GO backing; diversified series; $100 minimum retail bonds expand buyer base |
+| Capital flight | Medium | Medium | SFG keeps provincial float local; credit union ecosystem strengthened; SaskBonds provide local investment outlet |
+| Inflation from stimulus | Medium | Medium | Phased implementation, offsetting fiscal measures, and SaskGrocery Essential Basket price discipline |
+| Bond market appetite insufficient | Low-Medium | High | Province-backed and Crown-backed issuance, staged series, transparent use-of-proceeds, diversified investor base |
+| Strong in-migration overwhelming services | Medium | Medium | Desirable for tax base but adds housing and service pressure; buildout must keep pace |
+| 30-hour week reduces output | Low-Medium | Medium | Productivity effects are uncertain, but phased transition support and SME adjustment grants are intended to reduce disruption |
 
-### Upside Scenarios (Not Included in Projections)
-
-1. **Climate Lawsuit Success:** $10-100B in settlements, transforming the SSF.
-2. **Nuclear Export Revenue:** Saskatchewan CANDU-powered electricity exported to MISO and Canadian provinces could generate $1-3B/year.
-3. **Uranium Fuel Export:** Domestic fuel fabrication for Canadian nuclear fleet generates hundreds of millions.
-4. **Medical Isotope Revenue:** Flooding the global isotope market from CANDU byproducts.
-5. **Tech Economy Growth:** SaskStack, SaskOS, and open-source government tools attract tech companies and remote workers.
-6. **Agricultural Value-Add:** Saskatchewan flour, canola oil, and processed meat replacing imports nationally.
-
----
-
-## Part IX — Fiscal Rules and Safeguards
-
-### 1. METR Cap
-The combined Marginal Effective Tax Rate across all programs (PIT, SDD phase-out, UHL, benefit clawbacks) must not exceed 55% at any income level. Annual publication required.
-
-### 2. SSF Supermajority Lock
-The SSF principal cannot be accessed, and the disbursement formula cannot be changed, without a two-thirds supermajority vote in the Legislature.
-
-### 3. Bond Transparency
-Every SaskBond series must publish annual allocation reports showing exactly where every dollar was spent. Second-party opinions required for each series.
-
-### 4. Crown Corporation Performance
-Each new Crown Corporation must publish quarterly financial dashboards and face annual independent performance reviews. Any Crown operating at a loss for more than five consecutive years must submit a restructuring plan to the Legislature.
-
-### 5. Sunset Provisions
-The SME Transition Grants (4 years), Energy Veterans Surcharge (15 years), and Oil & Gas operational licences (15 years) automatically sunset. No legislative action required to end them.
-
-### 6. Debt Ceiling
-Total provincial debt (bonds + operating) must not exceed 60% of GDP. If the ratio exceeds 50%, the Minister of Finance must table a fiscal consolidation plan within 90 days.
-
-### 7. Annual Budget Publication
-A full PBO-style fiscal update must be published annually, including updated 20-year projections, METR analysis, Crown Corporation performance, SSF statements, and bond allocation reports. The numbers hide nothing.
-
----
-
-## Part X — Summary: Where the Money Comes From, Where the Money Goes
-
-### Revenue Sources (Year 10 — Full Implementation, $M)
-
-| Source | Amount ($M) | Share (%) |
-|---|---|---|
-| Personal Income Tax (reformed) | 7,100 | 17% |
-| Resource Royalties (redesigned) | 6,800 | 16% |
-| Federal Transfers | 4,475 | 11% |
-| PST (7%) | 4,750 | 11% |
-| Other Tax Revenue | 4,450 | 11% |
-| Crown Corporation Dividends | 3,115 | 8% |
-| Universal Health Levy | 2,700 | 7% |
-| Other Revenue | 2,690 | 6% |
-| Corporate Income Tax (reformed) | 2,000 | 5% |
-| SDD Tax Clawback | 1,520 | 4% |
-| SSF Interest Disbursements | 1,004 | 2% |
-| EV Surcharge | 450 | 1% |
-| Vacancy/Dormant/Value-Add | 430 | 1% |
-| **Total** | **~$41,484** | **100%** |
-
-### Spending Priorities (Year 10, $M)
-
-| Priority | Amount ($M) | Share (%) |
-|---|---|---|
-| Baseline Government Services | 28,250 | 65% |
-| Dignity Dividend (net) | 4,438 | 10% |
-| Lifelong Learning (incremental) | 3,420 | 8% |
-| Health Expansion (net of UHL) | 1,425 | 3% |
-| Connected Communities | 824 | 2% |
-| Century Corps (net) | 693 | 2% |
-| Fair Labour | 645 | 1.5% |
-| Housing (GRF) | 622 | 1.4% |
-| Public Safety | 613 | 1.4% |
-| Food Sovereignty | 575 | 1.3% |
-| Bond Net Debt Service | 838 | 2% |
-| All Other Policies | 1,008 | 2.4% |
-| **Total** | **~$43,351** | **100%** |
+These risks do not invalidate the platform. They are the reason the document uses ranges, phased buildout, multiple funding lanes, and a conservative base case. Uncertainty is not evidence of failure. It is evidence that the costing model is trying to be real.
 
 ---
 
 ## The Funding
 
-This is Policy 21.
-
-Every number above is an estimate. Every assumption is stated. Every risk is acknowledged.
+Every number above is a range. Every assumption is stated. Every risk is acknowledged.
 
 The honest truth is this: the Saskatchewan 21 Policies cost a great deal of money. They also build a great deal of wealth — human, social, and financial — that compounds over decades. The question is not whether we can afford to do this. The question is whether we can afford not to.
 
 Saskatchewan currently exports raw resources, imports finished goods, and watches its young people leave for opportunities elsewhere. The S21P reverses that flow: we process our own resources, build our own goods, train our own people, and create an economy so attractive that people come to us.
 
-The first decade will be hard. The deficits are real. The debt is real. But so are the homes, the hospitals, the factories, the geothermal loops, the nuclear reactors, the schools, the grocery stores, and the 100,000 families with a place to live.
+The first decade will be hard. The costs are real. The debt is real. But so are the homes, the hospitals, the factories, the geothermal loops, the nuclear reactors, the schools, the grocery stores, and the families with a stable place to live.
 
-By Year 20, Saskatchewan will have:
-- A GDP 28% larger than the status quo.
-- A nearly $48 billion Sovereign Wealth Fund generating $2 billion per year.
-- 100,000 new public housing units.
-- Universal health care with no out-of-pocket costs.
-- A 30-hour work week with $25+ minimum wage.
+The platform is not sold as cheap. It is not sold as risk-free. It is not sold as instantly self-financing. On the hard base case it does not fully balance within 25 years. It is sold as ambitious, difficult, costly, and coherent. It is a 25-year program to build a more stable, more sovereign, less extractive Saskatchewan.
+
+That is the real choice before the province: not between spending and not spending, but between planned reconstruction and continued unmanaged cost escalation. Policy 21 exists to show that this reconstruction has been costed, phased, and tied to a real fiscal framework rather than to wishful thinking.
+
+By Year 25, Saskatchewan will have:
+- Public housing at a scale that fundamentally changes the housing market.
+- Universal health coverage with dramatically lower out-of-pocket costs.
+- A far better-funded education system than Saskatchewan has today.
 - Clean, abundant nuclear and renewable energy.
 - A connected, walkable, transit-linked province.
 - Full digital sovereignty.
 - A thriving manufacturing sector.
 - Meaningful reconciliation backed by real money.
-- And every resident receiving a Dignity Dividend, no questions asked.
+- An intergenerational Sovereignty Fund building wealth for future generations.
+- And a permanent Saskatchewan Social Security floor available to every resident who needs it.
+
+Some of those outcomes will arrive faster than projected. Some will arrive slower. Some will cost more than the base case. Some will cost less. But the direction is clear, the funding lanes are honest, and the guardrails are real.
 
 > We all pay our fair share to share in a fair society.
 
@@ -902,9 +577,9 @@ See all other policies for their specific implementation details.
 
 ### What It Means For You
 
-It means every penny is accounted for.
+It means the major costs, offsets, and risks are accounted for.
 
-It means no surprises, no hidden costs, no broken promises.
+It means fewer hidden assumptions, fewer fiscal illusions, and no fake precision.
 
 It means the dignity of an honest government.
 
@@ -913,17 +588,47 @@ It means the dignity of an honest government.
 # FAQ
 
 - How can you afford all of this?
-	- The same way every major economy has ever built transformative infrastructure: you invest public money in productive assets that grow the economy, and you capture a fair share of resource wealth. We raise revenue through progressive taxation, payroll levies that replace private insurance premiums, redesigned resource royalties, and bonds backed by the assets they build. Then the larger economy generates the tax revenue to sustain the programs. It's a virtuous cycle, not a magic trick.
+	- The same way every major economy has ever built transformative infrastructure: you invest public money in productive assets that grow the economy, and you capture a fairer share of the wealth already produced in the province. In this model, the platform is funded through a mix of ordinary provincial revenue, dedicated levies that replace private costs, redesigned resource revenue capture, long-dated capital borrowing, and conservative public-system recoveries. It is a long-horizon restructuring program, not a one-year budget trick, and it is presented with ranges and uncertainty because that is the honest way to do it.
 
 - Won't this drive businesses out of Saskatchewan?
-	- We are building the best-educated, healthiest, most well-rested workforce in Canada, connected by world-class infrastructure, powered by cheap abundant energy, and backed by a public financial system that keeps capital circulating locally. Businesses don't flee to quality — they flock to it. The 30-hour week and higher minimum wage raise costs for some employers in the short term, but the transition grants, expanded consumer spending, and access to SaskJobs-placed talent more than compensate.
+	- We are building a healthier, better-educated, better-housed workforce, connected by stronger infrastructure, powered by abundant energy, and backed by public and local financial institutions that keep more capital circulating here. Some employers will face higher costs in the short term, but the transition grants, stronger consumer demand, better worker retention, and improved infrastructure are designed to make Saskatchewan a more attractive place to invest over time.
 
 - What if the Climate Lawsuit fails?
 	- The entire fiscal model is built without a single dollar of lawsuit proceeds. If the lawsuit produces nothing, nothing changes. If it produces anything, it's all upside flowing directly to the SSF.
 
-- Isn't $77 billion in bonds too much debt?
-	- Saskatchewan's total debt-to-GDP ratio stays below Ontario's and Quebec's throughout the entire 20-year period. And unlike consumption debt, this debt builds homes, factories, nuclear reactors, and infrastructure that generate revenue. The bonds pay for themselves through the assets they create.
+- Isn't all this bond debt too much?
+	- Saskatchewan's capital borrowing funds homes, factories, nuclear reactors, and infrastructure that build real public assets. Unlike consumption debt, productive debt finances systems that lower future costs, create recoveries, or expand the province's long-run productive capacity. SaskBonds are meant to be transparent, staged, and tied to specific asset classes rather than treated as a blank cheque. Annual debt and debt-service reporting is what keeps that borrowing disciplined.
+
+- Does the platform balance within 25 years?
+	- Not on the hard base case. In the direct-capital model, the platform is still materially in the red in 2051. In the debt-service model, annual balance becomes plausible only if Saskatchewan also achieves meaningful real fiscal-capacity growth and secondary savings beyond the currently modeled hard offsets. In the moderate balance path, annual balance returns around 2053. In the stronger transformation path, it returns around 2042. Cumulative payback takes longer in both cases.
 
 - What if resource prices crash?
-	- The SSF has a Stabilization Reserve equal to two years of expected disbursements. Royalty revenue going to the GRF is smoothed via the five-year rolling average. And the entire point of diversifying from O&G to uranium, lithium, potash, and rare earths is to reduce commodity concentration risk.
+	- The base case is already conservative about long-run resource revenue, and the platform deliberately diversifies both its revenue base and its economic base. It does not depend on one commodity or one price window to stay viable. Phased capital commitments and diversified public revenue streams are the main protection against commodity volatility.
 
+- Why does the document use ranges instead of exact numbers?
+	- Because no honest 25-year projection produces one exact number. The low, base, and high cases exist because construction costs, uptake rates, delivery pace, workforce constraints, and revenue recovery are genuinely uncertain. Ranges are not a sign of weakness. They are a sign that the costing model is trying to be real rather than pretending to know what it cannot.
+
+
+---
+# Notes:
+
+- All figures are in constant 2026 Canadian dollars unless otherwise stated.
+- 25-year horizon (2027–2051).
+- Low, base, and high scenarios reflect uncertainty in construction costs, uptake, delivery pace, workforce constraints, and revenue recovery.
+- The base case includes direct costs and hard offsets only. It does not depend on lawsuit winnings, aggressive export upside, or sweeping GDP growth assumptions.
+- This document includes a stylized debt-service model for financed capital, but formal government budgets would still require instrument-specific debt-service and amortization schedules for GRF-backed, Crown-backed, rate-backed, and bond-funded capital streams.
+- Climate Lawsuit proceeds are excluded from all projections.
+- All projections are estimates and will be updated annually, with a full model refresh every five years.
+
+---
+# References:
+
+- Saskatchewan Provincial Budget 2025-26
+- Parliamentary Budget Officer — Costing Methodology
+- IMF Fiscal Monitor — Fiscal Multiplier Estimates
+- OECD — Revenue Statistics
+- Bank of Canada — Inflation Target
+- Alaska Permanent Fund Corporation — Annual Reports
+- Norway Government Pension Fund Global — Annual Reports
+- Statistics Canada — Saskatchewan Economic Accounts
+- Saskatchewan Bureau of Statistics — Population Projections

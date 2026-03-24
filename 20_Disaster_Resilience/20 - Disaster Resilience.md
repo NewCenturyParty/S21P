@@ -1,6 +1,5 @@
 # Detailed Policy:
 
-
 ### The Problem
 
 Once in a generation catastrophes now happen near yearly. 
@@ -13,15 +12,21 @@ An NCP government will ensure Saskatchewan is ready for any disaster that may co
 
 The NCP will introduce the Saskatchewan Disaster Resilience Act.
 
-This Act will empower the Saskatchewan Public Safety Agency (SPSA) to build out a fleet of Resilience Hubs across the province, in every community, to ensure that no matter where a person lives they are ready for whatever the 21st Century Brings. 
+The Saskatchewan Public Safety Agency will work with municipalities, Indigenous governments, and other local partners to establish a province-wide network of Resilience Hubs.
+
+This network will be tiered. Primary Regional Resilience Hubs will provide full emergency sheltering, clean air refuge, communications, backup power, and emergency supply capacity for major events. Local Resilience Sites will provide more limited refuge functions, such as cooling, warming, clean air access, communications, charging, and short-term support during localized disruptions.
+
+The goal will be for 90% of residents to be able to reach an appropriate Resilience Hub or Site within a 30-minute drive, with placement and capability determined by population, geography, hazard exposure, and local need.
 
 <strong><u>Resilience Hubs:</u></strong> 
 
-The SPSA will work with municipalities across the province to identify potential Resilience Hubs. These Hubs will be located in buildings already designed for large gatherings and then hardened to be able to withstand any disaster that may come and provide a safe haven for the population. 
+Resilience Hubs will be hardened to withstand the major hazards relevant to their location and function, including wildfire smoke, heat emergencies, power outages, severe storms, and other regional risks identified by SPSA.
 
-The goal will be for 90% of residents being able to reach a Resilience Hub within a 30 minute drive. 
+The goal will be for 90% of residents being able to reach an appropriate Resilience Hub or Site within a 30 minute drive. 
 
-Resilience Hubs will receive tax credits for the service they provide. The initial sites to be scouted for Resilience Hubs will include:
+Eligible Resilience Hubs and Sites will receive capital grants, equipment grants, and resilience-service agreements in exchange for the public emergency role they provide. Where a Hub is privately or non-profit owned, the Province may also enter into standby contracts or annual operating agreements to support maintenance, training, storage, insurance, and emergency activation.
+
+The SPSA will work with municipalities across the province to identify potential Resilience Hubs. These Hubs will be located in buildings already designed for large gatherings. The initial sites to be scouted for Resilience Hubs will include:
 
 - Elementary Schools, High Schools, and Universities 
 - Places of Worship
@@ -29,58 +34,41 @@ Resilience Hubs will receive tax credits for the service they provide. The initi
 - Large Supermarkets
 - Malls
 
-Resilience Hub's will be hardened and weatherized so that they can withstand any weather event, with a goal of reaching near passive house levels of energy efficiency and extreme weather resistance. 
+All Primary Regional Resilience Hubs must have islandable backup power capable of maintaining core life-safety, communications, air-quality, refrigeration, and shelter functions during prolonged outages.
 
-All Hub's must have islandable power separate from the grids as to withstand prolonged power outages. Thus they will have supplied their own solar panels and commercial-scale batteries. 
+The Disaster Resilience Act will require islandable backup power by 2035 for all critical human infrastructure, including hospitals, 911 centres, fire halls, police facilities, schools used as emergency sites, and other designated facilities. The specific technical pathway will be determined case by case, not by a one-size-fits-all mandate.
 
-To protect residents during wild fire smoke events or respiratory pandemics, all Hubs will have hospital grade levels of air quality, with a goal of 15+ Air Changes per Hour (ACH). To achieve this the Hub's will receive grants to upgrade their air filtration with new MERV 13+ filters, HEPA filters, including portable filters for areas where central air cannot reach or move air effectively. 
+Backup power may be provided through solar and battery systems, micro-grids, district-energy systems, standby generation, or other approved resilience technologies, depending on the size, hazard profile, and operational role of the site.
 
-Satellite phone and internet, and regular radios, will be installed in all Hubs as well so that communications can persist regardless of disaster. 
+To protect residents during wild fire smoke events or respiratory pandemics, all primary Hubs will have hospital grade levels of air quality, with a goal of 15+ Air Changes per Hour (ACH). To achieve this the Hubs will receive grants to upgrade their air filtration with new MERV 13+ filters, HEPA filters, including portable filters for areas where central air cannot reach or move air effectively. 
 
-The SPSA will run quarterly audits and drills to ensure that all Resilience Hubs are consistent, up to date, and ready for anything. 
+Satellite phone and internet, and radios, will be installed in all primary Hubs as well so that communications can persist regardless of disaster. 
 
-All Hubs must have 72 hours worth of supplies that includes:
+The SPSA will run tiered annual audits and drills based on Resilience Hub type to ensure that all Resilience Hubs are consistent, up to date, and ready for anything. 
 
-- Potable Water
-- Cots and Beds
-- Blankets
-- First-Aid kits
-- Oxygen tanks
-- Charging and power infrastructure
-- Refrigerated medication storage
-- Radio and other communications equipment 
+Every Ministry, Crown corporation, municipality, school division, hospital, and other designated public institution will be required to maintain an all-hazards Emergency and Disaster Response Plan.
 
-Additionally, the SPSA will mandate that every Ministry, Crown Corp, Municipality, school, hospital, etc to have an Emergency and Disaster Response Plan. These plans must include extensive preparation and planning for various disaster possibilities, including the following:
+These plans must include a common core of emergency management functions, including command structure, communications, evacuation, continuity of operations, supply continuity, vulnerable-person support, and recovery procedures.
 
-- Active Shooter
-- Wildfire - Forrest
-- Wildfire - Prairie Plains
-- Wildfire Smoke 
-- Flood - River Expansion
-- Flood - Rain / Flash Flood
-- Earthquake
-- Tornado 
-- Severe / Life threatening Thunderstorm
-- Extreme Drought
-- Extreme Heat and Heat Domes
-- Prolonged (24 hr +) Power Outage - All causes 
+In addition, each institution must maintain hazard-specific annexes for the disasters relevant to its region, infrastructure, and operational role, including where applicable: wildfire, wildfire smoke, flood, flash flood, tornado, severe storm, extreme heat, drought, earthquake, prolonged power outage, active shooter, respiratory pandemic, and other risks designated by SPSA.
 
-The SPSA will also be mandated to work with Indigenous Nations across the province to complete prescribed burns of Saskatchewan forests to prevent future out of control wildfires. 
+Resilience Hubs will not exist only for once-in-a-decade disasters. They will also function as public clean-air, cooling, warming, charging, and communications sites during recurring smoke events, heat emergencies, cold snaps, and extended outages.
 
-The Disaster Resilience Act will include a requirement of islandable power by 2035 for all critical human infrastructure, including the following places:
+SPSA standards for Resilience Hubs must include accessibility, backup medication refrigeration, disability access, multilingual signage where needed, and protocols for seniors, children, disabled residents, and medically vulnerable people.
 
-- Hospitals
-- Schools
-- 911 Centres
-- Police Precincts
-- Jails
-- Fire Halls
-- All Resilience Hubs
-- Power Grids
+The SPSA will also be mandated to work with municipalities, Indigenous governments, and other local partners across the province to complete prescribed burns of Saskatchewan forests to prevent future out of control wildfires. 
 
 ### The Funding
 
-This policy is funded from the General Revenue Fund, and aligned to the revenue measures in Policy 21 - Funding.
+The Disaster Resilience Act will be funded through a combination of General Revenue Fund support, dedicated SPSA capital programs, municipal and institutional cost-sharing, and utility or Crown participation where infrastructure upgrades overlap with communications, backup power, or public facility modernization.
+
+The first phase of funding will focus on site identification, hazard assessments, emergency planning standards, communications upgrades, stockpiles, and the retrofitting of Primary Regional Resilience Hubs.
+
+The second phase will focus on broader hardening, backup-power installation, air-quality upgrades, local resilience sites, and the gradual islanding of designated critical infrastructure through 2035.
+
+Public sites may be directly capitalized by the Province. Privately owned or non-profit sites designated as Resilience Hubs may receive capital grants, resilience-service contracts, and emergency standby agreements in exchange for meeting provincial standards and remaining available for activation during emergencies.
+
+Where eligible, Saskatchewan will also pursue federal disaster-mitigation and resilience cost-sharing, but the operation of the system will not depend on federal participation.
 
 ### What It Means For You
 
@@ -88,26 +76,36 @@ It means being proactive, not reactive.
 
 It means you have peace of mind.
 
-It means the dignity of protecting each other.
-
----
+It means the dignity of protecting each other. 
 
 # FAQ
 
 - What is a Resilience Hub?
-	- A building already designed for large gatherings, like schools, community centres, and places of worship, that has been hardened to withstand any disaster. They have islandable power, hospital-grade air filtration, satellite communications, and 72 hours of emergency supplies.
+	- A Resilience Hub is a designated public or community site that can provide refuge, clean air, backup power, communications, and emergency supplies during disasters. Some will be full Regional Resilience Hubs with shelter capacity, while others will be smaller Local Resilience Sites focused on shorter-term support.
 
 - How close will the nearest Resilience Hub be?
-	- The goal is for 90% of residents to be within a 30-minute drive of a Resilience Hub.
+	- The goal is for 90% of residents to be able to reach an appropriate Resilience Hub or Site within a 30-minute drive, with placement and capability based on population, geography, local hazard exposure, and community need.
 
-- What kind of disasters are covered?
-	- Every Ministry, Crown Corp, municipality, school, and hospital must have plans for active shooters, wildfires, floods, earthquakes, tornadoes, severe thunderstorms, extreme drought, heat domes, and prolonged power outages, among others.
+- What kinds of emergencies will these sites help with?
+	- Resilience Hubs are meant to support people during major regional disasters and recurring local emergencies alike, including wildfire smoke, heat waves, cold snaps, severe storms, floods, prolonged power outages, and other disruptions identified by SPSA.
 
 - What is islandable power?
-	- It means a building can operate independently from the electrical grid using its own solar panels and batteries, ensuring it stays powered even during prolonged outages. All critical infrastructure like hospitals, schools, and 911 centres must have islandable power by 2035.
+	- It means a facility can continue operating independently from the main grid during an outage. Depending on the site, that may involve solar and batteries, a microgrid, standby generation, district energy, or another approved backup-power system.
 
-- Will there be prescribed burns to prevent wildfires?
-	- Yes. The SPSA will work with Indigenous Nations across the province to complete prescribed burns of Saskatchewan forests to prevent future out-of-control wildfires.
+- Will every building have the same level of protection?
+	- No. The system will be tiered. Major regional hubs will provide broader shelter and support functions, while smaller local sites may focus on clean air, cooling, warming, charging, communications, and short-term emergency support.
 
 - What supplies will Resilience Hubs have?
-	- At minimum: potable water, cots and beds, blankets, first-aid kits, oxygen tanks, charging and power infrastructure, refrigerated medication storage, and radio and other communications equipment.
+	- At minimum, designated hubs will maintain emergency water, cots or sleeping space, blankets, first-aid supplies, communications equipment, charging access, medication refrigeration, and other core emergency supplies required by provincial standards.
+
+- Who has to prepare emergency plans?
+	- Ministries, Crown corporations, municipalities, school divisions, hospitals, and other designated public institutions will all be required to maintain all-hazards emergency plans, with hazard-specific annexes for the risks relevant to their location and function.
+
+- Will there be prescribed burns to prevent wildfires?
+	- Yes. SPSA will work with Indigenous Nations and other relevant partners to support prescribed burns and other land-management practices that reduce the risk of catastrophic wildfire.
+
+- How is this funded?
+	- The system will be funded through a combination of General Revenue Fund support, SPSA capital programs, cost-sharing with municipalities and institutions, and resilience-service agreements for designated non-profit or private sites. Saskatchewan will also pursue federal disaster-mitigation cost-sharing where available, but the system will not depend on federal participation.
+
+- Are Resilience Hubs only for rare disasters?
+	- No. They are also meant to serve during recurring smoke events, heat emergencies, cold snaps, and extended outages, so that people have somewhere safe to go even when the emergency is not a once-in-a-generation event.

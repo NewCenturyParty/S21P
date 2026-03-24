@@ -1,6 +1,5 @@
 # Detailed Policy 
 
-
 #### The Problem
 
 The workers who build and power the world as we know it are tied up and invested in a dying industry that will soon abandon them. 
@@ -34,7 +33,11 @@ For the Energy Veterans who have served their time and are ready to take their w
 - A $15,000 Energy Veterans Bonus. 
 - A new Saskatchewan Prosperity Medal will be bestowed to honour a worker's service and contribution to Saskatchewan Prosperity.
 - Four (4) years of Energy Veterans Debt Shield Protections. 
-	- The Province will provide a "Debt Shield" which will reimburse 100% of the interest on your primary residential mortgage and one primary vehicle each month during those four years. 
+	- The Province will provide a "Debt Shield" which will reimburse a certain percent of the interest on primary residential mortgages and one primary vehicle (both subject to regulatory caps) each month during those four years, declining 25 percentage points per year.
+		- Year 1: 100% of interest
+		- Year 2: 75% of interest
+		- Year 3: 50% of interest
+		- Year 4: 25% of interest 
 - A Pension Bridge that will pay the unreduced expected pension for the individual for up to 6 years until they qualify for their OAS/CPP or their plan's full unreduced pension.
 
 
@@ -45,11 +48,15 @@ For those who want to go and learn something new, or further their existing know
 - A $15,000 Energy Veterans Bonus. 
 - A new Saskatchewan Prosperity Medal will be bestowed to honour a worker's service and contribution to Saskatchewan Prosperity.
 - Four (4) years of Energy Veterans Debt Shield Protections. 
-	- The Province will provide a "Debt Shield" which will reimburse 100% of the interest on your primary residential mortgage and one primary vehicle each month during those four years. 
+	- The Province will provide a "Debt Shield" which will reimburse a certain percent of the interest on primary residential mortgages and one primary vehicle (both subject to regulatory caps) each month during those four years, declining 25 percentage points per year.
+		- Year 1: 100% of interest
+		- Year 2: 75% of interest
+		- Year 3: 50% of interest
+		- Year 4: 25% of interest 
 - A 1 : 1 Pension / Ticket Parity. We will honour your ticket and earned experience, including time used for education. This means if you have 20 years in the patch, you will have 20 years of pension seniority. 
 - A full scholarship (tuition, fees, books, tools, bus pass) for any post-secondary or vocational training done in Saskatchewan, provided they meet satisfactory academic progress and performance.
-- Wage replacement matching the best T4 from the past five years while in school. However, there will be a limit of $75,000 per year, with satisfactory academic performance stipulations.
-- A monthly childcare stipend for workers with children under 13 while in full-time education, covering up to 90% of licensed childcare costs.
+- Wage replacement matching, while in school, up to 75% of the average of the three best T4s from the past five years worked. However, there will be a limit of $55,000 per year, with satisfactory academic performance stipulations.
+- A monthly childcare stipend for workers with children under 13, or 18 if they have special needs, while in full-time education, covering up to 90% of licensed childcare costs.
 
 
 <strong><u>Redeploy:</u></strong>
@@ -59,7 +66,11 @@ For those ready to do the job of tomorrow, today, the province will offer:
 - A $15,000 Energy Veterans Bonus. 
 - A new Saskatchewan Prosperity Medal will be bestowed to honour a worker's service and contribution to Saskatchewan Prosperity.
 - Four (4) years of Energy Veterans Debt Shield Protections. 
-	- The Province will provide a "Debt Shield" which will reimburse 100% of the interest on your primary residential mortgage and one primary vehicle each month during those four years. 
+	- The Province will provide a "Debt Shield" which will reimburse a certain percent of the interest on primary residential mortgages and one primary vehicle (both subject to regulatory caps) each month during those four years, declining 25 percentage points per year.
+		- Year 1: 100% of interest
+		- Year 2: 75% of interest
+		- Year 3: 50% of interest
+		- Year 4: 25% of interest 
 - A 1 : 1 Pension / Ticket Parity. We will honour your ticket and earned experience, including time used for education. This means if you have 20 years in the patch, you will have 20 years of pension seniority. 
 - Job placement priority in partnership with SaskJobs, who will actively place skilled workers into relevant positions ready to start right away, or in a position in the Saskatchewan Century Corps to learn a new role on the job. No one is making a driller learn to code. 
 - Employers like SaskEnergy will hire drillers for their geothermal and ambient loop projects. SaskPower will hire skilled welders for the high pressure CANDU nuclear reactors piping. We aren't asking roughnecks to learn to code. Companies will need experts on these wells in order to clean and cap them properly. We are asking them to do the same jobs, just with more security, pensions, and the ability to sleep in their own beds at the end of the day. 
@@ -86,11 +97,18 @@ Case managers will be hired with caseloads capped at 75 workers each to ensure p
 
 #### The Funding
 
-In specified Oil and Gas NAICS codes industries, businesses will pay a 5.5% Energy Veterans Security surcharge on all annual Saskatchewan revenues. This surcharge will be paid into the Saskatchewan Sovereignty Fund.
+The Energy Veterans pathways and the Energy Veterans Agency will be funded through a dedicated Energy Veterans Transition Fund.
 
-A ring fenced portion of an annual endowment from the Saskatchewan Sovereignty Fund will be paid to the General Revenue Fund, which by law must be used for the above stated Energy Veteran pathways and the Energy Veterans Agency. 
+This Fund will be financed through a combination of sector transition levies on the oil and gas industry, resource revenues, and transfers from general revenues as required during the transition period.
+
+The exact levy structure will be designed to reflect the managed sunset of the oil and gas sector, the need to protect workers, and the principle that the industry which profited from Saskatchewan's resources must contribute to the cost of supporting the workers who powered it.
+
+Any future transfers from broader public investment or endowment vehicles may supplement the Fund, but the worker protections in this policy will not depend on any single financial instrument or revenue source.
+
+To make it absolutely, abundantly clear: The workers will not be left holding the bag.
 
 	See Policy 17 - Financial Sovereignty for more.
+	See Policy 21 - Funding for more.
 
 #### What It Means For You
 
@@ -100,7 +118,6 @@ It means clean work and a clean conscience.
 
 It means the dignity of building a better future. 
 
---- 
 # FAQ 
 
 - Isn't this just a rebranded "Just Transition"?
@@ -108,28 +125,34 @@ It means the dignity of building a better future.
 	- No. Just Transition is a corny, demeaning, term and has no place in this Party or platform. We respect Energy Veterans for their hard work and constant service and we will back that respect up accordingly. We are not asking drillers to code. We need them to continue drilling.
 
 - What are the three pathways?
-	- Retire, Retrain, or Redeploy. Retire honours those ready to rest with a bonus, debt shield, and pension bridge. Retrain provides a full scholarship and wage replacement for those who want to learn something new. Redeploy places workers directly into new jobs that use the same skills they already have.
+	- Retire, Retrain, or Redeploy. Retire honours those ready to step away with a bonus, debt shield, and pension bridge. Retrain provides a full scholarship and wage replacement for those who want to learn something new. Redeploy places workers directly into new jobs that use the same skills they already have.
 
 - Who is eligible?
-	- Any worker in specified Oil and Gas NAICS code industries who has worked in the sector for 24 of the last 60 months, has the legal right to live or work in Saskatchewan, and commits to residing and working in Saskatchewan for five years or more. For the first year, it is exclusive to Saskatchewan residents. After that, it opens to all Oil and Gas workers across Canada.
+	- Any worker in specified Oil and Gas NAICS code industries who has worked in the sector for 24 of the last 60 months, has the legal right to live or work in Saskatchewan, and commits to residing and working in Saskatchewan for at least five years, unless they are retiring. For the first year, the offer is exclusive to Saskatchewan residents who have lived and worked in province for more than two years. After that, it opens to eligible oil and gas workers across Canada.
 
 - What is the $15,000 Energy Veterans Bonus?
 	- Every eligible worker who chooses any of the three pathways receives a $15,000 bonus, no questions asked, along with the Saskatchewan Prosperity Medal honouring their service.
 
 - What is the Debt Shield?
-	- For four years, the province reimburses 100% of the interest on your primary residential mortgage and one primary vehicle each month. It is available under all three pathways.
+	- The Debt Shield is temporary transition support available under all three pathways. For four years, the province will reimburse a declining share of the interest on a worker's primary residential mortgage and one primary vehicle loan, subject to reasonable regulatory caps.
 
 - What is Pension and Ticket Parity?
-	- If you have 20 years in the patch, you get 20 years of pension seniority in your new role. Your tickets and earned experience are honoured. This applies to both the Retrain and Redeploy pathways.
+	- If you have 20 years in the patch, you keep credit for those 20 years when moving into a new eligible role. Your tickets, experience, and years of service are recognized instead of thrown out. This applies to both the Retrain and Redeploy pathways. No roughneck is getting left in the dust.
+
+- What happens if I retrain and go back to school?
+	- The province will cover tuition, fees, books, tools, and a bus pass for approved Saskatchewan education and training programs. While in school, workers will receive wage replacement equal to up to 75% of the average of their best three T4 years from the past five years worked, capped at $55,000 annually, so long as they maintain satisfactory academic performance.
 
 - Will I take a pay cut if I redeploy?
-	- The Government will offer Wage Top Ups for up to four years if the new job pays less. The Top Ups cover 100% of the wage difference from month one and gradually decline to 0%.
+	- If your new job pays less than your old oil and gas job, the province will provide temporary Wage Top Ups for up to four years. These top ups begin by covering the full wage difference and then gradually decline over time.
 
 - What kind of new jobs will be available?
-	- Drillers can work on SaskEnergy's geothermal and ambient loop projects. Skilled welders can work on SaskPower's CANDU nuclear reactor piping. Companies will need experts to clean and cap wells. The same skills, just more security, pensions, and the ability to sleep in your own bed.
+	- Jobs that match the real skills these workers already have. Drillers can move into geothermal and ambient loop projects. Welders can work on high-pressure energy infrastructure. Field workers can cap wells, clean legacy sites, and build the next generation of Saskatchewan energy systems. We are not asking roughnecks to become software engineers. 
 
 - Is this mandatory?
-	- No. These pathways are completely voluntary. Workers who prefer to remain in oil and gas may do so, though they are encouraged to plan for the industry's eventual sunset.
+	- No. These pathways are voluntary. Workers who want to stay in oil and gas may do so, though they are encouraged to plan for the industry's eventual sunset.
 
 - How is this funded?
-	- Oil and gas businesses pay a 5.5% Energy Veterans Security surcharge on all annual Saskatchewan revenues. That money goes into the Saskatchewan Sovereignty Fund, and a ring-fenced portion is paid out annually to fund the Energy Veterans pathways and Agency.
+	- The Energy Veterans pathways and the Energy Veterans Agency will be funded through a dedicated Energy Veterans Transition Fund. This Fund will be financed through a combination of sector transition levies on the oil and gas industry, resource revenues, and transfers from general revenues as required during the transition period.
+
+- Why should the public pay for this?
+	- Because if Saskatchewan is going to phase down oil and gas, Saskatchewan has a duty to take care of the workers who built and powered the province, from minus 40 to plus 40. They had our backs through it all, and come hell or high water, we will have theirs. 

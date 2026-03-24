@@ -42,7 +42,7 @@ Everything is version-controlled so the history of a policy’s development stay
 
 ### 1. Fork or Branch
 
-- **If you have write access:** create a feature branch off `main` (e.g., `git checkout -b policy-07-harm-reduction`).
+- **If you have write access:** create a feature branch off `main`.
 - **If you do not have write access:** fork the repository via GitHub, then clone your fork locally.
 
 ### 2. Make Focused Changes

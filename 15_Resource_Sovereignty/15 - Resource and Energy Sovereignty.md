@@ -12,20 +12,33 @@ The NCP will capture the future resources sector ensuring the benefits go to the
 
 The NCP will introduce The Saskatchewan Natural Resources Sovereignty Act and amendments to the Power Corporation Act. Together this will allow Saskatchewan to have the resources and power be built and extracted by the people and for the people. 
 
-The Act will mandate for all new or expanded major resource development projects in Saskatchewan, the province reserves the right to purchase a majority equity working interest stake of no less than 66%, at audited cost to date, with back-in rights. Half of the Government's purchase must by law be immediately sold at audited cost to a collective trust owned and operated by all Treaty Nations, First Nations, and Métis, governing bodies of Saskatchewan.
+The Act will mandate that all new major or newly expanded resource projects must operate under a trilateral co-ownership model. Ownership will be divided equally between the Provincial Crown, the Treaty Nations Resource Trust, and the private operating partner, with each holding a 33 1/3% working interest.
 
-All new major or newly expanded resource projects must be trilaterally co-owned by the Provincial Crown, the Sovereign Treaty and First Nations as a collective, and any private company interested in partnership, should there be any. It will be a trilateral co-ownership model, where ownership and profit will be split three ways: 33% - 33% - 33%. 
+- 33 1/3% of the project shall be owned by the Government of Saskatchewan, and they will have a veto over the project. 
+- 33 1/3% of the project shall be owned by the Treaty Resource Trust of Saskatchewan, and they will have a veto over the project. 
+- 33 1/3% of the project shall be owned by the company, and they will not have a veto on the project. 
 
-- 33% of the project shall be owned by the Government of Saskatchewan, and they will have a veto over the project. 
-- 33% of the project shall be owned by the Treaty nations of Saskatchewan, and they will have a veto over the project. 
-- 33% of the project shall be owned by the company, and they will not have a veto on the project. 
-- The final 1% of the project shall owned by and held in trust, co-owned by all stakeholders, with payments exclusively used for maintenance and upkeep costs of the project.
+To achieve this structure, the Province will reserve the right to acquire a 66 2/3% working interest, purchased at audited cost to date, with one-half of that acquired interest immediately transferred at audited cost to the Treaty Nations Resource Trust.
+
+The Saskatchewan Indigenous Resource Trust will hold the Indigenous ownership share in projects operating under the trilateral model.
+
+The Trust will be established through a governance framework co-developed with First Nations, Métis governments, and other relevant Indigenous governing bodies in Saskatchewan, consistent with the Consent Protocol and the Saskatchewan UNDRIP Implementation Act. The Province will not unilaterally determine who is entitled to participate in the Trust or how the Trust is governed. 
+
+That framework will determine membership, representation, voting rules, revenue allocation, and the process for identifying which Indigenous governing body or bodies are most directly connected to a given project by treaty, territory, community connection, or other recognized Indigenous interest.
+
+As a general rule, the Trust will provide for broad Indigenous participation at the provincial level, while ensuring that the Indigenous nations, governments, and communities most directly affected by or connected to a specific project have the strongest role in decisions, consent, and benefit sharing related to that project.
+
+The Province will provide initial capacity funding to support the creation of the Trust, but final authority over its governance structure will rest with the participating Indigenous governments and governing bodies themselves.
+
+	See Policy 04 - Reconciliation for more. 
+
+Each project must also maintain a jointly governed maintenance, reclamation, and capital-upkeep reserve funded from project revenues or distributions under rules set by regulation.
 
 Existing resource operations will continue under current agreements until lease renewal or significant expansion, at which point the trilateral model will apply. In the interim, royalty rates for existing operations will be increased to ensure fair public return.
 
 The trilateral ownership model applies to all non-renewable resource extraction, including potash, uranium, lithium, rare earths, and other minerals. Existing potash operations will continue under current agreements, with the trilateral model applying to any new mines or significant expansions.
 
-This is about true partnership, equality, and co-government with the Sovereigns, the Treaty Nations and First Nations who have always called this place home. The Corporations are considered to be valuable, but voluntary, partners in Saskatchewan Resources. They will not have a veto or be able to dictate final terms for the Province or Sovereigns. Should they not agree to the 33% stake, they will forfeit their share, which will be divided evenly to the Province and Sovereigns for a 50 / 50 split. Other ways for corporations to forfeit their share include:
+This is about true partnership, equality, and co-government with the Treaty Nations who have always called this place home. The Corporations are considered to be valuable, but voluntary, partners in Saskatchewan Resources. They will not have a veto or be able to dictate final terms for the Province or Sovereigns. Should they not agree to the 33 1/3% stake, they will forfeit their share, which will be divided evenly to the Province and Sovereigns for a 50 / 50 split. Other ways for corporations to forfeit their share include:
 
 - The corporation explicitly declines in writing to proceed with development.
 - The corporation fails to meet capital calls within 90 days notice.
@@ -36,7 +49,7 @@ The Treaty Nations Resource Trust will be governed by a board with representatio
 
 Decision-making processes within the Treaty Nations Resource Trust will be determined by participating Indigenous governments. The Province commits to working with whatever governance structure the Nations establish.
 
-While this is a 67% haircut to the corporations, it also saves millions in litigation, protest delays, and a 66% immediate return on CAPEX for exploration and initial costs. It means if we all respect each other, things can happen quickly. 
+While this is not the typical ownership model corporations are used it, it saves millions in litigation, protest delays, and includes an 66 2/3% immediate return on CAPEX for exploration and initial costs. It means if we all respect each other, things can happen quickly. 
 
 Also introduced in this Act is a Value-Add Levy that increases the costs of shipping specified raw resources, like Uranium (Yellowcake) and more to determined by regulation, to encourage local refinement over shipping raw products. 
 
@@ -48,6 +61,20 @@ The Dormant Lease Tax will begin at $50 per hectare in year one of inactivity, e
 
 Water resources are excluded from the trilateral model. All water rights and water-related projects will be jointly managed by the Provincial Crown and Treaty Nations, with no private ownership or corporate participation permitted. 
 
+Additionally, the resource royalties of Saskatchewan will be completely remade as to provide greater benefit and overall clarity to the people of Saskatchewan. 
+
+Resource projects not operating under the trilateral ownership model will be subject to a new royalty regime designed to ensure Saskatchewan receives a strong public return.
+
+A Base Royalty of 30% will apply to gross resource revenue on the first arm's-length sale, or deemed sale, of the resource.
+
+In addition, a Windfall Levy will apply where benchmark market prices exceed a threshold prescribed by regulation. The Windfall Levy will be equal to 50% of the excess value above that benchmark threshold, calculated on the volume sold during the relevant period.
+
+Gross resource revenue means the total value received or receivable on the first arm's-length sale, or deemed sale, of the resource, before deduction of operating costs, capital costs, financing costs, depreciation, hedging losses, management fees, transfer-pricing adjustments, or related-party charges, subject only to transportation and quality adjustments prescribed by regulation.
+
+Where a resource is sold to a related party or transferred internally, the sale price shall be deemed to be the higher of the transfer price and the applicable benchmark price.
+
+Projects operating under the trilateral ownership model will deliver public return primarily through Crown and Indigenous equity ownership, dividends, and any standard regulated production charges that continue to apply.
+
 <strong><u>The Saskatchewan Natural Resources Corporation (SNRC):</u></strong>
 
 The Act will establish a new Crown corporation to be known as the Saskatchewan Natural Resources Corporation (SNRC), with a mandate to set up and operate new or expanded major resource projects in direct partnership with industry and local Indigenous governing bodies, communities and organizations.They will be the representative of the Crown for the 33 - 33 - 33 trilateral ownership split. 
@@ -56,7 +83,9 @@ The SNRC will prioritize building new mines and other non-renewable resource ext
 
 To reiterate, the SNRC is prohibited from initiating new fossil fuel projects. However, under Policy 13 - Climate Crossroads, the SNRC may serve as operator of last resort for existing fossil fuel assets transferred to provincial control during the managed sunset of the industry.
 
-The SNRC is mandated partner to with the Saskatchewan Manufacturing Corporation (SMC) to build a Mine to Uranium Refinery and Fuel Fabrication Facility track in Saskatchewan. The goal is a total verticalization of the uranium power industry in Saskatchewan. Instead of only simply shipping out yellowcake (Uranium Dirt that is literally yellow) we will make the fuel pellets and rods in Saskatchewan. This fuel will be used to power SaskPower's CANDU reactors, with excess fuel and electrons being sold to the market. 
+The SNRC is mandated partner to with the Saskatchewan Manufacturing Corporation (SMC) to build a Mine to Uranium Refinery and Fuel Fabrication Facility track in Saskatchewan. The goal is a total verticalization of the uranium power industry in Saskatchewan. 
+
+Instead of just shipping out Yellowcake, we will make the fuel in Saskatchewan. That fuel will be used to power SaskPower's CANDU reactors, with the excess fuel and electrons being sold to the market. 
 
 The Uranium Refinery and Fuel Fabrication Facility will be operational within 10 years, with phased construction beginning within the first term. Initial CANDU reactors may use imported fuel until domestic fabrication capacity is established.
 
@@ -96,13 +125,13 @@ Those who sign up to be part of the VPP will have their solar and battery storag
 
 SaskPower must immediately begin expansion of its energy generation. There will be Solar Farms and Wind Farms built and maintained throughout the province wherever they can be most efficient and useful. 
 
-The bulk of the new power generation will come from a new fleet of modern CANDU nuclear reactors. These reactors will be built and operated throughout the province, providing new, clean, and abundant baseload power. 
+SaskPower will also develop a Nuclear Expansion Plan within 24 months. The first reactors will be planned primarily to meet Saskatchewan's own rising electricity demand, grid modernization needs, industrial growth, and electrification goals.
 
-SaskPower will develop a Nuclear Expansion Plan within 24 months, with an initial target of 4-6 CANDU reactors over 20 years, subject to demand projections, grid capacity, and financing availability. Additional reactors may be added as export demand from MISO and neighbouring provinces materializes.
+An initial target of 4 to 6 CANDU reactors over 20 years will guide planning, but actual buildout will proceed in phases and remain subject to licensing, financing, workforce capacity, grid readiness, and demonstrated public need.
 
-Expanding export capacity to MISO will require significant transmission infrastructure investment and cross-border regulatory agreements. SaskPower will begin preliminary interconnection studies and discussions with MISO and relevant US regulators within the first term.
+Saskatchewan's long-term goal is to fuel these reactors with fuel fabricated in Saskatchewan through the Uranium Refinery and Fuel Fabrication Facility. Early reactors may use imported fuel until domestic fabrication capacity is established.
 
-Export agreements with neighbouring provinces will be structured to support regional energy security while generating revenue for Saskatchewan.
+Export-oriented expansion, including additional reactors and major new transmission to MISO or neighbouring provinces, will proceed only where interconnection studies, regulatory approvals, and long-term market agreements demonstrate a clear public benefit to Saskatchewan.
 
 Nuclear facility licensing falls under federal jurisdiction through the Canadian Nuclear Safety Commission. The Province will work cooperatively with federal regulators while asserting Saskatchewan's constitutional authority over electricity generation and resource development.
 
@@ -112,13 +141,21 @@ To reiterate, we will be using CANDU reactors, burning our own unenriched uraniu
 
 These new reactors will use fuel fabricated in Saskatchewan at the Uranium Refinery and Fuel Fabrication Facility built by the SNRC and SMC.
 
-#### The Funding 
+#### The Funding
 
-The primary upfront funding for these major projects will come from SaskBond revenues and funding from the General Revenue Fund for daily operations. 
+The upfront capital for this policy will come from a combination of SaskBond revenues, Crown borrowing, retained public revenues, and targeted support from the General Revenue Fund during the buildout phase.
 
-Ongoing funding for the SNRC will come from its share of profits from resource projects, and ongoing funding for SaskPower will come from its revenues.
+The Saskatchewan Natural Resources Corporation will be capitalized initially through public borrowing and direct provincial investment. Over time, its operating and expansion capital will increasingly come from its equity share of project revenues, dividends, retained earnings, and value-added processing income.
 
-Costs will be offset by the Dormant Lease Levy on speculative mineral leases, as well as the lower operating costs of modern power generation and a more efficient grid.
+The Treaty Nations Resource Trust will receive initial capacity funding from the Province to establish its governance and operating structure. Where financing is required for Indigenous equity participation in major projects, the Province will work through public financing tools and the Saskatchewan Financial Group to ensure that Indigenous ownership is real and financed, not merely symbolic.
+
+Projects outside the trilateral ownership model will be a major source of public capital during the transition. Revenues from the Base Royalty, Windfall Levy, Dormant Lease Tax, and Value-Add Levy will be used to strengthen the Province's fiscal position, support public investment in resource sovereignty, and finance the transition toward greater public and Indigenous ownership.
+
+SaskPower's grid modernization, Virtual Power Plant buildout, EV charging network, transmission expansion, and new generation assets will be financed primarily through Crown utility borrowing, SaskBond capital programs, and phased rate-backed investment, with provincial support where required for strategic infrastructure.
+
+Major nuclear, refinery, fuel-fabrication, transmission, and export projects will proceed in phases. No major construction commitment will be made without updated business cases, financing plans, regulatory approvals, workforce planning, and public-interest assessments.
+
+Over time, the long-term funding base for this policy will come from public ownership itself: resource dividends, power revenues, value-added processing income, fuel fabrication, electricity sales, and export earnings. The purpose of this policy is not simply to regulate private activity more tightly, but to ensure Saskatchewan captures the lasting value of its own resources and energy systems.
 
 #### What It Means For You
 
@@ -126,29 +163,43 @@ It means the Saskatchewan resident benefits from Saskatchewan resources.
 
 It means power outages are a thing of the past. 
 
-It means the dignity in powering the province ourselves.
+It means the dignity in powering the province ourselves. 
 
----
+# # FAQ
 
-# FAQ
+-  What is the Saskatchewan Indigenous Resource Trust?
+	- It is the collective Indigenous ownership vehicle that will hold the Indigenous equity share in major resource projects. Its structure will be co-developed with First Nations, Métis governments, and other relevant Indigenous governing bodies in Saskatchewan. The Province will not decide on its own who belongs in the Trust or how it is governed.
 
 - What is the trilateral ownership model?
-	- All new or expanded major resource projects must be co-owned three ways: 33% by the Government of Saskatchewan, 33% by the Treaty Nations of Saskatchewan collectively, and 33% by the private company. Both the Province and Treaty Nations have a veto; the corporation does not.
+	- All new major or significantly expanded non-renewable resource projects in Saskatchewan will operate under a trilateral co-ownership model. Ownership will be divided equally between the Provincial Crown, the Treaty Nations Resource Trust, and the private operating partner, with each holding a 33 1/3% working interest. The Province and the Treaty Nations Resource Trust will each have a veto; the private partner will not.
 
-- What happens if a company refuses the 33% stake?
-	- They forfeit their share, which is divided evenly between the Province and Treaty Nations for a 50/50 split.
+- How does the Province get to that ownership split?
+	- The Province will reserve the right to acquire a 66 2/3% working interest in new or expanded projects at audited cost to date. One-half of that acquired interest will then be immediately transferred at audited cost to the Treaty Nations Resource Trust, creating the final 33 1/3% / 33 1/3% / 33 1/3% ownership structure.
+
+- What happens if a company refuses to participate?
+	- If a company refuses the ownership structure, fails to meet its capital obligations, walks away from development, or otherwise forfeits its participation under the Act, its share will be redistributed equally between the Province and the Treaty Nations Resource Trust, resulting in a 50 / 50 public-Indigenous ownership structure.
 
 - Does this apply to existing mines?
-	- Existing resource operations continue under current agreements until lease renewal or significant expansion, at which point the trilateral model applies. In the interim, royalty rates will be increased.
+	- Existing resource operations will continue under their current agreements until lease renewal or significant expansion. At that point, the trilateral ownership model will apply. In the meantime, projects outside the trilateral model will face a new royalty regime designed to secure a much stronger public return.
+
+- What is the Treaty Nations Resource Trust?
+	- It is the collective Indigenous ownership vehicle that will hold the Indigenous equity share in major resource projects. Its governance structure will be determined by participating Treaty Nations, First Nations, and Métis governments, with the Province providing initial capacity funding but not final authority.
 
 - What is the SNRC?
-	- The Saskatchewan Natural Resources Corporation is a new Crown corporation that operates resource projects in partnership with industry and Indigenous governing bodies. It prioritizes uranium mining and refinement and is prohibited from initiating new fossil fuel projects.
+	- The Saskatchewan Natural Resources Corporation is the Crown corporation that will represent the Province in major resource projects. It will develop new non-fossil fuel resource projects in partnership with Indigenous governments and private operators, with an initial focus on uranium, mining, processing, and value-added development.
 
-- Why CANDU reactors?
-	- CANDU reactors use unenriched uranium, which Saskatchewan already produces. There is no proliferation risk, and as a bonus they produce medical isotopes for cancer treatment and diagnostics.
-
-- What is the Virtual Power Plant?
-	- A network that links household solar panels, batteries, EVs, and smart appliances into a unified grid asset. Those who sign up get $0 upfront installations and earn credits for any power the grid draws from their home.
+- What is the Value-Add Levy?
+	- It is a levy on the export of specified raw resources designed to make shipping raw materials out of Saskatchewan less attractive than processing and refining them here at home.
 
 - What is the Dormant Lease Tax?
-	- A steep, escalating tax on mineral leases held for speculative purposes without active development. Leases inactive for three consecutive years revert to the Crown unless a bona fide development plan is approved.
+	- It is a steep, escalating tax on mineral leases held for speculative purposes without active development. Leases inactive for three consecutive years will revert to the Crown unless the leaseholder can demonstrate a bona fide development plan approved by the Ministry.
+
+- Why CANDU reactors?
+	- CANDU reactors use unenriched uranium, which Saskatchewan already produces. They fit Saskatchewan's long-term goal of building a fully domestic uranium-to-fuel-to-electricity supply chain. Buildout will proceed in phases, and early reactors may use imported fuel until Saskatchewan fuel-fabrication capacity is established.
+
+- What is the Virtual Power Plant?
+	- It is a system that links household solar panels, batteries, EVs, and smart appliances into a coordinated grid asset. Participants will be able to install qualifying upgrades with no money down and receive on-bill credits when their stored power helps stabilize the grid.
+
+- Will Saskatchewan become a major electricity exporter?
+	- That is the long-term goal, but only where it clearly benefits Saskatchewan. Export-oriented expansion, including additional reactors and major transmission to MISO or neighbouring provinces, will proceed only where studies, approvals, and long-term agreements show a clear public benefit.
+

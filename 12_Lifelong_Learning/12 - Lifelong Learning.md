@@ -1,4 +1,3 @@
-
 # Detailed Policy 
 
 #### The Problem
@@ -13,27 +12,34 @@ The NCP will create the best environment for education in the country by funding
 
 The NCP will introduce several bills in a Lifelong Learning Package.
 
-We will treat our educators with the respect and reverence that they deserve. Either immediately, or come next contract, in good faith negotiations with the STF, the Government will offer the following:
+We will treat our educators with the respect and reverence that they deserve. In consultation and good-faith negotiations with the Saskatchewan Teachers' Federation, support staff unions, school divisions, and other relevant bargaining agents, the Government of Saskatchewan will pursue the following compensation and recruitment package for public education workers across the system:
 
-- A $15,000 bonus to be given to current, new, and any returning staff. 
-- A 25% increase to all wage bands.
-- Extra premiums for
-	- Staff in rural and northern communities
-	- Classrooms with over the negotiated class cap
-	- Students with complex needs
+- A $5,000 bonus to all staff, regardless of position, in provincially funded public schools.
+- An additional $10,000 bonus (thus $15,000 total) for new, returning, rural, northern, and other hard-to-fill placements, which include:
+	- French immersion
+	- Special education
+	- School counsellors / psychologists / SLPs
+	- Industrial arts / trades
+	- Hard-to-fill substitute pools
+- A 10% across-the-board increase to the general compensation rate
+- Up to 25% targeted recruitment and retention premiums for rural, northern, and other hard-to-fill placements designated by regulation
 
-An Educator Recruitment Initiative will provide relocation support, and student loan forgiveness for educators or student educators who commit to teaching anywhere in Saskatchewan. Extra grants and tax incentives will be given to any educator who commits to teaching in underserved communities for a minimum of three years.
+An Educator Recruitment Initiative will provide relocation support, and student loan forgiveness for educators or student educators who commit to teaching wherever placed in Saskatchewan. Extra grants and tax incentives will be given to any educator who commits to teaching in underserved communities for a minimum of three years.
 
 Universal, publicly-funded pre-kindergarten will be available to all four-year-olds, with priority expansion to communities currently lacking early childhood education options.
 
 
 <strong><u>K-12</u></strong>
 
-Per-student funding will be increased to be the highest in Canada, starting at $25,000 per student, indexed to Saskatchewan's CPI inflation annually. Additional student funding will be granted for weighted needs, such as rural, complexity, ELA, and disabilities. This will include free breakfast and lunches provided by the schools. Additional grants will be given to ensure every school can provide free healthy meals. 
+The goal will be to place Saskatchewan in the top three highest-funded public school system in Canada on a comparable per-student operating basis within 10 years. To get there, the Province will first restore funding to keep pace with inflation, enrolment growth, and classroom complexity, then move Saskatchewan into the top three provinces within five years, and to first place by the end of the 10-year transition. 
 
-Student transportation funding will be provided separately from per-student funding, ensuring rural and remote students have reliable access to schools regardless of distance.
+To support student health and education, free breakfast and lunches will be provided by the schools. Grants will be given to ensure every school can provide these free healthy meals to all students, regardless of family income, within that same 10 year period. 
 
-First Nations-operated schools will be eligible for provincial funding top-ups to ensure per-student funding parity with provincial schools, in addition to federal education transfers, where requested by the governing First Nation.
+Additional student transportation funding will also be provided to ensure rural and remote students have reliable access to schools regardless of distance.
+
+For clarity, transportation, capital construction, and other extraordinary costs will be funded through separate envelopes and will not be used to mask or substitute for classroom operating funding.
+
+First Nations-operated schools will be eligible, where requested by the governing First Nation and through negotiated agreement, for provincial per-student operating top-ups to achieve parity with comparable provincial schools. These top-ups are intended to supplement, not replace, federal education funding, and will not limit First Nations control over governance, language, curriculum, staffing, or school operations.
 
 No educator will be left behind. Education Assistants and support staff will receive dedicated statutory funding based on school size and staffing ratios established through binding agreement with the Saskatchewan Teacher's Federation (STF). There will also be new trainings and rules around student behaviours as to protect our educators and students with mandatory external safety audits for violent incidents. Work refusals for unsafe classrooms are explicitly protected under the new Fair Work Authority.
 
@@ -104,7 +110,7 @@ Statutory, multi-year funding agreements will be made to ensure post secondary i
 
 Additional operating grants will be set to clear benchmarks around inflation, enrolment growth, population, and agreed upon program expansions. 
 
-Tuition will be capped so that it can only increase annually by Saskatchewan's CPI inflation plus 1.5% or other small margin determined in partnership with post secondary sector partners.
+Tuition will be capped so that it can only increase annually by Saskatchewan's CPI inflation plus a small margin determined in partnership with post secondary sector partners.
 
 Tuition Vouchers, which cover tuition, fees, books, etc, must be redeemable by the post secondary institution in order to receive any other funding by the province. Redemption of vouchers will be dependent on seat availability in the selected program each year. If a program is at capacity, voucher holders may defer redemption to the following intake, apply to a related program, or request placement on a priority waitlist. Vouchers do not expire due to program capacity constraints.
 
@@ -186,17 +192,17 @@ It means a quality education no matter your age or ability.
 
 It means our educators get the pay recognition they deserve. 
 
-It means the dignity in always learning.
+It means the dignity in always learning. 
 
 ---
 
 # FAQ
 
 - How much will per-student funding increase?
-	- Per-student funding will start at $25,000, the highest in Canada, and be indexed to CPI inflation annually. Additional funding is provided for weighted needs like rural locations, complexity, EAL, and disabilities.
+	- The goal is to place Saskatchewan in the top three highest-funded public school systems in Canada on a comparable per-student operating basis within 10 years. The province will first restore funding to keep pace with inflation, enrolment growth, and classroom complexity, then move Saskatchewan into the top three provinces within five years, and to first place by the end of the 10-year transition. Transportation, capital construction, and other extraordinary costs will be funded separately and will not be used to mask classroom underfunding.
 
-- Will teachers get a raise?
-	- Yes. The NCP will offer a $15,000 bonus to current, new, and returning staff, plus a 25% increase to all wage bands, with extra premiums for rural communities, overcrowded classrooms, and students with complex needs.
+- Will teachers and school staff get a raise?
+	- Yes. The NCP will offer a $5,000 bonus to all staff, regardless of position, with an additional $10,000 for new, returning, rural, northern, and other hard-to-fill placements. The government will also pursue a 10% across-the-board increase to general compensation, along with targeted recruitment and retention premiums of up to 25% for rural, northern, and other hard-to-fill positions.
 
 - Will my kids get free school meals?
 	- Yes. Free breakfast and lunches will be provided at schools, with additional grants to ensure every school can provide free healthy meals.

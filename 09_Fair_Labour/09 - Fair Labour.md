@@ -19,39 +19,34 @@ The NCP will introduce bills that create:
 
 Together the bills will transform the economy of Saskatchewan to a high-productivity, high-paying, highly rested, economy. 
 
-
 <strong><u>The Workers’ Bill of Rights:</u></strong>
 
-The bill will be put into law as soon as possible, but the provisions will come into force over the course of four years, allowing for a smooth and orderly transition. This bill will include the following: 
-
+The bill will be put into law as soon as possible, but the provisions will come into force over the course of eight years, allowing for a smooth and orderly transition. This bill will include the following: 
 
 <u>The 30 Hour Work Week:</u> 
 
-Phased in over a four year term, all provincially regulated sectors will gradually have the legally defined full time hours be reduced from 40 hours per week to 30 hours per week, or 120 hours per month for positions using Alternative Schedule Permits. Part-time work will be considered to be under 30 hours a week. This allows for more flexibility in work and in life. Employers and employees can determine the best schedule for them, be it five days weeks with 6 hour days, four day weeks with 7.5 hour days, or a compresses three day week with 10 hour days. 
+Phased in over a eight year term, all provincially regulated sectors will gradually have the legally defined full time hours be reduced from 40 hours per week to 30 hours per week, or 120 hours per month for positions using Alternative Schedule Permits. Part-time work will be considered to be under 30 hours a week. This allows for more flexibility in work and in life. Employers and employees can determine the best schedule for them, be it five days weeks with 6 hour days, four day weeks with 7.5 hour days, or a compressed three day week with 10 hour days. 
 
 The move to the 30 hour standard work week will not come with any reduction in employee's weekly, bi-weekly, or monthly base compensation. Employers will be mandated to adjust employee compensation rates upwards to match the expected or previously budgeted annual compensation packages under the 40 hour standard week. 
 
-Base pay is calculated as the average hourly earnings of an employee over the prior 26 weeks, excluding weeks with unpaid leave, and including all premium pay. Benefits, such as extended health or pensions, cannot be reduce in actuarial value or employer cost share due to the full time hours standards change. 
+Employee wages and salaries must increase each year with each stage of the transition by the exact amount required to preserve the previous year's regular weekly, bi-weekly, or monthly base pay as the legal full-time work week is reduced. 
 
-- For example:
+For example, if the legal full-time work week falls from 40 hours in Year 0 to 38.5 hours in Year 1, then an employee earning $20.00 per hour must have their hourly rate increased to at least $20.78 per hour, an increase of approximately 3.9%. When full time drops in Year 2 to 37 hours that $20.78 per hour must increase to no less than $21.63 per hour, an increase of approximately 4.1%. These mandated minimum increases will continue each year until full time is 30 hours per week. 
 
-	- 40 hours per week x $20.00 per hour = $800.00 per week. 
+Employers cannot discriminate or reduce coverage or delivery of benefit packages or other additional non-wage compensation based on amount of hours worked. All employees must be entitled to the full benefits offered by employers regardless of full or part time status. 
 
-	- 30 hours per week x 26.67 per hour = $800.10 per week. 
+The goal is not to force automation. It's to encourage the hiring of more staff for more shifts, ensuring we end the unemployment crisis. 
 
-Employers cannot discriminate or reduce coverage or delivery of benefit packages or compensation based on amount of hours worked. All employees are entitled to the full benefits offered by employers regardless of full or part time status. 
+To clarify and repeat, the transition will be done over eight years, smoothly going down from the 40 hour week to the 30 hour week. For example, it would be close to this:
 
-Employers may not reduce scheduled hours below the pre-Act average for 18 months without Fair Work Authority approval citing a bona fide downturn. 
-
-The goal is not to force automation. It's to encourage the hiring of more staff and ensuring that we end the unemployment crisis.
-
-To clarify and repeat, the transition will be done over four years, smoothly going down from the 40 hour week to the 30 hour week. For example, it would be close to this:
-
-- Year 1: 38 hours / week
-- Year 2: 35 hours / week 
-- Year 3: 32 hours / week 
-- Year 4: 30 hours / week 
-
+- Year 1: 38.5 hours
+- Year 2: 37 hours
+- Year 3: 36 hours
+- Year 4: 35 hours
+- Year 5: 34 hours
+- Year 6: 33 hours
+- Year 7: 31.5 hours
+- Year 8: 30 hours
 
 <u>Alternative Schedules:</u>
 
@@ -60,7 +55,7 @@ Employers may apply through the Fair Work Authority (FWA) for an Alternative Sch
 Sectors that will automatically be granted Alternative Schedule Permits are:
 
 - Healthcare facilities
-- Emergency services
+- Emergency and First Responder services
 - Transportation
 - Continuous industrial operations
 - Seasonal agriculture (during defined seasons)
@@ -68,12 +63,16 @@ Sectors that will automatically be granted Alternative Schedule Permits are:
 
 <u>Wages:</u> 
 
-Phased in over a four year term, the minimum wage will be increased to $25.00 per hour and indexed to Saskatchewan's general CPI inflation each year to protect its real value. 
+Phased in over a eight year term, the minimum wage will be increased to $25.00 per hour and indexed to Saskatchewan's general CPI inflation each year to protect its real value. 
 
-- Year 1: $18 / hour
-- Year 2: $20 / hour
-- Year 3: $22 / hour 
-- Year 4: $25 / hour 
+- Year 1: $18 / hour 
+- Year 2: $19 / hour 
+- Year 3: $20 / hour  
+- Year 4: $21 / hour 
+- Year 5: $22 / hour 
+- Year 6: $23 / hour 
+- Year 7: $24 / hour 
+- Year 8: $25 / hour 
 
 Wage theft will be treated with the utmost seriousness. The liability of wage theft will include both the active manager of the enterprise and the owners of the enterprise. Any complaints of wage theft will be heard and investigated by the Fair Work Authority (FWA). Employers will then have 14 days to correct any substantiated claims. Past the 14 days, proven wage theft will face fines of treble the amount of damages, with interest accruing immediately. Further punishment could include possible disbarment from provincial contracts, provincial grant eligibility, and potential loss of business license.  
 
@@ -123,12 +122,9 @@ Employees must have the option to cash out their vacation time if requested. Vac
 
 <u>Sick Days:</u>
 
-After a three month probation, all employees are entitled to accrue 1.25 days per month of paid, job protected, sick days. The sick days will be split and paid in partnership with business and the Government of Saskatchewan. Businesses will be reimbursed via a payroll tax credit audited by the Fair Work Authority. 
+After a three month probation, all employees are entitled to seven (7) paid, job protected, sick days. The sick days will be split evenly by the business and the Government of Saskatchewan. Businesses will be reimbursed via a payroll tax credit audited by the Fair Work Authority. 
 
-- The first 7.5 days worth of wages is paid by the province. 
-- The second 7.5 days worth of wages is paid by employer. 
-
-When an employee takes a sick day, the employer pays as normal. Employers then report sick days to the Fair Work Authority and receive a payroll tax credit for the provincial portion (up to 7.5 days per employee per year).
+How it works is when an employee takes a sick day, the employer pays as normal. Employers must then report sick days to the Fair Work Authority to receive a payroll tax credit for the provincial portion.
 
  Sick notes can only be required after 5 consecutive days missed or 6 days within a 14 day period. 
 
@@ -205,7 +201,7 @@ All employees, not just remote workers, have the right to disconnect and not be 
 - On call workers must receive a stipend and call-in minimum. 
 
 
-<u> Safety:</u> 
+<u>Safety:</u> 
 
 Worker safety must be the priority. Things such as extreme weather events must be accommodated for by the employer, ensuring they are provided paid cool-down, warm-up, or clean air breaks. PPE (such as N95 masks), AC and or heaters must be provided by the employer. 
 
@@ -213,7 +209,7 @@ All workers have the right to refuse unsafe work and can directly appeal to the 
 
  <u>Transition Grants:</u>
 
-For 48 months after the coming into force of this Act, transition grants will be provided by the Fair Work Authority to Small and Medium sized Enterprises to help them adjust to the new requirements. The exact size and scope of these grants will be determined in consultation and partnership with the business community to address their needs. This will be a process of partnership, not dictation. 
+For eight (8) years after the coming into force of this Act, the Fair Work Authority may provide temporary, declining transition grants to eligible Small and Medium sized Enterprises to assist with the phased reduction in full-time hours and the increase in the minimum wage. Grants will be limited to firms that demonstrate material transition costs, comply with all requirements of this Act, and maintain employment standards and payroll levels. Grants shall not be used for executive compensation, shareholder distributions, debt servicing, or other non-labour business expenses, and shall be subject to annual appropriation limits set by the Legislature.
 
 <strong><u>Apprenticeships:</u></strong>
 
@@ -300,13 +296,10 @@ Career Navigators will be hired throughout the province with caseloads capped at
 
 SaskJobs will offer employers:
 
-Pre-screened, qualified candidates matched to their needs
-
-Wage benchmarking and job description assistance
-
-Apprenticeship placement coordination
-
-Retention analysis and improvement consulting
+- Pre-screened, qualified candidates matched to their needs
+- Wage benchmarking and job description assistance
+- Apprenticeship placement coordination
+- Retention analysis and improvement consulting
 
 <u>Pathways:</u>
 
@@ -335,7 +328,7 @@ It means you have time to watch your kid's games.
 
 It means you aren't struggling to balance everything.  
 
-It means there is dignity in work again.
+It means there is dignity in work again. 
 
 ---
 
@@ -345,10 +338,10 @@ It means there is dignity in work again.
 	- No. Employers are mandated to adjust your compensation rate upwards so your weekly, bi-weekly, or monthly pay stays the same. If you were making $800 per week at 40 hours, you will still make $800 per week at 30 hours.
 
 - How quickly does the 30-hour work week come in?
-	- It is phased in over four years, going from 38 hours in Year 1 down to 30 hours in Year 4. This gives businesses time to adjust smoothly.
+	- It is phased in over eight years, going from 38 hours in Year 1 down to 30 hours in Year 8. This gives businesses time to adjust smoothly.
 
 - What is the new minimum wage?
-	- It will be increased to $25.00 per hour, also phased in over four years, and indexed to CPI inflation each year after that.
+	- It will be increased to $25.00 per hour, also phased in over eight years, and indexed to CPI inflation each year after that.
 
 - What happens to gig workers?
 	- All independent contractors are presumed to be employees unless the hiring entity can prove the worker is truly independent under a three-part test. If they cannot, they must provide EI, CPP, WCB, expense reimbursement, and at least minimum wage.

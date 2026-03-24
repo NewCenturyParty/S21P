@@ -1,4 +1,3 @@
-
 # Detailed Policy
 
 ### The Problem
@@ -15,9 +14,9 @@ And the NCP will ensure the right people are sent for the right circumstances.
 
 ### The Plan 
 
-The NCP transform Saskatchewan's public safety system to be in line with a health-first, dignity-first model. 
+The NCP will transform Saskatchewan's public safety system to be in line with a health-first, dignity-first model. 
 
-Amendments will be made existing laws as to address three key areas that will make our communities safer.
+Amendments will be made to existing laws as to address three key areas that will make our communities safer.
 
 
 <strong><u>Houselessness:</u></strong>
@@ -32,15 +31,19 @@ Housing encampments cannot be disbanded unless there are real placements for the
 
 Addictions are a health matter and we will treat the addictions crisis as the health crisis it is. As such, involuntary addictions treatment will be abolished in Saskatchewan. Treatment must be based on consent, evidence, and dignity.
 
-The Saskatchewan Health Authority will open and operate voluntary 24/7 Addictions and Sobering Centres. Centres will be established to ensure no Saskatchewan resident is more than one hour from a facility, with locations in Regina, Saskatoon, Prince Albert, and additional regional centres as determined by need. Each centre will offer same day and outpatient detox treatments, like Opioid Agonist Therapy (OAT). Each centre will also include supervised consumption services, with specific service models and locations determined by the Saskatchewan Health Authority in consultation with local communities and people with lived experience. 
+The Saskatchewan Health Authority will open and operate voluntary 24/7 Addictions and Sobering Centres. Centres will be established with locations in Regina, Saskatoon, Prince Albert, with additional regional centres established as determined by need. 
 
-Warm hand offs to the Ministry of Social Services for housing and other supports will always be offered so that no one leaves empty handed. Naloxone will be offered for free, no questions asked, at any time. All services will be free, as part of the Universal Health Plan.
+Each centre will offer same day and outpatient detox treatments, like Opioid Agonist Therapy (OAT). They will also include supervised consumption services, or linked access to supervised consumption services, with service models and locations determined by the Saskatchewan Health Authority in consultation with local communities and people with lived experience.
+
+Warm hand offs to the Ministry of Social Services for housing and other supports will always be offered so that no one leaves empty handed. Naloxone will be offered for free, no questions asked, at any time, to anyone. All services will be free, as part of the Universal Health Plan.
 
 	See Policy 03 - Universal Health for more.
 
-The Government of Saskatchewan will work with the Federal government and Health Canada to decriminalize small personal possession of illicit drugs, seeking a Saskatchewan-wide exemption so that federal law matches a health-first approach. Thresholds for personal possession will be determined by regulation in consultation with health experts and law enforcement. Addiction is not a crime and we should not be treating it as such.
+The Government of Saskatchewan will work with the Federal government and Health Canada to decriminalize small personal possession of illicit drugs, seeking a Saskatchewan-wide exemption so that federal law matches a health-first approach. Thresholds for personal possession will be determined by regulation in consultation with health experts and law enforcement. Addiction is a health issue, not a crime, and we will be treating it as such.
 
-First responders will be instructed to focus on overdose prevention and connection to care, and will not automatically seize small amounts of substances for personal use unless there is an immediate safety concern, such as risk to children. However, decriminalization does not mean public use. Should someone be found with illicit drugs by first responders, they will be instructed to take the individual to a 24/7 Addictions and Sobering Centre to either sober up or consume the substance safely under clinician supervision. 
+First responders will be instructed to focus on overdose prevention and connection to care, and will not automatically seize small amounts of substances for personal use unless there is an immediate safety concern, such as risk to children. However, decriminalization does not mean public use. Public intoxication and public safety laws will be strictly enforced. 
+
+Where clinically appropriate and operationally feasible, first responders and Community Crisis Officers will transport individuals to a 24/7 Addictions and Sobering Centre or other appropriate health setting. Where transport is not necessary or feasible, responders will provide harm-reduction supplies, referrals, on-site stabilization, and follow-up connection to care as appropriate.
 
 Provincially regulated police services will be instructed, where there is no public safety risk, to treat simple possession of small amounts of illicit substances for personal use as their lowest priority issue. Instead, officers will be expected to issue warnings, provide referrals or health-based responses, and focus on enforcement on trafficking, exploitation, and serious violence instead. 
 
@@ -57,12 +60,12 @@ These Community Crisis Officers (CCOs) will be managed by the Ministry of Health
 - Paramedics.
 - Peer support workers with lived experience.
 
-New provincial dispatch standards and agreements will be made to ensure that 911 dispatchers can triage calls by risk and need. Mental health crises, intoxication, welfare checks, and similar 911 calls will be directed to the Community Crisis Officer's first, before police. Police will instead be dispatched to higher-risk calls, or when specifically requested to accompany Community Crisis Officers, or other first responders, should they feel there is any safety risk at all.
+New provincial dispatch standards and agreements will be made to ensure that 911 dispatchers can triage calls by risk and need. Mental health crises, intoxication, welfare checks, and similar 911 calls will be directed to the Community Crisis Officer's first, before police. Police will instead be dispatched to higher-risk calls, or when specifically requested to accompany Community Crisis Officers, or other first responders, should they feel there is any safety risk at all. To be absolutely clear, Community Crisis Officers will only be dispatched to calls where the 911 dispatcher has assessed there to be low risk of violence. 
 
-New standards will be made in partnership with the police and their unions to strengthen public trust. All police officers in Saskatchewan will be duty bound by law to clear de-escalation requirements with a duty to intervene when a colleague is escalating a situation unnecessarily. Militarized equipment will continue to be restricted to properly trained Emergency Response Teams (ERT) under strict rules, never to be used for routine policing. Random street checks or carding will be prohibited and police will be required for any and all stops to collect stop-level data and publish it every quarter. This data must include:
+Police will see new standards made in partnership with their unions to strengthen public trust. All police officers in Saskatchewan will be duty bound by law to clear de-escalation requirements with a duty to intervene when a colleague is escalating a situation unnecessarily. Militarized equipment will continue to be restricted to properly trained Emergency Response Teams (ERT) under strict rules, never to be used for routine policing. Random street checks or carding will be prohibited. Police will be required for any and all stops to collect stop-level data and publish it every quarter. This data must include:
 
 - Age
-- Race (self reported)
+- Race (self reported by the stopped individual, not officer)
 - Indigenous Status (as defined in the Statistics Canada Census)
 - Outcome
 - Context of the stop
@@ -70,11 +73,11 @@ New standards will be made in partnership with the police and their unions to st
 
 All police officers will receive ongoing training in de-escalation, trauma-informed response, and anti-racism, with training standards developed in partnership with police services and community organizations.
 
-The Province will work with, rural municipalities, First Nations governments and Tribal Councils to develop culturally appropriate crisis response and addictions services, respecting rural limitations, Indigenous jurisdiction and supporting Indigenous-led healing approaches. Funding will be provided for on-reserve crisis response capacity where requested by rural and First Nations leadership. 
+The Province will work with rural municipalities, First Nations governments, and Tribal Councils to develop culturally appropriate crisis response and addictions services, respecting rural limitations, Indigenous jurisdiction, and supporting Indigenous-led healing approaches. Funding will be provided for on-reserve crisis response capacity where requested by rural and First Nations leadership. 
 
 ### The Funding
 
-The new mobile crisis first responders, Community Crisis Officers, will be funded through both the Universal Health Levy as part of the budget for mental health and community care, and the existing budget allocated to the now-disbanded Saskatchewan Marshals. The 24/7 Addictions Centres will also be funded through the Universal Health Levy.
+Community Crisis Officers will be funded through a combination of redirected funding from the disbanded Saskatchewan Marshals, health spending under the Universal Health Plan, and General Revenue Fund support where required. The 24/7 Addictions and Sobering Centres will be funded primarily through the health system as part of Saskatchewan's broader expansion of mental health, addictions, and community care services.
 
 	See Policy 03 - Universal Health for more. 
 
@@ -86,26 +89,38 @@ It means power comes with responsibility.
 
 It means we have a duty to help one another.
 
-It means safety in Saskatchewan.
+It means safety in Saskatchewan. 
 
 ---
 
 # FAQ
 
 - What happens to the Saskatchewan Marshals?
-	- They will be disbanded. Their funding will be redirected to a new team of first responders called Community Crisis Officers (CCOs), managed by the Ministry of Health and the Saskatchewan Health Authority.
+	- They will be disbanded. Their funding will be redirected as part of the startup funding for a new team of first responders called Community Crisis Officers (CCOs), with ongoing support coming from health and public safety budgets.
 
 - What are Community Crisis Officers?
-	- CCOs are teams of mental health workers, social workers, paramedics, and peer support workers with lived experience. They respond to mental health crises, intoxication, welfare checks, and similar calls before police are dispatched.
+	- CCOs are teams of mental health workers, social workers, paramedics, and peer support workers with lived experience. They respond to low-risk mental health crises, intoxication, welfare checks, and similar calls where a 911 dispatcher determines there is a low risk of violence.
+
+- Will police still respond to emergencies?
+	- Yes. Police will continue to respond to higher-risk calls, violent situations, and any call where there is a public safety concern. The change is that low-risk health and crisis calls will be directed to CCOs first, with police available whenever needed.
+
+- What are the 24/7 Addictions and Sobering Centres?
+	- They are voluntary health facilities operated by the Saskatchewan Health Authority. They will provide same-day and outpatient detox services, Opioid Agonist Therapy, supervised consumption services or linked access to them, naloxone, and warm handoffs to housing and other supports.
+
+- Where will the centres be located?
+	- Centres will be established in Regina, Saskatoon, and Prince Albert, with additional regional centres created as determined by need.
 
 - Does decriminalization mean drugs are legal?
-	- No. Decriminalization means small personal possession would not result in criminal charges. It does not mean public use is permitted. If someone is found with a small amount for personal use, first responders will take them to a 24/7 Addictions and Sobering Centre to consume safely or sober up under clinical supervision.
+	- No. Decriminalization means small personal possession would be treated as a health matter instead of a criminal matter. It does not legalize trafficking, exploitation, serious violence, or public intoxication.
+
+- Will people always be taken to a Sobering Centre?
+	- No. Where clinically appropriate and operationally feasible, first responders or CCOs may transport someone to a Sobering Centre or another health setting. Where transport is not necessary or feasible, they may instead provide harm-reduction supplies, referrals, on-site stabilization, and follow-up connection to care.
 
 - Will involuntary addictions treatment continue?
 	- No. Involuntary addictions treatment will be abolished. Treatment must be based on consent, evidence, and dignity.
 
-- Will police still respond to emergencies?
-	- Yes. Police will continue to be dispatched to higher-risk calls. The change is that mental health crises, welfare checks, and similar calls will go to CCOs first. Police can always be called in if there is a safety risk.
+- What happens to housing encampments?
+	- Encampments cannot be disbanded unless there are real placements available for both the people and their property. That means a private room, secure storage, and transport to get there. No one will be forced into another town away from their supports.
 
-- What about housing for people living in encampments?
-	- Encampments cannot be disbanded unless there are real placements available, meaning a private room and secure storage with transport. Residents will be given first priority placements into new public housing units in their city.
+- How is this funded?
+	- Community Crisis Officers will be funded through a combination of redirected Saskatchewan Marshals funding, health spending under the Universal Health Plan, and General Revenue Fund support where required. The 24/7 Addictions and Sobering Centres will be funded primarily through the health system as part of Saskatchewan's broader expansion of mental health, addictions, and community care services.
