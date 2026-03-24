@@ -27,7 +27,7 @@ We follow plain-text first. Markdown (`.md`) or simple text files are preferred.
 
 Policy work moves through four stages:
 
-1. **Explore** – Read the existing notes in the policy folder and review the public summary on the [NCP website](../Sites/NCP-website/webpages/21policies.html).
+1. **Explore** – Read the existing notes in the policy folders and review the [NCP website](https://www.newcenturyparty.ca/).
 2. **Draft** – Create or edit Markdown files in the relevant folder. Keep changes scoped to one policy per pull request.
 3. **Discuss** – Open or join GitHub Issues for open questions, cite sources, and flag trade-offs.
 4. **Review** – Submit a pull request (PR), receive feedback, and iterate until the changes are approved.
@@ -56,7 +56,7 @@ Everything is version-controlled so the history of a policy’s development stay
 Use clear, descriptive commit messages:
 
 ```
-git commit -m "07 Public Safety: add sobering center program details"
+git commit -m "07 - Public Safety: add sobering center program details"
 ```
 
 ### 4. Open a Pull Request
