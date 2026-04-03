@@ -1,4 +1,4 @@
-# Detailed Policy 
+# Detailed Policy
 
 #### The Problem
 
@@ -6,13 +6,13 @@ There is an unemployment crisis and also a worker shortage.
 
 #### The Promise
 
-The NCP will hire, build, and train the workforce of tomorrow, by doing the work of today. 
+The NCP will hire, build, and train the workforce of tomorrow by doing the work of today.
 
 #### The Plan
 
 The NCP, through direct partnership and discussion with the unions of Saskatchewan, will introduce The Saskatchewan Century Corps Act.
 
-The Act will introduce a new Crown corporation to be known as the Saskatchewan Century Corps (SCC). The SCC will be the Employer of Record (EoR), mandated to employ and train workers in priority sectors. It will operate as a standing public employment guarantee with annual intake and staffing levels set through the provincial budget, Standing Master Agreements, and training capacity.
+The Act will introduce a new Crown corporation to be known as the Saskatchewan Century Corps (SCC). The SCC will be the Employer of Record (EOR), mandated to employ and train workers in priority sectors. It will operate as a standing public employment guarantee with annual intake and staffing levels set through the provincial budget, Standing Master Agreements, and training capacity.
 
 Annual enrolment and total active staffing will be set by the Legislature or the Cabinet each year. Placement will prioritize residents who are currently unemployed or underemployed, young workers, disabled workers, and displaced workers. Mid-year expansions of staffing will be allowed during certified recessions or major project waves. 
 
@@ -20,15 +20,15 @@ The SCC shall act as a pre-apprenticeship feeder program, with all hours worked 
 
 	See Policy 09 - Fair Labour for more. 
 
-The work done by SCC employees is provided through Standing Master Agreements. The Government of Saskatchewan, through its Crowns, Ministries, and Agencies, will provide these agreements and contracts to the SCC for work in needed, relevant, areas. 
+The work done by SCC employees is provided through Standing Master Agreements. The Government of Saskatchewan, through its Crowns, ministries, and agencies, will provide these agreements and contracts to the SCC for work in needed and relevant areas.
 
 Initial Standing Master Agreements will be established with SaskEnergy (ambient loop installation), SaskPower (grid modernization), SaskTel (fibre deployment), Saskatchewan Housing Corporation (SaskHomes construction), and the Ministry of Environment (site remediation).
 
-The SCC will have Public Rate Cards, updated and posted regularly. To ensure that the SCC will not underbid qualified bidders. The SCC will not underbid qualified contractors who meet or exceed SCC wage and benefit standards. Where no bidder meets these standards, the SCC may bid to ensure work is performed at fair wages. The SCC will never be the sole permitted bidder on any contract.
+The SCC will have public rate cards, updated and posted regularly, to ensure that the SCC will not underbid qualified bidders. The SCC will not underbid qualified contractors who meet or exceed SCC wage and benefit standards. Where no bidder meets these standards, the SCC may bid to ensure work is performed at fair wages. The SCC will never be the sole permitted bidder on any contract.
 
 Where feasible, secondments and subcontracts will be used. Priority will be given to secondments and subcontracts with public entities, non-profits, and co-ops, and private firms where it supports training, apprenticeships, and local capacity. 
 
-All credentialing for designated trades within the SCC shall be governed by a council with majority representation from the relevant provincial trade unions, as appointed by the Saskatchewan Federation of Labour. The SCC will arrange and pay for training and verified hours during the working loop. Some SCC supervisors will be approved as assessors / validators by the relevant credentialing bodies so they may sign off on hours and competencies. 
+All credentialing for designated trades within the SCC shall be governed by a council with majority representation from the relevant provincial trade unions, as appointed by the Saskatchewan Federation of Labour. The SCC will arrange and pay for training and verified hours during the working loop. Some SCC supervisors will be approved as assessors/validators by the relevant credentialing bodies so they may sign off on hours and competencies.
 
 SCC employment in relevant streams counts toward Century Apprenticeship Program hours. Workers who complete sufficient hours and pass assessments may earn Century Certified credentials while employed by the SCC.
 
@@ -44,7 +44,7 @@ The SCC will maintain equity targets to ensure participation reflects Saskatchew
 
 Free, Prior, and Informed Consent must be achieved for any and all projects affecting Indigenous lands, waters, communities, or cultures. 
 
-	See more in policy 04 - Reconciliation. 
+	See more in Policy 04 - Reconciliation. 
 
 <strong><u>The Compensation:</u></strong>
 
@@ -52,7 +52,7 @@ Employees begin paid employment from day one, including the bootcamp and all tra
 
 - Rural / Northern placements.
 - Speaking a second language.
-- Speaking an Indigenous Language.
+- Speaking an Indigenous language.
 - Hard to staff positions and roles.
 
 <strong><u>Initial Corps Streams:</u></strong>
@@ -68,17 +68,17 @@ The initial streams of the SCC will be:
 
 Work will be categorized and distributed through these streams. The curriculum for these streams will be co-developed in partnership with the relevant unions. 
 
-There will also be an option to become an Emergency Reservist will be offered to SCC employees. It will be strictly Opt-in. These reservists would be given extra training and pay for disaster response. They would then be deployable on declared provincial emergencies. Two paid re-training days a year will be mandatory to stop any skill atrophy. 
+The option to become an Emergency Reservist will also be offered to SCC employees on a strictly opt-in basis. These reservists would be given extra training and pay for disaster response. They would then be deployable on declared provincial emergencies. Two paid re-training days a year will be mandatory to stop any skill atrophy.
 
 <strong><u>The Loop:</u></strong>
 
 SCC employees work a 30-hour week. The standard schedule is five 6-hour days: three days on job sites, two days in classroom or lab settings.
 
-SCC employees will go through a loop of employment each year. The loop will start with a Bootcamp of 6 weeks. During this Bootcamp employees will learn all the regular trainings mosts jobs require. Things like CPR, First Aid, WHMIS, and more. After that, employees will be given more specific training on how to do their specific job placement. 
+SCC employees will go through a loop of employment each year. The loop will start with a Bootcamp of 6 weeks. During this Bootcamp, employees will learn all the regular trainings most jobs require. Things like CPR, First Aid, WHMIS, and more. After that, employees will be given more specific training on how to do their specific job placement.
 
 Following the six-week bootcamp, employees enter the Work/Learn cycle for the remainder of the year. Annual reviews occur on the anniversary of each employee's start date.
 
-The Work/Learn cycle is where 3 days of the week will be on a job site, actively working. 2 days of the week are in the lab or classroom for specific instruction, actively learning, and completing credentialed exams. 
+In the Work/Learn cycle, 3 days of the week are on a job site, actively working. 2 days of the week are in the lab or classroom for specific instruction, actively learning, and completing credentialed exams. 
 
 Each year the employee will go through an annual review. The SCC will assess how satisfied and happy the employee is in their role and its trajectory, and how well they've done in their work. The employee will choose how they want to go forward each year of employment. They may either:
 
@@ -92,15 +92,15 @@ Workers who do not meet performance standards will receive additional support an
 
 <strong><u>Tuition Vouchers:</u></strong>
 
-For every two years of honourable service in the SCC, employees will earn a Tuition Voucher. This Voucher will cover the cost of one full academic year at any public University or Trade school in Saskatchewan.
+For every two years of honourable service in the SCC, employees will earn a Tuition Voucher. This Voucher will cover the cost of one full academic year at any public university or trade school in Saskatchewan.
 
 Tuition Vouchers will be designed as a non-taxable education grant under federal tax law. They will expire after 15 years, and cannot be transferred to others. 
 
-Tuition Vouchers can be used to pay off existing student loan debt, federal or provincial by payment to the NSLSC. Tuition value will be capped by new agreements with public education institutions and unions.
+Tuition Vouchers can be used to pay off existing federal or provincial student loan debt through payment to the NSLSC. Tuition value will be capped by new agreements with public education institutions and unions.
 
 <strong><u>Governance and Union:</u></strong>
 
-A CEO will be appointed to serve at the pleasure of the Board with Minister concurrence.
+A CEO will be appointed to serve at the pleasure of the Board with the Minister's concurrence.
 
 The workers will have the right to organize, and the Province will work with existing unions and bargaining agents to determine the most appropriate representation model. The exact structure will be determined before any work begins.
 
@@ -109,13 +109,13 @@ To be clear, trade credential recognition will be developed in partnership with 
 The Board must include representation from:
 
 - Indigenous governing bodies and organizations.
-- Labour Unions
+- Labour unions
 - Municipalities
-- Crowns/Ministries (SaskPower, SaskEnergy, SaskTel)
-- Education Partners (The Universities and Sask Polytech)
+- Crowns/ministries (SaskPower, SaskEnergy, SaskTel)
+- Education partners (the universities and Sask Polytech)
 - Safety and OHS
 
-Dashboards will be created and updated weekly to provide stats on  SCC work progress, ensuring complete transparency. 
+Dashboards will be created and updated weekly to provide stats on SCC work progress, ensuring complete transparency.
 
 #### The Funding
 
@@ -125,7 +125,7 @@ The SCC will be funded primarily through the General Revenue Fund. Contract reve
 
 It means building something real and meaningful.
 
-It means no more desperate job searches. 
+It means no more desperate job searches.
 
 It means the dignity of building your community.
 
@@ -146,7 +146,7 @@ It means the dignity of building your community.
 	- For every two years of honourable service in the SCC, you earn a Tuition Voucher that covers one full academic year at any public university or trade school in Saskatchewan. Tuition Vouchers earned can also be used to pay off existing student loan debt. Be aware that the Vouchers expire after 15 years.
 
 - Can anyone join the SCC?
-	- Yes. The SCC is open to all, no matter the ability. There are streamlined on-ramps, including accessibility employment tracks with extra supports for those who need them. However, intake and staffing levels will be strictly governed by annual funding capacity determined by the Legislature or Cabinet. 
+	- Yes. The SCC is open to all, regardless of ability. There are streamlined on-ramps, including accessibility employment tracks with extra supports for those who need them. However, intake and staffing levels will be strictly governed by annual funding capacity determined by the Legislature or Cabinet. 
 
 - What happens after each year?
 	- At your annual review, you choose your path: continue in the same stream, switch to a different stream, transition to private sector employment with SaskJobs support, pursue promotion within the SCC, or if available you can use your Tuition Vouchers to move to formal education. 

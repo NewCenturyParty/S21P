@@ -2,23 +2,23 @@
 
 #### The Problem
 
-Our home is actively being destroyed by the fossil fuel industry, who knows, and has always known, exactly what they are doing.
+Our home is actively being destroyed by the fossil fuel industry, which knows, and has always known, exactly what they are doing.
 
 #### The Promise
 
-The NCP will immediately do everything in its power, be it regulatory, fiscal, or legal, to tackle the climate crisis and hold to account the people in power responsible.
+The NCP will immediately do everything in its power, whether regulatory, fiscal, or legal, to tackle the climate crisis and hold to account the people in power responsible.
 
 #### The Plan
 
 <strong><u>Short Term: The Redwater Strategy</u></strong> 
 
-Immediately upon forming government, the NCP will submit an Order-in-Council ending all fossil fuel, and other resource subsidies, be it tax credit, grant, royalty adjustment, Crown loan, or infrastructure subsidy. The Government of Saskatchewan will also immediately drop any and all Carbon Tax lawsuits against the federal government. 
+Immediately upon forming government, the NCP will submit an Order-in-Council ending all fossil fuel and other resource subsidies, be it tax credit, grant, royalty adjustment, Crown loan, or infrastructure subsidy. The Government of Saskatchewan will also immediately drop any and all Carbon Tax lawsuits against the federal government. 
 
 The Minister of Environment will be instructed to update the Liability Management Ratio (LMR) for all oil and gas companies to 2.0. Any company below 2.0 will be ordered to post a cash remediation bond sufficient to cover the gap between its current standing and the new 2.0 standard. The purpose of the 2.0 standard is to ensure that company assets are worth at least twice their estimated cleanup liabilities. Only cash collateral will be accepted. Letters of credit, corporate bonds, unsecured guarantees, and other non-cash instruments will not satisfy this requirement.
 
 While interprovincial pipelines fall under federal jurisdiction, provincial environmental assessments of pipeline corridors, land access permits, and extraction operations remain within provincial authority. The Government of Saskatchewan will coordinate with federal regulators where required and pursue parallel federal accountability through the Climate Crisis Lawsuit. 
 
-Saskatchewan is simply regulating a harmful substance and protecting our environment. This is something directly within Provincial rights.
+Saskatchewan is simply regulating a harmful substance and protecting our environment. This is something directly within provincial rights.
 
 Companies must post 25% of these cash bonds within 90 days and the remainder over 12 months, with the province holding a security interest in the assets during the payment period. 
 
@@ -28,13 +28,13 @@ Should the oil majors agree and pay the bonds, that bond money will be held in t
 
 If a company fails to meet its cleanup-bond obligations, the Province will treat that failure as evidence that the operator is unable to meet its statutory environmental duties. In that event, the Government of Saskatchewan will move to protect the public interest, preserve continuity of essential energy supply, and prevent the transfer of environmental liabilities onto the public.
 
-The Province, now in receivership of the assets through the SNRC, will offer to grant new licenses to the oil majors to operate their assets once again, but with the following new restrictions
+The Province, now in receivership of the assets through the SNRC, will offer to grant new licenses to the oil majors to operate their assets once again, but with the following new restrictions:
 
 - They must clean up orphaned wells starting immediately. 
 
 - They must make ongoing direct payments to the Energy Veterans Transition Fund. 
 
-- And, finally, they must agree to a 15 year sunset on all Oil and Gas operations in the province.
+- And, finally, they must agree to a 15-year sunset on all Oil and Gas operations in the province.
 
 The 15-year sunset will include a structured phase-down: extraction permits will decline gradually by 6.67 percentage points per year, with priority given to completing cleanup of legacy sites. New exploration permits will not be issued. 
 
@@ -46,13 +46,13 @@ Operators who meet the new requirements may continue to operate during the 15-ye
 
 Workers employed at assets transferred to provincial operation will be offered immediate employment with the Saskatchewan Natural Resources Corporation or the Saskatchewan Century Corps at equivalent wages, with full eligibility for Energy Veterans benefits after the sunset period, or earlier if they leave before the sunset ends. 
 
-If assets are transferred into provincial receivership or temporary provincial operation, the Saskatchewan Natural Resources Corporation will operate them for no longer than the same 15 year sunset, with the goal of maintaining continuity, retaining the workforce, and preventing environmental abandonment. The Province will establish a dedicated contingency operating and transition fund for this purpose, to be replenished where possible through posted bonds, operating revenues, and future recoveries from liable parties.
+If assets are transferred into provincial receivership or temporary provincial operation, the Saskatchewan Natural Resources Corporation will operate them for no longer than the same 15-year sunset, with the goal of maintaining continuity, retaining the workforce, and preventing environmental abandonment. The Province will establish a dedicated contingency operating and transition fund for this purpose, to be replenished where possible through posted bonds, operating revenues, and future recoveries from liable parties.
 
 The NCP is confident the oil majors will agree to this new operating license agreement. However, if they truly will not work in the best interests of their customers, the Government of Saskatchewan will not permit any gap in energy supply to Saskatchewan residents, Ottawa, or our American trading partners. Contingency operations plans will be activated within 24 hours of any operator abandonment, with full continuity guaranteed. We would never let our friends go cold. 
 
-The oil and gas companies may ask for a stay or injunction (a pause) so they can hold the Government up in court. We will argue that doing so allows them to only further harm the province while declaring bankruptcy at the end of the lawsuit anyways. This is the only way we ensure they pay for their mess, which they have freely admitted they are not able to do. 
+The oil and gas companies may ask for a stay or injunction (a pause) so they can hold the Government up in court. We will argue that doing so allows them to only further harm the province while declaring bankruptcy at the end of the lawsuit anyway. This is the only way we ensure they pay for their mess, which they have freely admitted they are not able to do. 
 
-They will try to use shell companies. To prevent this, the Province will institute a 5 year look back period. If a company transferred assets or paid dividends while their true LMR was below compliance the parent companies and individual directors will be personally and jointly liable for the cleanup bond. 
+They will try to use shell companies. To prevent this, the Province will institute a 5-year look-back period. If a company transferred assets or paid dividends while its true LMR was below compliance requirements the parent companies and individual directors will be personally and jointly liable for the cleanup bond. 
 
 The Government anticipates legal challenges and will vigorously defend Saskatchewan's authority to regulate environmental liabilities, license conditions, remediation obligations, and continuity-of-service requirements within its jurisdiction.
 
@@ -62,7 +62,7 @@ The Province will not suspend or weaken safety and environmental enforcement bec
 
 The NCP will introduce the Saskatchewan Climate Crisis Act.
 
-This Act will grant every Saskatchewan Resident  the right to a healthy environment, as determined by independent scientific consensus. Any breach of that is a violation of their rights, dignity, and Saskatchewan law.
+This Act will grant every Saskatchewan resident the right to a healthy environment, as determined by independent scientific consensus. Any breach of that is a violation of their rights, dignity, and Saskatchewan law.
 
 If any provision of this Act is found to be unconstitutional or otherwise invalid, that provision shall be severed and the remainder of the Act shall continue in full force and effect.
 
@@ -74,13 +74,13 @@ As such, the Saskatchewan Climate Crisis Act will modernize provincial civil pro
 
 These reforms will include burden-shifting where the Province establishes prima facie knowledge and contribution, express admissibility of aggregate and climate-attribution evidence, market-share apportionment where direct causation cannot reasonably be proven product-by-product, and strong enforcement mechanisms for unpaid judgments and bad-faith asset shielding.
 
-The Saskatchewan Environmental Economics Agency (SEEA) will be established with a mandate to provide an accurate and full economic breakdowns of all the externalities related to fossil fuels. The damages done to the Saskatchewan environment, Saskatchewan resident's health, crop yield changes, as well as the expected costs of remediation now and into the future as climate change worsens. 
+The Saskatchewan Environmental Economics Agency (SEEA) will be established with a mandate to provide an accurate and full economic breakdown of all the externalities related to fossil fuels. The damages done to the Saskatchewan environment, Saskatchewan residents' health, crop yield changes, as well as the expected costs of remediation now and into the future as climate change worsens. 
 
 SEEA will have the power to compel any and all records, testimony, and proprietary data from any company operating in Saskatchewan's fossil fuel sector, with penalties for non-compliance equivalent to contempt of court.
 
-At the moment SEEA confirms their work is done and ready, the Government of Saskatchewan, using the SEEA's data, will bring forth the most comprehensive lawsuit in the history of this province, suing the fossil fuel industry and Ottawa for willful and extraordinary, damages, deception, neglect, and in the case of Ottawa, gross regulatory negligence.
+Once SEEA confirms its work is complete and ready, the Government of Saskatchewan, using the SEEA's data, will bring forth the most comprehensive lawsuit in the history of this province, suing the fossil fuel industry and Ottawa for willful and extraordinary damages, deception, neglect, and in the case of Ottawa, gross regulatory negligence.
 
-The Government of Saskatchewan will be seeking full compensation for past, present, and projected future climate damages, which preliminary estimates suggest could reach into the trillions of dollars over the coming decades. That money will by law go to the Saskatchewan Sovereignty Fund. 
+The Government of Saskatchewan will be seeking full compensation for past, present, and projected future climate damages, which preliminary estimates suggest could reach into the trillions of dollars over the coming decades. That money will, by law, go to the Saskatchewan Sovereignty Fund. 
 
 Financial institutions that provided material financing to fossil fuel extraction while in possession of knowledge about climate risks, and failed to disclose those risks to shareholders and the public, may be named as defendants under theories of aiding and abetting, civil conspiracy, or securities fraud.
 
@@ -135,7 +135,7 @@ It means holding those responsible to account.
 
 It means protecting your rights, your land, your home. 
 
-It means the dignity of a Healthy Environment. 
+It means the dignity of a healthy environment. 
 
 # FAQ
 

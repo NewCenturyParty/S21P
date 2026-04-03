@@ -4,13 +4,13 @@
 
 Saskatchewan does not capture, save, or utilize enough of its own wealth.
 
-Saskatchewan's vibrant Credit Union Ecosystem is in need of modernization.
+Saskatchewan's vibrant credit union ecosystem is in need of modernization.
 
 #### The Promise
 
 The NCP will ensure Saskatchewan resource wealth is captured and secured for generations to come.
 
-The NCP will create a wholesale development trust to ensure Saskatchewan's money is stored and used within Saskatchewan's borders. 
+The NCP will create a public financial institution to ensure Saskatchewan's money is stored and used within Saskatchewan's borders. 
 
 #### The Plan
 
@@ -25,20 +25,20 @@ With these Acts, Saskatchewan will be able to commit to a financially sovereign 
 
 A new Crown corporation to be known as the Saskatchewan Sovereignty Fund Agency (SSFA) will be mandated to create and manage a new, permanent, intergenerational endowment fund to be known as the Saskatchewan Sovereignty Fund (SSF).
 
-The SSFA will be governed by a board of nine members: two appointed by the government, two by the Opposition, two by Indigenous Governing Bodies, and three independent members selected by the other six for expertise in investment management, Indigenous governance, and public finance. Board members will serve staggered five-year terms and may be removed only for cause. This structure insulates the fund from short-term political pressure.
+The SSFA will be governed by a board of nine members: two appointed by the government, two by the Opposition, two by Indigenous governing bodies, and three independent members selected by the other six for expertise in investment management, Indigenous governance, and public finance. Board members will serve staggered five-year terms and may be removed only for cause. This structure insulates the fund from short-term political pressure.
 
-The SSFA board will maintain and publish an Ethical Investment Policy defining excluded industries and practices. The policy will be reviewed every three years with public consultation. Initial exclusions include: fossil fuel extraction and processing, tobacco production, weapons manufacturing, private prisons, and companies with documented severe labor or human rights violations.
+The SSFA board will maintain and publish an Ethical Investment Policy defining excluded industries and practices. The policy will be reviewed every three years with public consultation. Initial exclusions include: fossil fuel extraction and processing, tobacco production, weapons manufacturing, private prisons, and companies with documented severe labour or human rights violations.
 
-The SSF will be seeded with an initial $500 million transfer from the General Revenue Fund. To fund the principal over time, the SSF will receive regular payments from resource royalties and crown dividends. 
+The SSF will be seeded with an initial $500 million transfer from the General Revenue Fund. To fund the principal over time, the SSF will receive regular payments from resource royalties and Crown dividends. 
 
 From resource royalties, the SSF will receive 10% of all revenues collected by the new base royalty rate, and then 25% of any revenues collected from the new Windfall Levy. From Crown corporations, the SSF will receive 5% of all dividends.  
 
-	See Policy 15 - Resource and Energy Sovereignty for more
-	See Policy 21 - Funding for more. 
+- See Policy 15 - Resource and Energy Sovereignty for more.
+- See Policy 21 - Funding for more.
 
-The principal capital will be protected and secured for all future generations of Saskatchewan residents. It cannot be withdrawn or spent without a super-majority vote in favour in the Legislature.
+The principal capital will be protected and secured for all future generations of Saskatchewan residents. It cannot be withdrawn or spent without a supermajority vote of the Legislature.
 
-The SSFA will maintain the Fund through a diversified long-term portfolio designed to preserve capital, reduce volatility, and achieve a strong real return over time. Allocations will be reviewed annually by the SSFA board with independent actuarial advice. The Fund's target will be for a long-term real return of 4-5% annually through diversified investment. 
+The SSFA will maintain the Fund through a diversified long-term portfolio designed to preserve capital, reduce volatility, and achieve a strong real return over time. Allocations will be reviewed annually by the SSFA board with independent actuarial advice. The Fund's target will be a long-term real return of 4% to 5% annually through diversified investment. 
 
 The SSFA will invest only in ESG-screened funds or direct holdings that exclude prohibited industries, such as fossil fuels, tobacco, or weapons. Where index investments are used, they must be fossil-free variants. The SSFA will publish an annual report on excluded holdings and the performance impact of ethical screening.
 
@@ -60,19 +60,19 @@ The SFG is not a retail bank and will not provide ordinary consumer or business 
 
 The Government of Saskatchewan currently maintains approximately $3 billion in operating balances with commercial banks. Transferring this float to the SFG will provide liquidity and wholesale funding capacity for the credit-union system.
 
-The transition will be slow, phased over 36 months before all provincial monies are exclusively managed out of the SFG. We are not committing a bank run. It will be done department by department, Crown by Crown.
+The transition will be slow, phased over 36 months before all provincial monies are exclusively managed out of the SFG. We are not committing a bank run. It will be done department by department and Crown by Crown corporation.
 
 The SFG will offer participating credit unions access to wholesale funding at rates tied to provincial borrowing costs plus a modest spread to cover administration, risk, and liquidity management. It may also purchase seasoned pools of credit-union loans to provide liquidity and balance-sheet relief, subject to prudent exposure limits and collateral requirements.
 
 The SFG will also support the modernization of the credit-union system through transition supports such as balance-transfer fee coverage, mortgage-transfer assistance, temporary support for basic no-fee accounts, and shared digital infrastructure developed in partnership with Saskatchewan Digital Services.
 
-Credit unions accessing SFG funding must submit annual rate comparisons showing their consumer rates are competitive with or better than Big Five banks. The SFG will publicly publish these comparisons annually. Credit unions that fail to demonstrate customer benefit may have their SFG access suspended.
+Credit unions accessing SFG funding must submit annual rate comparisons showing their consumer rates are competitive with or better than Big Five banks. The SFG will publish these comparisons annually. Credit unions that fail to demonstrate customer benefit may have their SFG access suspended.
 
 The SFG will help cover a portion of balance transfer fees for Saskatchewan residents moving their primary banking from a Big Five bank to a participating credit union. The SFG will also work with credit unions to offer streamlined mortgage transfers for Saskatchewan residents, covering appraisal fees and legal costs for qualifying transfers. 
 
 Participating credit unions must offer a basic no-fee chequing account with no minimum balance. The SFG will provide credit unions with a per-account subsidy for the first two years to offset the cost of free accounts.
 
-The SFG will be mandated to maintain liquidity sufficient for daily Credit Union operations, as well as purchase investment instruments, including Provincial Treasury Bills or Bonds to manage liquidity and support provincial financing. 
+The SFG will be mandated to maintain liquidity sufficient for daily credit union operations, as well as purchase investment instruments, including provincial treasury bills or bonds, to manage liquidity and support provincial financing. 
 
 The SFG will operate in coordination with the Credit Union Deposit Guarantee Corporation, which maintains its existing regulatory and deposit insurance functions. The CUDGC's board representation on SFG ensures alignment between liquidity support and prudential regulation.
 
@@ -88,9 +88,9 @@ The Saskatchewan Sovereignty Fund and the Saskatchewan Financial Group serve dif
 
 #### What It Means For You
 
-It means Provincial cash stays in the Province. 
+It means provincial cash stays in the province. 
 
-It means Saskatchewan Credit Unions can compete and win.
+It means Saskatchewan credit unions can compete and win.
 
 It means the dignity of knowing our future is secured.
 

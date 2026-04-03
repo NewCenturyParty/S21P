@@ -6,7 +6,7 @@ America owns the entirety of your personal government data.
 
 #### The Promise
 
-The NCP will use the tools we already have available and build out a world class flag in the digital ground for Saskatchewan and Indigenous Communities.
+The NCP will use the tools we already have available and build out a world-class flag in the digital ground for Saskatchewan and Indigenous communities.
 
 #### The Plan
 
@@ -20,13 +20,13 @@ This will allow Saskatchewan to enter the digital age and have a sovereign place
 
 <strong><u>The Saskatchewan Digital Services:</u></strong> 
 
-The Saskatchewan Digital Services (SDS) will be established as a Crown corporation reporting to the Minister responsible for SaskBuilds and Procurement. Their mandate will be to build out the sovereign digital state of Saskatchewan.
+The Saskatchewan Digital Services (SDS) will be established as a Crown corporation reporting to the Minister responsible for SaskBuilds and Procurement. Its mandate will be to build out the sovereign digital state of Saskatchewan.
 
 The SDS will act as the long-term product owner, operator, and maintainer of Saskatchewan's shared digital platforms, including identity, payments, service portals, data architecture, and core design systems. Ministries, agencies, and Crown corporations will use these shared platforms rather than duplicating them through separate vendor systems.
 
 The SDS will recruit technical talent through competitive compensation, remote work flexibility, and partnership with Saskatchewan Polytechnic and the University of Saskatchewan's computer science programs. 
 
-A Saskatchewan Tech Stack (SaskStack) will be developed. It will allow the SDS to quickly and easily build custom web-apps for every ministry, agency, and Crown of the Province. This means a single login system, a unified data architecture, single UX/UI, single encryption module, and more, all running locally, on secure SaskTel Cloud Servers. Some of the web apps will be:
+A Saskatchewan Tech Stack (SaskStack) will be developed. It will allow the SDS to quickly and easily build custom web apps for every provincial ministry, agency, and Crown. This means a single login system, a unified data architecture, a shared UX/UI system, a single encryption module, and more, all running locally on secure SaskTel cloud servers. Some of the web apps will be:
 
 - The SaskBonds purchasing portal.
 - The Saskatchewan Library Authority online portal for borrowing and browsing. 
@@ -35,15 +35,15 @@ A Saskatchewan Tech Stack (SaskStack) will be developed. It will allow the SDS t
 - Specific apps for specific departments, designed to fit specific needs. 
 - And more. 
 
-The SaskStack will include modernizing all Government of Saskatchewan Services so as to be easily doable online, with a single account. New modernized websites will be designed to be intuitive and built with accessibility in mind from day one. 
+The SaskStack will include modernizing all Government of Saskatchewan services so they can be easily used online with a single account. New modernized websites will be designed to be intuitive and built with accessibility in mind from day one. 
 
 All SaskStack applications must meet WCAG 2.1 AA accessibility standards at minimum, with AAA compliance where feasible. Accessibility audits will be conducted before any application launch.
 
-A unified login system called the Saskatchewan Account, will allow residents to verify their identity once and access all provincial services. Identity verification will build on existing credentials such as health Cards or Driver's Licenses, with additional security layers. SaskAccount will NOT be mandatory for services that don't require identity verification. 
+A unified login system called the Saskatchewan Account (SaskAccount) will allow residents to verify their identity once and access all provincial services. Identity verification will build on existing credentials such as health cards or driver's licences, with additional security layers. SaskAccount will not be mandatory for services that do not require identity verification. 
 
 Existing vendor contracts will be honoured through their terms. Contract renewals will be evaluated against SaskStack alternatives, with migration to provincial systems where functionality and cost are comparable. No new long-term contracts for services that SaskStack can provide will be signed after this Act comes into force.
 
-Data security, privacy, and sovereignty will be of utmost priority. Data must be stored and secured using Zero-Trust, ultra secure, privacy principles, in local SaskTel owned servers as soon as possible. All employees must use new password and multi-factor authentication protocols. Additionally, White Hat Hackers will be contracted regularly to help secure the digital state.
+Data security, privacy, and sovereignty will be of the utmost priority. Data must be stored and secured using zero-trust, ultra-secure privacy principles on local, SaskTel-owned servers as soon as possible. All employees must use strong password and multi-factor authentication protocols. Additionally, white-hat hackers will be contracted regularly to help secure the digital state.
 
 SDS will establish a Saskatchewan Secure Desktop Standard for government computing, based wherever feasible on hardened, enterprise-grade, open-source operating systems and software. The goal is to reduce reliance on foreign proprietary platforms, improve security, and ensure long-term digital independence.
 
@@ -53,7 +53,7 @@ SDS will maintain a 24/7 Security Operations Centre with incident response capab
 
 Software developed by or for SDS will be open source by default. Exceptions may be made where full public release would create legitimate security, privacy, or operational risks. Wherever possible, Saskatchewan will publish source code, standards, documentation, and reusable components so that other public institutions can adopt and improve them. This will be hosted on the CodeShare Civics Repository, a public platform where residents can view, audit, and propose improvements to government software and policy. 
 
-	See Policy 18 - Democratic Renewal for more.
+- See Policy 18 - Democratic Renewal for more.
 
 In-person and telephone service options will be maintained for all government services. Digital services supplement but do not replace traditional access channels.
 
@@ -63,7 +63,7 @@ Within 15 years: all Government of Saskatchewan data, including its personal inf
 
 Indigenous data governance within provincial systems will be governed through agreements co-developed with the relevant Indigenous governing bodies, consistent with Ownership, Control, Access, and Possession (OCAP) principles, the Consent Protocol, and the Saskatchewan UNDRIP Implementation Act.
 
-The Province will negotiate data-sharing agreements with federal agencies that specify exactly what data is shared, for what purposes, with what retention limits, and with what security requirements. No bulk data transfers will be permitted. All federal access will be logged, auditable, and reportable to the relevant oversight body on request
+The Province will negotiate data-sharing agreements with federal agencies that specify exactly what data is shared, for what purposes, with what retention limits, and with what security requirements. No bulk data transfers will be permitted. All federal access will be logged, auditable, and reportable to the relevant oversight body on request.
 
 Indigenous-governed data may only be shared with the express authorization of the relevant Indigenous governing body or bodies. The Government of Saskatchewan will have no unilateral authority to disclose, transfer, or grant access to such data.
 
@@ -71,7 +71,7 @@ Residents have the right to request a complete copy of all personal data held by
 
 <strong><u>Automated Decision-Making and Artificial Intelligence:</u></strong>
 
-Any automated decision system, including artificial intelligence, machine learning, large language models, rules engines, predictive analytics, scoring systems, or any similar future technology, can never be the sole decider of any consequential decision affecting human life in Saskatchewan.
+Any automated decision system, including artificial intelligence, machine learning, large language models, rules engines, predictive analytics, scoring systems, or any similar future technology, can never be the sole decision-maker in any consequential decision affecting human life in Saskatchewan.
 
 For the purpose of this Act, a consequential decision is any public decision that affects a resident's legal rights, privileges, or interests. These decisions will be treated in tiers, with stronger safeguards as the consequences become more serious.
 
@@ -135,19 +135,19 @@ SaskTel will be given a new mandate to ensure Saskatchewan Digital Sovereignty. 
 
 These sovereign data servers are dedicated to secure data storage and government operations, not commercial AI training. Government use of AI tools will be governed by a separate AI policy ensuring transparency, human oversight, and prohibition on using resident data to train external AI models.
 
-For safety and security reasons the centres will be operated in a geographically redundant way. This includes dedicated infrastructure for:
+For safety and security reasons, the centres will be operated in a geographically redundant way. This includes dedicated infrastructure for:
 
 - Primary and backup server centres exclusively to be used for Indigenous Data, with total access and control handed off to Indigenous governing bodies. 
 - Primary and backup server centres for all Government of Saskatchewan personal and private data.
-- Primary and backup server centres for its encrypted, enterprise grade, email services.
+- Primary and backup server centres for its encrypted, enterprise-grade email services.
 
 These data servers will be ultra secure, encrypted, and private. No one but SaskTel and the relevant Indigenous governing body will have access to the Saskatchewan peoples' data or the Indigenous Peoples of Saskatchewan data respectively. Neither government nor Indigenous data will be shared with external parties except pursuant to a valid court order issued by a Canadian court.
 
 SaskTel will then use these servers to run and operate SaskCloud. SaskCloud will be a sovereign cloud platform operated by SaskTel to host Government of Saskatchewan data, SaskStack applications, and approved public-sector workloads. It may also be offered to municipalities, school divisions, post-secondary institutions, health entities, and other public bodies on a shared-services basis.
 
-SaskTel will also be given the mandate to remake its email service to be a modern, above enterprise grade, email provider for the Government of Saskatchewan. This will allow the Government of Saskatchewan to securely and privately, via end to end encryption, send emails internally, as well externally by single point encryption. No one but the Government of Saskatchewan will ever be able to read or access them. 
+SaskTel will also be given the mandate to remake its email service into a modern, above-enterprise-grade email provider for the Government of Saskatchewan. This will allow the Government of Saskatchewan to securely and privately send emails internally via end-to-end encryption, as well as externally through single-point encryption. No one but the Government of Saskatchewan will ever be able to read or access them. 
 
-SaskTel will also be mandated to remain net-neutral. They are to treat the internet as utility, no different than electricity. 
+SaskTel will also be mandated to remain net-neutral. It is to treat the internet as a utility, no different than electricity. 
 
 #### The Funding
 
@@ -155,13 +155,13 @@ The upfront funding for SDS, SaskStack modernization, identity infrastructure, s
 
 #### What It Means For You
 
-It means a modern, digital friendly, government that meets you where you are. 
+It means a modern, digital-friendly government that meets you where you are. 
 
-It means your data isn't used to train an AI model making the internet worse. 
+It means your data isn't used to train an AI model that makes the internet worse. 
 
-It means the dignity in your data being your own, private and protected.  
+It means the dignity of your data being your own, private, and protected.  
 
-# # FAQ
+# FAQ
 
 - What is SaskStack?
 	- SaskStack is Saskatchewan's shared public digital platform. It allows Saskatchewan Digital Services to build and maintain modern web applications, identity services, payment systems, and service portals for ministries, agencies, Crown corporations, and other approved public bodies without relying on foreign vendor lock-in.

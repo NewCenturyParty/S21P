@@ -1,4 +1,4 @@
-# Detailed Policy 
+# Detailed Policy
 
 ### The Problem
 
@@ -6,22 +6,22 @@ The cost of living is out of control, people need help, yet our Social Security 
 
 ### The Promise
 
-The existing Saskatchewan Social Security system will be overhauled into a single front facing system that is simple, easy, and dignified. 
+The existing Saskatchewan Social Security system will be overhauled into a single front-facing system that is simple, easy, and dignified. 
 
 ### The Plan
 
 The NCP will introduce the Saskatchewan Social Security Act. This Act will unify the disparate existing supports and benefits provided by the Ministry of Social Services into a single upfront benefit and service to be known as Saskatchewan Social Security (SSS). 
 
-As it stands now, there are several different benefit programs in Saskatchewan. Each program has its own application, its own means testing, and its own procedures. The programs rarely interact except for clawbacks and rules stating you can't be on some at the same time, or if you are they then subtract from each other. Its confusing. Its messy. It's undignified. 
+As it stands now, there are several different benefit programs in Saskatchewan. Each program has its own application, its own means testing, and its own procedures. The programs rarely interact except for clawbacks and rules stating you can't be on some at the same time, or if you are, they subtract from each other. It's confusing. It's messy. It's undignified. 
 
-By introducing a single system we will be able to reach more people, deliver better benefits, and reduce waste, and needless bureaucracy. There are only two current exceptions to the unified system. Those being the:
+By introducing a single system, we will be able to reach more people, deliver better benefits, and reduce waste and needless bureaucracy. There are only two current exceptions to the unified system:
 
 - Cognitive Disability Strategy
 - Financial Help for Home Care
 
 <strong><u>How It Works:</u></strong> 
 
-There will be a single case, a single profile, a single application, a single front door. No more multiple accounts, multiple cases, and multiple workers. Residents will apply with their Saskatchewan Account on Saskatchewan.ca or by phone for those who prefer as such. 
+There will be a single case, a single profile, a single application, a single front door. No more multiple accounts, multiple cases, and multiple workers. Residents will apply with their Saskatchewan Account on Saskatchewan.ca or by phone if they prefer. 
 
 The application will be kept simple, where residents will be asked a series of questions to determine their eligibility for all components of the SSS. The information required from clients, and their family members if applicable, will include:
 
@@ -37,7 +37,7 @@ The application will be kept simple, where residents will be asked a series of q
 
 All Saskatchewan Social Security benefit amounts, income exemptions, and phase-out thresholds will be automatically indexed to Saskatchewan's inflation, using the Consumer Price Index (CPI), to ensure SSS keeps up with the cost of living. 
 
-The program year will be from July 1st to June 30th of the following year. Renewals will be kept simple and automatic where possible and relevant. Most people will only need to submit their current year's Income Tax Return or Notice of Assessment. Other updates will be specifically requested by the Ministry of Social Services.
+The program year will be from July 1 to June 30 of the following year. Renewals will be kept simple and automatic where possible and relevant. Most people will only need to submit their current year's Income Tax Return or Notice of Assessment. Other updates will be specifically requested by the Ministry of Social Services.
 
 Mid-year updates provided by the client(s) will be required should any of the following change:
 
@@ -49,7 +49,7 @@ Mid-year updates provided by the client(s) will be required should any of the fo
 - Disability Status
 - Banking / Direct Deposit Information
 
-Those eligible for the Disability component will only need to provide proof either once for permanent disabilities, every 3 - 5 years for long term disabilities that are not permanent, or on a 6 month basis for short term disabilities.
+Those eligible for the Disability component will only need to provide proof either once for permanent disabilities, every 3-5 years for long-term disabilities that are not permanent, or on a 6-month basis for short-term disabilities.
 
 The SSS will be made of eight (8) components that smoothly interact and stack. Residents will be able to get all the support they are eligible for without missing out on programs they aren't aware of. The components of the SSS are as follows:
 
@@ -91,7 +91,7 @@ Eligibility:
 - The client applying must be aged 18 years or older.
 - The client family must earn under an annual <u>family income</u> of $55,000 for one dependent, $62,500 for two dependents, or $70,000 for three or more dependents. 
 - The dependent(s) must be under 18 and ordinarily reside with the applicant, or be subject to a shared-custody arrangement.
--  Benefits will be split if there is shared custody based on the custody arrangement and both parents qualify for the Dependent component. If only one parent qualifies they receive the whole benefit. 
+- Benefits will be split if there is shared custody based on the custody arrangement and both parents qualify for the Dependent component. If only one parent qualifies they receive the whole benefit. 
 
 Additionally, if residents are eligible for any Dependent component, they are eligible for Discounted Bus Passes and Supplemental Health Coverage. 
 
@@ -134,7 +134,7 @@ This replaces the Saskatchewan Assured Income for Disability (SAID) benefit. It 
 
 The Benefit:
 
-- The benefit will start at a maximum of $18,000 annually ($1,500 / month), and is reduced by 30 cents for every dollar earned over an annual <u>personal income</u> of $30,000. The benefit is fully phased at at an annual <u>personal income</u> of $90,000. 
+- The benefit will start at a maximum of $18,000 annually ($1,500 / month), and is reduced by 30 cents for every dollar earned over an annual <u>personal income</u> of $30,000. The benefit is fully phased out at an annual <u>personal income</u> of $90,000. 
 
 Eligibility:
 
@@ -172,7 +172,7 @@ Note: family income means the combined income of the applicant and their married
 
 ---
 
-<strong><u>Senior's Supplement</u></strong> 
+<strong><u>Seniors' Supplement</u></strong> 
 
 This replaces programs such as the Seniors Income Plan (SIP). It is meant to help low income seniors who have served their time working and are ready to enjoy their golden years. 
 
@@ -186,13 +186,13 @@ Eligibility:
 - The client must earn under an annual <u>family income</u> of $38,000.
 - The client must be receiving all other provincial or federal benefits that they qualify for, such as Old Age Security.
 
-Additionally, if residents are eligible for the Senior's Supplement component, they are eligible for Discounted Bus Passes and Supplemental Health Coverage. 
+Additionally, if residents are eligible for the Seniors' Supplement component, they are eligible for Discounted Bus Passes and Supplemental Health Coverage. 
 
 ---
 
 <strong><u>Childcare Supplement</u></strong> 
 
-This is meant to reintroduce the benefit formerly known as the Child Care Subsidy (CCS). It is meant to help low income families where the caregiver(s) currently work, study, or is in training. 
+This is meant to reintroduce the benefit formerly known as the Child Care Subsidy (CCS). It is meant to help low income families where the caregiver(s) currently work, study, or are in training. 
 
 The Benefit:
 
@@ -210,7 +210,7 @@ This is meant to replace the additional benefits granted in several of the old p
 
 The Benefit:
 
-- The benefit will be $1,800 annually ($150 / month), and is not reduced by income level. This is purely a top up.
+- The benefit will be $1,800 annually ($150 / month), and is not reduced by income level. This is purely a top-up.
 
 Eligibility:
 
@@ -232,7 +232,7 @@ Here is a table that provides the exact numbers and details for each component o
 | Rental Support <br>(3+ children)       | $9,000 <br>($750/mo)              | $42,000 family                                                    | 20%   | $87,000 family                                                             |
 | Disability (targeted SAID replacement) | $18,000 <br>($1,500/mo)           | $30,000 personal                                                  | 30%   | $90,000 personal                                                           |
 | Licensed Care Home Supplement          | Up to $42,000<br>($3,500 / month) | $0 top-up model where monthly income is topped up to max benefit. | N/A   | $42,000 family                                                             |
-| Senior's Supplement                    | $6,000 <br>($500/mo)              | $18,000 family                                                    | 30%   | $38,000 family                                                             |
+| Seniors' Supplement                   | $6,000 <br>($500/mo)              | $18,000 family                                                    | 30%   | $38,000 family                                                             |
 | Childcare Supplement                   | $900 <br>($75/mo)                 | Must have dependents and be working/studying/in training          | N/A   | Follows Rental Support eligibility window                                  |
 | Northern Supplement                    | $1,800 <br>($150/mo)              | None                                                              | N/A   | Paid if recipient qualifies for any main SSS stream and lives in the north |
 
@@ -242,17 +242,15 @@ The payments will come out of the General Revenue Fund.
 
 The money will come from a variety of factors, like increased taxes, royalty rates, and Crown dividend payments.
 
-	See Policy 21 - Funding for more.
+For more information see Policy 21 - Funding.
 
 ### What It Means For You
 
 It means you have a little more room to breathe. 
 
-It means your Dignity is not something you budget around. 
+It means your dignity is not something you budget around. 
 
 It means you matter. 
-
----
 
 # FAQ
 

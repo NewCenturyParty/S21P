@@ -1,9 +1,9 @@
-# Detailed Policy 
+# Detailed Policy
 
 
 ### The Problem
 
-Cities are held back by old ways of thinking that are not compatible with Human Thriving. 
+Cities are held back by old ways of thinking that are not compatible with human thriving. 
 
 Our infrastructure is nearing its replacement age.
 
@@ -11,39 +11,39 @@ There are no reliable transit options between communities across the province.
 
 ### The Promise
 
-An NCP Government will ensure our cities meet the standards of the 21st Century and that transportation between communities is reliable, frequent, and cheap. 
+An NCP government will ensure our cities meet the standards of the 21st century and that transportation between communities is reliable, frequent, and cheap. 
 
-### The Plan 
+### The Plan
 
 The NCP will introduce amendments to:
 
 - The SaskEnergy Act
-- The Saskatchewan Telecommunications Act. 
+- The Saskatchewan Telecommunications Act
 - The Municipalities Act
 - The Construction Codes Act
-- and more
+- And more.
 
 <u><strong>SaskEnergy - From Gas Utility to Thermal Utility</u></strong>
 
-SaskEnergy will be given a new mandate to transition Saskatchewan off direct fossil-gas heating over time and become a public Thermal Utility. Gas service will remain available as a backup and transition fuel for existing customers, but the long-term direction of the province will be toward geothermal ambient loops, heat pumps, and other non-combustion thermal systems.
+SaskEnergy will be given a new mandate to transition Saskatchewan off direct fossil-gas heating over time and become a public thermal utility. Gas service will remain available as a backup and transition fuel for existing customers, but the long-term direction of the province will be toward geothermal ambient loops, heat pumps, and other non-combustion thermal systems.
 
 This transition will not happen all at once. It will be built out in phases over the coming decades. The first priority will be all new public housing, new private housing developments, major public buildings, hospitals, schools, care facilities, dense new developments, and established urban districts where underground infrastructure is already being replaced or upgraded.
 
-Where city streets, utility corridors, or public rights-of-way are being opened for major work, including the replacement of lead, asbestos, water, sewer, or other underground infrastructure, SaskEnergy will coordinate with SaskPower, SaskTel, municipalities, and other public agencies to install 5th Generation Ambient Loops at the same time wherever feasible. If we are already digging up the street, we will build the thermal infrastructure of the future while it is open.
+Where city streets, utility corridors, or public rights-of-way are being opened for major work, including the replacement of lead, asbestos, water, sewer, or other underground infrastructure, SaskEnergy will coordinate with SaskPower, SaskTel, municipalities, and other public agencies to install 5th-generation ambient loops at the same time wherever feasible. If we are already digging up the street, we will build the thermal infrastructure of the future while it is open.
 
 Going forward, no new neighbourhood or major development shall be planned around fossil-gas heating alone where an ambient loop or comparable thermal system is reasonably feasible. New growth must be built for the century ahead, not the century behind us.
 
-5th Generation Ambient Loops are low-temperature thermal networks that use the stable temperature of the ground to move heat efficiently between buildings and the earth. In winter, in-home heat pumps draw warmth from the loop. In summer, they send unwanted heat back into it. Waste heat from commercial buildings, industry, and public infrastructure can also be captured and shared through the same network. The goal is that it will all be interconnected. Where the waste heat from the fridges in the grocery store could be used for heating the nearby apartments. 
+5th-generation ambient loops are low-temperature thermal networks that use the stable temperature of the ground to move heat efficiently between buildings and the earth. In winter, in-home heat pumps draw warmth from the loop. In summer, they send unwanted heat back into it. Waste heat from commercial buildings, industry, and public infrastructure can also be captured and shared through the same network. The goal is that it will all be interconnected, so the waste heat from the fridges in the grocery store could be used for heating the nearby apartments. 
 
 In-home infrastructure, including heat pumps and related equipment, will be offered with $0 upfront cost through long-term on-bill repayment. For a standard household, combined thermal service and repayment charges will be designed to remain broadly comparable to the recent regional cost of gas heating, with additional bill protection for low- and moderate-income households. Repayment obligations will attach to the property and transfer with ownership.
 
 For rural properties and remote locations where connection to ambient loops is not feasible, SaskEnergy will provide equivalent electrified heating options, including ground-source heat pumps, under the same zero-upfront, on-bill repayment principle.
 
-Gas service will remain available as a backup and optional connection during this long transition period, but Saskatchewan's long-term path will be clear: over time, homes and buildings in this province will be heated and cooled by public thermal networks and efficient electric heat, not by burning combustable gas in every basement.
+Gas service will remain available as a backup and optional connection during this long transition period, but Saskatchewan's long-term path will be clear: over time, homes and buildings in this province will be heated and cooled by public thermal networks and efficient electric heat, not by burning combustible gas in every basement.
 
-And just to be clear, everyone will have their own thermostat and heat pump. People will control their own individual household temperatures just like now, but it will be done extremely efficiently and cheap. 
+And just to be clear, everyone will have their own thermostat and heat pump. People will control their own individual household temperatures just like now, but it will be done extremely efficiently and cheaply. 
 
-<u><strong>SaskTel - Connected the Community Digitally</u></strong>
+<u><strong>SaskTel - Connecting the Community Digitally</u></strong>
 
 SaskTel will be mandated to ensure affordable high-speed service to every household and farm within five (5) years, using fibre wherever practical, and last-mile solutions where fibre is not yet feasible, with a broader goal of ensuring fibre to all households in the province, urban and rural, within the next 15 years. 
 
@@ -51,75 +51,75 @@ SaskTel will be mandated to ensure affordable high-speed service to every househ
 
 SaskPower will be mandated to modernize the entire electrical grid to be able to withstand the needs of the 21st century. This includes vast amounts of new power generation, and infrastructure upgrades to ensure power lines can withstand storms and the increased energy production.
 
-	See Policy 15 - Energy and Resource Sovereignty for more.
+	See Policy 15 - Resource and Energy Sovereignty for more.
 
 <strong><u>Dig Once:</u></strong>
 
 To reiterate, when major work is being done under city streets, utility corridors, or public rights-of-way, including the replacement of lead, asbestos, water, sewer, or other underground infrastructure, SaskEnergy, SaskPower, SaskTel, municipalities, and other public agencies will be mandated to coordinate with each other to install the new infrastructure upgrades all at once. We won't tear up the streets multiple times a decade anymore. 
 
-<u><strong>Municipalities - Human Centred Cities</u></strong>
+<u><strong>Municipalities - Human-Centred Cities</u></strong>
 
-The Municipalities Act will be amended and modernized, allowing our municipalities the opportunity to grow and thrive in the 21st Century. Negotiations with the municipalities of Saskatchewan will begin immediately. The NCP will listen to what they need to make the best places to live possible. 
+The Municipalities Act will be amended and modernized, allowing our municipalities the opportunity to grow and thrive in the 21st century. Negotiations with the municipalities of Saskatchewan will begin immediately. The NCP will listen to what they need to make the best places to live possible. 
 
-Through these negotiations, the Province and Municipalities will work together to create Priority Housing Zones around priority areas designated by the province, such as downtowns, transit corridors, schools, main streets, hospitals, with as-of-right approvals for SaskHomes and Provincial Standard Plans. Municipalities must zone enough land in PHZs to accommodate at least 15 years of projected housing need.
+Through these negotiations, the province and municipalities will work together to create Priority Housing Zones around priority areas designated by the province, such as downtowns, transit corridors, schools, main streets, and hospitals, with as-of-right approvals for SaskHomes and Provincial Standard Plans. Municipalities must zone enough land in PHZs to accommodate at least 15 years of projected housing need.
 
-PHZs will allow most construction as by-right should they meet new provincial standard plans and universal design standards made in consultation with the community. Meaning that unless a real objection is made for legitimate code and safety reasons, the project will move forward as deemed approved. Housing is a human right and we must act with the urgency that necessitates. 
+PHZs will allow most construction as-of-right, provided it meets new provincial standard plans and universal design standards made in consultation with the community. This means that unless a real objection is made for legitimate code and safety reasons, the project will move forward as deemed approved. Housing is a human right and we must act with the urgency this necessitates. 
 
 Gated communities or any developments that restrict movement between neighbourhoods will be strictly prohibited. The free passage throughout the city is paramount. 
 
-Cities must adopt a human first approach, ensuring that anyone can reliably get the services and items needed for human thriving and dignity within a short walk. Cars will not be restricted, but they can no longer be prioritized above human centred travel. Proper, protected, bike lanes must be made to allow for cheap and easy travel through any city. 
+Cities must adopt a human-first approach, ensuring that anyone can reliably get the services and items needed for human thriving and dignity within a short walk. Cars will not be restricted, but they can no longer be prioritized above human-centred travel. Proper protected bike lanes must be built to allow for cheap and easy travel through any city. 
 
-Municipalities will be mandated to remove and replace the lead and asbestos pipes within a timeframe set by regulation after negotiations are had with the municipalities. The cities must coordinate the work of digging up streets and replacing these pipes with the other Crown corporations mentioned in this policy to ensure that the "Dig Once" policy is met.
+Municipalities will be mandated to remove and replace lead and asbestos pipes within a timeframe set by regulation after negotiations are completed with the municipalities. The cities must coordinate the work of digging up streets and replacing these pipes with the other Crown corporations mentioned in this policy to ensure that the "Dig Once" policy is met.
 
 Grants and logistical help will be offered by the province to any municipality that adopts any of the following:
 
-- Transit Improvements
+- Transit improvements
 	- Longer service hours.
 	- More frequent and reliable service.
-	- Extra grants for those that build new trams / street cars. 
-- Walkable Cities
-	- Designing networks and communities so that 90% of residents are within a 10-20 minute walk of the following key amenities:
-		- Grocery Stores.
-		- Primary Care.
-		- Primary and Secondary School.
+	- Extra grants for those that build new trams/streetcars. 
+- Walkable cities
+	- Designing networks and communities so that 90% of residents are within a 10-20-minute walk of the following key amenities:
+		- Grocery stores.
+		- Primary care.
+		- Primary and secondary school.
 		- Childcare.
-		- Parks and Green Spaces.
-		- Frequent Transit stops.
-		- Public Libraries and Maker Spaces.
+		- Parks and green spaces.
+		- Frequent transit stops.
+		- Public libraries and maker spaces.
 - Street standards
-	- Protected Bike Lanes wherever possible. 
-	- Traffic Calming Street Designs.
+	- Protected bike lanes wherever possible. 
+	- Traffic-calming street designs.
 	- Close school zone streets to through-traffic during certain hours.
-	- Tree Canopy Coverage targets.
+	- Tree canopy coverage targets.
 	- Safe crossings and intersection redesigns. 
-- Parking Reform
-	- Remove Parking minimums.
-- Zoning Reform
-	- Gradually eliminate Single Family Zoning.
-	- Allow for mixed use development.
+- Parking reform
+	- Remove parking minimums.
+- Zoning reform
+	- Gradually eliminate single-family zoning.
+	- Allow for mixed-use development.
 	- Allow missing middle housing.
 	- Allow storefront main floors with housing units above.
 
 <strong><u>Reviving the STC</u></strong> 
 
-A "new" Crown corp named the Saskatchewan Transport Company (STC) will be established. This STC is reimagined as a public logistics, package, and freight service as well as being the same personal transport company.
+A "new" Crown corporation named the Saskatchewan Transport Company (STC) will be established. This STC is reimagined as a public logistics, package, and freight service, while still serving as a personal transport company.
 
-The STC will custom order buses that have cold storage sections in the back half of the bus. This will allow for the transport of goods, like groceries for SaskGrocery, or medical supplies, in addition to regular freight, packages, and the people on the bus. By moving people and goods at the same time we make the STC viable. 
+The STC will custom order buses that have cold-storage sections in the back half of the bus. This will allow for the transport of goods, like groceries for SaskGrocery or medical supplies, in addition to regular freight, packages, and the people on the bus. By moving people and goods at the same time, we make the STC viable. 
 
 	See Policy 14 - Food Sovereignty for more.
 
 The service will connect major corridors and regional hubs first, then expand to smaller communities based on demonstrated passenger, freight, grocery, and pharmacy demand.
 
-STC Depots will be constructed in the major hubs. Each depot will act as a Resilience Hub, and as a cold storage hub and a package / freight pickup and drop off centre. Partner businesses and locations will be selected for locations that are connected to the STC, but do not have a full fledge depot. Cold Storage Lockers will be available 24/7 for online ordered grocery pick up for rural communities. The idea is you order in the app, and pick fresh groceries up within 24 hours at the locker. 
+STC Depots will be constructed in the major hubs. Each depot will act as a Resilience Hub, as well as a cold-storage hub and a package/freight pickup and drop-off centre. Partner businesses and locations will be selected in places that are connected to the STC but do not have a full-fledged depot. Cold-storage lockers will be available 24/7 for online-ordered grocery pickup for rural communities. The idea is that you order in the app and pick fresh groceries up within 24 hours at the locker. 
 
-The STC will partner with local businesses and other Crown companies as its main source of business of cheap logistic travel across the province. The expected primary customers of this new STC are:
+The STC will partner with local businesses and other Crown companies as a main source of affordable logistics demand across the province. The expected primary customers of this new STC are:
 
 - The Saskatchewan public looking for transit between their communities. 
 - SaskGrocery to deliver groceries and supplies between stores across the province. 
 - Pharmacies to deliver prescriptions across the province.
-- Business or individuals looking to ship items or freight inter-provincially.
+- Businesses or individuals looking to ship items or freight interprovincially.
 
-A project for a True High-Speed Rail line between Regina and Saskatoon will be established with serious planning, corridor protection, and feasibility work beginning within immediately. 
+A project for a true high-speed rail line between Regina and Saskatoon will be established, with serious planning, corridor protection, and feasibility work beginning immediately. 
 
 ### The Funding
 
@@ -155,7 +155,7 @@ It means the dignity in daring to build better, together.
 	- Absolutely. Everyone will have their own thermostat and heat pump. You control your household temperature just like now. It will just be much cheaper and more efficient.
 
 - How much will the in-home equipment cost me?
-	- It For a standard household, combined thermal service and equipment repayment charges will be designed to remain broadly comparable to the recent regional cost of gas heating, with additional bill protection for low- and moderate-income households. The equipment itself will be $0 upfront and paid back over the long-term. 
+	- For a standard household, combined thermal service and equipment repayment charges will be designed to remain broadly comparable to the recent regional cost of gas heating, with additional bill protection for low- and moderate-income households. The equipment itself will be $0 upfront and paid back over the long term. 
 
 - What about rural properties?
 	- For rural properties where connection to ambient loops is not feasible, SaskEnergy will offer equivalent ground-source heat pump installations with the same $0 upfront, on-bill repayment terms.

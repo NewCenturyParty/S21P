@@ -2,11 +2,11 @@
 
 ### The Problem
 
-Public Health Care is slowly being privatized and dismantled, even with most extended healthcare services already being private. At the same time, it is becoming harder and harder to keep a regular family doctor, or any medical professional at all.
+Public health care is slowly being privatized and dismantled, even with most extended health care services already being private. At the same time, it is becoming harder and harder to keep a regular family doctor, or any medical professional at all.
 
 ### The Promise
 
-The same promise Saskatchewan made over half a century ago: a single payer plan that is $0 at point of service.
+The same promise Saskatchewan made over half a century ago: a single-payer plan that is $0 at the point of service.
 
 Just bring your Health Card. That's it. 
 
@@ -16,7 +16,7 @@ The NCP also commits to the largest recruitment drive this province has ever see
 
 The NCP will introduce The Saskatchewan Universal Health Act.
 
-This Act will expand Saskatchewan's Medicare to create a new Single Payer plan that insures all medically necessary services in the following areas:
+This Act will expand Saskatchewan's Medicare to create a new single-payer plan that insures all medically necessary services in the following areas:
 
 - Hospitals and Facility Care
 	- In-patient and out-patient hospital services.
@@ -29,76 +29,76 @@ This Act will expand Saskatchewan's Medicare to create a new Single Payer plan t
 	- Rehabilitation services (physiotherapy, occupational therapy, speech-language pathology, etc.)
 - Pharmacare 
 	- Medically necessary prescription medication dispensed in community and hospital settings
-	- Generic and bio-similar first, with clinical exceptions.
+	- Generic and biosimilar first, with clinical exceptions.
 - Oral Health 
 	- Medically necessary dental care provided by dentists and dental specialists (including endodontics, periodontics, prosthodontics, oral surgery).
-	- Medically necessary orthodontics (braces, aligners) when require for function, airway, pain, or oral health. 
+	- Medically necessary orthodontics (braces, aligners) when required for function, airway, pain, or oral health. 
 - Vision Care
-	- Medically Necessary eye exams and treatments.
+	- Medically necessary eye exams and treatments.
 	- Prescription lenses and basic frames.
 	- Low-vision devices and medically required ophthalmic procedures (excluding purely cosmetic surgery).
 - Mental Health and Addictions Care
 	- Assessment and treatment provided by psychiatrists, psychologists, psychotherapists, counsellors, and other licensed mental health professionals.
 	- Community mental health clinics, harm reduction, and addictions care. 
-	- Treatment Resistant expanded care, including cutting edge treatments. 
+	- Treatment-resistant expanded care, including cutting-edge treatments. 
 - Hearing Care
 	- Assessment and treatment provided by audiologists and other licensed providers. 
 	- Medically necessary hearing aids and implantable devices. 
-- Home and Community Care
+- Home and community care
 	- Home nursing, rehab, personal support, palliative care, and paramedic-treat-and-refer services.
 	- Community-based supports that allow people to live safely at home (SaskPoles, etc)
 - Long-Term Care and Assisted Living 
 	- Care in long-term care homes and personal care homes that will be mandated to transition to public or not-for-profit operation. 
 	- Medically necessary nursing, personal care, and allied health services in these settings. 
 
-Wherever possible, TeleHealth and virtual options will be provided as to accommodate those who are not able to travel to see a clinician in person, be it for physical or mental health. TeleHealth will be entirely covered and treated with parity with physical presence as part of the Universal Health policy. 
+Wherever possible, TeleHealth and virtual options will be provided to accommodate those who are not able to travel to see a clinician in person, whether for physical or mental health. TeleHealth will be entirely covered and treated on par with in-person care as part of the Universal Health policy. 
 
 <strong><u>Phased In:</u></strong>
 
-The coverage for these areas of healthcare will be carefully phased in over a 10 year period to ensure that there is a smooth transition with the funding and staffing to back it. Each area will be phased by cost, implementation readiness, downstream savings, and what is determined by regulation. 
+The coverage for these areas of health care will be carefully phased in over a 10-year period to ensure that there is a smooth transition with the funding and staffing to back it. Each area will be phased by cost, implementation readiness, downstream savings, and what is determined by regulation. 
 
-Phase 1 (Years 1 - 2)
-- Expansion of team based primary care 
-- Mental Health and Addictions for serious conditions
-- Essential Pharmacare
+Phase 1 (Years 1-2)
+- Expansion of team-based primary care 
+- Mental health and addictions for serious conditions
+- Essential pharmacare
 - TeleHealth functionality and expansion 
 
-Phase 2 (Years 3 - 5)
-- Broader Pharmacare coverage
-- Home and Community Care
-- Hearing Assessments and medically necessary devices
-- Vision Assessments including Basic lenses and frames
+Phase 2 (Years 3-5)
+- Broader pharmacare coverage
+- Home and community care
+- Hearing assessments and medically necessary devices
+- Vision assessments including basic lenses and frames
 - Medically necessary dental focused first on urgent, surgical, and function-restoring care
 
-Phase 3 (Years 6 - 8)
-- Full Pharmacare coverage
+Phase 3 (Years 6-8)
+- Full pharmacare coverage
 - Broader oral health
 - Broader vision benefits
 - Expanded outpatient allied health
 - More comprehensive community mental health and addictions coverage
 
-Phase 4 (Years 9 - 10)
+Phase 4 (Years 9-10)
 - Long-term care and personal care home conversion to public / non-profit
 - Full integration and implementation of remaining covered services. 
 
 
 <strong><u>Medically necessary:</u></strong>
 
-What is considered medically necessary within each area will be determined by the treating clinician, within peer norms, and guided by independent Benefit Councils made up of clinicians and patient representatives. Government will not have a say in what is medically necessary. 
+What is considered medically necessary within each area will be determined by the treating clinician, within peer norms, and guided by independent Benefit Councils made up of clinicians and patient representatives. The government will not have a say in what is medically necessary. 
 
 <strong><u>No two-tier system:</u></strong>
 
-The Insurance Act will be amended to ensure that no extra billing is allowed for insured medical services, and private insurance companies will be prohibited from offering duplicate coverage. Private insurance will only be allowed for cosmetic or non-medically necessary extras. As each health area becomes covered under medicare, the insurance industry must cease any duplicating coverage. 
+The Insurance Act will be amended to ensure that no extra billing is allowed for insured medical services, and private insurance companies will be prohibited from offering duplicate coverage. Private insurance will only be allowed for cosmetic or non-medically necessary extras. As each health area becomes covered under Medicare, the insurance industry must cease any duplicating coverage. 
 
 <strong><u>Patient Safety:</u></strong>
 
-Doctors, nurses, and other care staff will be guaranteed safe patient ratios, determined by the Benefit Councils, that if breached will automatically close beds that cannot be safely staffed to ensure patient and practitioner health and safety. 
+Doctors, nurses, and other care staff will be guaranteed safe patient ratios, determined by the Benefit Councils. If those ratios are breached, beds that cannot be safely staffed will automatically close to ensure patient and practitioner health and safety. 
 
 <strong><u>Recruitment:</u></strong>
 
 To recruit and retain more healthcare professionals, the NCP will:
 
-- In consultation with the unions, offer to raise the wages for all public medical professions by 10% minimum, and up to a maximum of 25% for the following staffing areas:
+- In consultation with the unions, offer to raise the wages for all public medical professions by a minimum of 10%, and up to a maximum of 25% for the following staffing areas:
 
 	- Rural and Northern placements
 	- Emergency, ICU, OR, Anesthesia, Lab, Imaging
@@ -106,13 +106,13 @@ To recruit and retain more healthcare professionals, the NCP will:
 	- Return-of-service
 	- Hard-to-retain classifications as determined by regulation.
 
-- Provide a $5,000 bonus to all staff in the Saskatchewan Health Authority, regardless of position, to show appreciation for their service. Additionally an extra $10,000 (thus $15,000 total) will be offered to  hard-to-staff roles, new workers, and returning workers. 
+- Provide a $5,000 bonus to all staff in the Saskatchewan Health Authority, regardless of position, to show appreciation for their service. Additionally, an extra $10,000, for a total of $15,000, will be offered to hard-to-staff roles, new workers, and returning workers. 
 
-- Starting as soon as possible, the Saskatchewan Health Authority will provide free, weekly, Prior Learning Assessment and Recognition (PLAR) evaluations for any out of province or international medical staff, with the evaluations happening as quickly as safely allowable.
+- Starting as soon as possible, the Saskatchewan Health Authority will provide free, weekly, Prior Learning Assessment and Recognition (PLAR) evaluations for any out-of-province or international medical staff, with the evaluations happening as quickly as safely allowable.
 
 - Mandate vastly expanded seats for all medical professions in every post-secondary institution in Saskatchewan. 
 
-- Pay any medical students' tuition and living expenses, in Saskatchewan, in Canada, or in the Commonwealth, provided they agree to stay or move in province, wherever they are placed, for five (5) years for Canadians,  seven (7) years for international professionals, with additional bonuses for those who stay 10 years or more. 
+- Pay medical students' tuition and living expenses in Saskatchewan, elsewhere in Canada, or in the Commonwealth, provided they agree to stay in or move to the province, wherever they are placed, for five (5) years for Canadians and seven (7) years for international professionals, with additional bonuses for those who stay 10 years or more. 
 
 - Do all within the power of the Government of Saskatchewan to expedite Visa and immigration services to international, especially American, medical staff who contractually commit to working in the province for five (5) years. 
 
@@ -128,12 +128,11 @@ A new payroll tax shall be implemented, to be known as the Universal Health Levy
 
 - By law, employers will be prohibited from clawing back the levy through wage cuts or benefit reductions. 
 
-- The UHL will see modest and transparent increases over the 10 year transition period to accommodate the new health areas as they are added to medicare and thus no longer provided under private insurance.
+- The UHL will see modest and transparent increases over the 10-year transition period to accommodate the new health areas as they are added to Medicare and thus no longer provided under private insurance.
 
-Revenues from UHL will go into the General Revenue fund, but by law may only be used for health spending. Each year, the government must report publicly how much of health care is funded by the UHL, federal transfers, and other provincial revenues. 
+Revenues from UHL will go into the General Revenue Fund, but by law may only be used for health spending. Each year, the government must report publicly how much of health care is funded by the UHL, federal transfers, and other provincial revenues. 
 
 ### What It Means For You
-
 
 It means your health isn't tied to your wallet.
 
@@ -141,15 +140,13 @@ It means that your dignity is met where you need it most.
 
 And it means that in Saskatchewan, we look out for each other.
 
---- 
-
 # FAQ
 
 - What if I leave Saskatchewan before finishing the 5 year mandatory placement after medical school?
 	- If you leave early the amount you have already been paid, tuition and living costs, will convert into a zero interest loan, like a Saskatchewan Student Loan. If you return to Saskatchewan within the following five years you can pick up where you left off, freezing the loan payments and paying it off after a full five years served. 
 
-- What are Benefit Councils 
-	- Benefit Councils are groups of clinicians responsible for each of the insured health care sectors. For example, the Oral Health Benefit Council will be made up of working Dentists, Orthodontists, Dental Hygienists, as well as recent patients. They will meet every quarter to decide and discuss and decide costs and coverages, ensuring they meet the people as they see them.
+- What are Benefit Councils?
+	- Benefit Councils are groups of clinicians responsible for each of the insured health care sectors. For example, the Oral Health Benefit Council will be made up of working dentists, orthodontists, dental hygienists, as well as recent patients. They will meet every quarter to discuss and decide costs and coverages, ensuring they meet people as they see them.
 
 - How much will this cost me?
 	- The goal is that the Universal Health Levy starts close to what workers and employers already pay for private health coverage, and then rises only gradually and transparently as new services are added to the public plan. The point is not to make people pay twice. It is to replace private premiums with a public system that covers more and keeps the money in Saskatchewan.
@@ -157,9 +154,8 @@ And it means that in Saskatchewan, we look out for each other.
 - How will the province recruit enough doctors and nurses?
 	- Through the largest recruitment drive in the province's history: a 10% wage increase for all public medical professions, with increases of up to 25% for hard-to-staff roles such as rural and northern placements, emergency and critical care, hard-to-recruit specialties, return-of-service positions, and other hard-to-retain classifications. On top of that, current staff will receive a $5,000 bonus, with bonuses of up to $15,000 for hard-to-staff roles, new workers, and returning workers, alongside expanded training seats and full tuition and living support for medical students who commit to serving in Saskatchewan.
 
-- What services are covered?
+- How is coverage phased in?
 	- The full plan is phased in over 10 years. Phase 1 focuses on team-based primary care, serious mental health and addictions care, and essential pharmacare. Phase 2 expands pharmacare, home and community care, hearing care, basic vision care, and urgent medically necessary dental care. Phase 3 moves to full pharmacare, broader oral and vision care, expanded outpatient allied health, and more comprehensive community mental health services. Phase 4 completes the long-term care and personal care home transition and integrates the remaining covered services.
-
 
 - What exactly is Medically Necessary?
 	- That's between you and your treating clinician. The government takes its hands out of the equation. There are peer norms to follow, which just means whoever is treating you cannot be irresponsible. And those norms are determined by the sector's Benefit Council.

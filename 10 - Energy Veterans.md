@@ -1,4 +1,4 @@
-# Detailed Policy 
+# Detailed Policy
 
 #### The Problem
 
@@ -6,7 +6,7 @@ The workers who build and power the world as we know it are tied up and invested
 
 #### The Promise
 
-The NCP will support oil and gas sector workers ready to join the 21st Century economy. 
+The NCP will support oil and gas sector workers ready to join the 21st century economy.
 
 We will treat the Energy Veterans with the respect they deserve. 
 
@@ -14,24 +14,24 @@ We will treat the Energy Veterans with the respect they deserve.
 
 The NCP will introduce The Saskatchewan Energy Veterans Act. 
 
-We will honour our Energy Veterans. They turned their raw work and determination and used it to power the modern world. Our Hospitals, our schools,  our heated homes in -40°C. They are the best at what they do and they are exactly who we need. They built the old world. It's time to hire them to build the new one. 
+We will honour our Energy Veterans. They took their raw work and determination and used it to power the modern world. Our hospitals, our schools, our heated homes in -40°C. They are the best at what they do and they are exactly who we need. They built the old world. It's time to hire them to build the new one.
 
-This Act will be available to all workers in specified Oil and Gas NAICS code industries (extraction, pipelines, support, etc), including related dependent contractors and on-site service workers who physically work over 50% of hours in the specified Oil and Gas industries, to choose three different pathways out of the industry.
+This Act will be available to all workers in specified oil and gas NAICS code industries (extraction, pipelines, support, etc.), including related dependent contractors and on-site service workers who physically work over 50% of their hours in the specified oil and gas industries, to choose three different pathways out of the industry.
 
-To be eligible, workers must have been working in the specified Oil and Gas NAICS code industries for 24 of the last 60 months, have the legal right to live or work in Saskatchewan, and commit to residing and working in Saskatchewan for five years or more, unless they are retiring. Workers can only apply once. 
+To be eligible, workers must have been working in the specified oil and gas NAICS code industries for 24 of the last 60 months, have the legal right to live or work in Saskatchewan, and commit to residing and working in Saskatchewan for five years or more, unless they are retiring. Workers can only apply once.
 
 The Energy Veterans Agency (EVA) will be established to act as the program manager for the workers joining the new economy. 
 
-For the first year of the Act coming into force, the offer will be exclusive to Saskatchewan residents who have lived and worked in province for more than two years. After that first year, the offer will be opened up and available to all Oil and Gas NAICS sector workers across Canada. These pathways will sunset after 15 years. 
+For the first year of the Act coming into force, the offer will be exclusive to Saskatchewan residents who have lived and worked in the province for more than two years. After that first year, the offer will be opened up and available to all oil and gas NAICS sector workers across Canada. These pathways will sunset after 15 years.
 
-These pathways are voluntary. Workers who prefer to remain in the oil and gas sector may do so, though they are encouraged to plan for the industry's eventual sunset.
+These pathways are completely voluntary. Workers who prefer to remain in the oil and gas sector may do so, though they are encouraged to plan for the industry's eventual sunset.
 
 <strong><u>Retire</u></strong>
 
-For the Energy Veterans who have served their time and are ready to take their well deserved rest, the province of Saskatchewan will honour them with:
+For the Energy Veterans who have served their time and are ready to take their well-deserved rest, the province of Saskatchewan will honour them with:
 
 - A $15,000 Energy Veterans Bonus. 
-- A new Saskatchewan Prosperity Medal will be bestowed to honour a worker's service and contribution to Saskatchewan Prosperity.
+- A new Saskatchewan Prosperity Medal will be bestowed to honour a worker's service and contribution to Saskatchewan's prosperity.
 - Four (4) years of Energy Veterans Debt Shield Protections. 
 	- The Province will provide a "Debt Shield" which will reimburse a certain percent of the interest on primary residential mortgages and one primary vehicle (both subject to regulatory caps) each month during those four years, declining 25 percentage points per year.
 		- Year 1: 100% of interest
@@ -53,7 +53,7 @@ For those who want to go and learn something new, or further their existing know
 		- Year 2: 75% of interest
 		- Year 3: 50% of interest
 		- Year 4: 25% of interest 
-- A 1 to 1 Pension / Ticket Parity. We will honour your ticket and earned experience, including time used for education. This means if you have 20 years in the patch, you will have 20 years of pension seniority and ticket seniority. Nobody is starting from the bottom. 
+- A 1-to-1 Pension/Ticket Parity. We will honour your ticket and earned experience, including time spent in education. This means if you have 20 years in the patch, you will have 20 years of pension seniority and ticket seniority. Nobody is starting from the bottom.
 - A full scholarship (tuition, fees, books, tools, bus pass) for any post-secondary or vocational training done in Saskatchewan, provided they meet satisfactory academic progress and performance.
 - Wage replacement matching, while in school, up to 75% of the average of the three best T4s from the past five years worked. However, there will be a limit of $55,000 per year, with satisfactory academic performance stipulations.
 - A monthly childcare stipend for workers with children under 13, or 18 if they have special needs, while in full-time education, covering up to 90% of licensed childcare costs.
@@ -64,29 +64,29 @@ For those who want to go and learn something new, or further their existing know
 For those ready to do the job of tomorrow, today, the province will offer:
 
 - A $15,000 Energy Veterans Bonus. 
-- A new Saskatchewan Prosperity Medal will be bestowed to honour a worker's service and contribution to Saskatchewan Prosperity.
+- A new Saskatchewan Prosperity Medal will be bestowed to honour a worker's service and contribution to Saskatchewan's prosperity.
 - Four (4) years of Energy Veterans Debt Shield Protections. 
 	- The Province will provide a "Debt Shield" which will reimburse a certain percent of the interest on primary residential mortgages and one primary vehicle (both subject to regulatory caps) each month during those four years, declining 25 percentage points per year.
 		- Year 1: 100% of interest
 		- Year 2: 75% of interest
 		- Year 3: 50% of interest
 		- Year 4: 25% of interest 
-- A 1 to 1 Pension / Ticket Parity. We will honour your ticket and earned experience, including time used for education. This means if you have 20 years in the patch, you will have 20 years of pension seniority and ticket seniority. Nobody is starting from the bottom. 
-- Job placement priority in partnership with SaskJobs, who will actively place skilled workers into relevant positions ready to start right away, or in a position in the Saskatchewan Century Corps to learn a new role on the job. No one is making a driller learn to code. 
-- Employers like SaskEnergy will hire drillers for their geothermal and ambient loop projects. SaskPower will hire skilled welders for the high pressure CANDU nuclear reactors piping. We aren't asking roughnecks to learn to code. Companies will need experts on these wells in order to clean and cap them properly. We are asking them to do the same jobs, just with more security, pensions, and the ability to sleep in their own beds at the end of the day. 
+- A 1-to-1 Pension/Ticket Parity. We will honour your ticket and earned experience, including time spent in education. This means if you have 20 years in the patch, you will have 20 years of pension seniority and ticket seniority. Nobody is starting from the bottom.
+- Job placement priority in partnership with SaskJobs, who will actively place skilled workers into relevant positions ready to start right away, or into a position in the Saskatchewan Century Corps to learn a new role on the job. No one is making a driller learn to code.
+- Employers like SaskEnergy will hire drillers for their geothermal and ambient loop projects. SaskPower will hire skilled welders for the high-pressure piping used in CANDU nuclear reactors. We aren't asking roughnecks to learn to code. Companies will need experts on these wells in order to clean and cap them properly. We are asking them to do the same jobs, just with more security, pensions, and the ability to sleep in their own beds at the end of the day.
 - Hazardous duty pay added to the base rate to match industry norms.
-- While positions utilizing similar skills will offer similar wages as Oil and Gas jobs, the Government of Saskatchewan will offer "Wage Top Ups" for up to four years if the new job pays less than the worker's old Oil and Gas sector job. The Top Ups will cover 100% of the wage difference from month 1, and gradually decline, month by month, to 0%.
+- While positions utilizing similar skills will offer similar wages as oil and gas jobs, the Government of Saskatchewan will offer "Wage Top-Ups" for up to four years if the new job pays less than the worker's old oil and gas sector job. The Top-Ups will cover 100% of the wage difference from month 1, and gradually decline, month-by-month, to 0%.
 - Relocation grants will be offered and vary depending on distance and family size to help pay for the move and the first three months of new housing. 
 
-	 See Policy 06 - 21st Century Connected Communities for more.
-	 See Policy 09 - Fair Labour for more. 
-	 See Policy 11 - The Saskatchewan Century Corps for more. 
-	 See Policy 15 - Energy and Resource Sovereignty for more. 
+See Policy 06 - 21st Century Connected Communities for more.
+See Policy 09 - Fair Labour for more.
+See Policy 11 - The Saskatchewan Century Corps for more.
+See Policy 15 - Resource and Energy Sovereignty for more.
 
 
 <strong><u>The Energy Veterans Agency</u></strong>
 
-The Energy Veterans Agency (EVA) will handle the applications and payment disbursements for these pathways, and work with other organizations like SaskJobs to  place people into new jobs.
+The Energy Veterans Agency (EVA) will handle applications and payment disbursements for these pathways, and work with other organizations like SaskJobs to place people into new jobs.
 
 Case managers will be hired with caseloads capped at 75 workers each to ensure personal and timely service. The EVA will also prevent fraud and misuse by:
 
@@ -99,16 +99,16 @@ Case managers will be hired with caseloads capped at 75 workers each to ensure p
 
 The Energy Veterans pathways and the Energy Veterans Agency will be funded through a dedicated Energy Veterans Transition Fund.
 
-This Fund will be financed through a combination of sector transition levies on the oil and gas industry, resource revenues, and transfers from general revenues as required during the transition period.
+This Fund will be financed through a combination of sector transition levies on the oil and gas industry, resource revenues, and transfers from the General Revenue Fund as required during the transition period.
 
 The exact levy structure will be designed to reflect the managed sunset of the oil and gas sector, the need to protect workers, and the principle that the industry which profited from Saskatchewan's resources must contribute to the cost of supporting the workers who powered it.
 
 Any future transfers from broader public investment or endowment vehicles may supplement the Fund, but the worker protections in this policy will not depend on any single financial instrument or revenue source.
 
-To make it absolutely, abundantly clear: The workers will not be left holding the bag.
+To make it absolutely clear: The workers will not be left holding the bag.
 
-	See Policy 17 - Financial Sovereignty for more.
-	See Policy 21 - Funding for more.
+See Policy 17 - Financial Sovereignty for more.
+See Policy 21 - Funding for more.
 
 #### What It Means For You
 
@@ -116,19 +116,19 @@ It means a lifeboat out of a dying industry.
 
 It means clean work and a clean conscience.
 
-It means the dignity of building a better future. 
+It means the dignity of building a better future.
 
-# FAQ 
+# FAQ
 
 - Isn't this just a rebranded "Just Transition"?
 
-	- No. Just Transition is a corny, demeaning, term and has no place in this Party or platform. We respect Energy Veterans for their hard work and constant service and we will back that respect up accordingly. We are not asking drillers to code. We need them to continue drilling.
+	- No. Just Transition is a corny demeaning term and has no place in this Party or platform. We respect Energy Veterans for their hard work and constant service and we will back that respect up accordingly. We are not asking drillers to code. We need them to continue drilling.
 
 - What are the three pathways?
 	- Retire, Retrain, or Redeploy. Retire honours those ready to step away with a bonus, debt shield, and pension bridge. Retrain provides a full scholarship and wage replacement for those who want to learn something new. Redeploy places workers directly into new jobs that use the same skills they already have.
 
 - Who is eligible?
-	- Any worker in specified Oil and Gas NAICS code industries who has worked in the sector for 24 of the last 60 months, has the legal right to live or work in Saskatchewan, and commits to residing and working in Saskatchewan for at least five years, unless they are retiring. For the first year, the offer is exclusive to Saskatchewan residents who have lived and worked in province for more than two years. After that, it opens to eligible oil and gas workers across Canada.
+	- Any worker in specified oil and gas NAICS code industries who has worked in the sector for 24 of the last 60 months, has the legal right to live or work in Saskatchewan, and commits to residing and working in Saskatchewan for at least five years, unless they are retiring. For the first year, the offer is exclusive to Saskatchewan residents who have lived and worked in the province for more than two years. After that, it opens to eligible oil and gas workers across Canada.
 
 - What is the $15,000 Energy Veterans Bonus?
 	- Every eligible worker who chooses any of the three pathways receives a $15,000 bonus, no questions asked, along with the Saskatchewan Prosperity Medal honouring their service.
@@ -143,13 +143,13 @@ It means the dignity of building a better future.
 	- The province will cover tuition, fees, books, tools, and a bus pass for approved Saskatchewan education and training programs. While in school, workers will receive wage replacement equal to up to 75% of the average of their best three T4 years from the past five years worked, capped at $55,000 annually, so long as they maintain satisfactory academic performance.
 
 - Will I take a pay cut if I redeploy?
-	- If your new job pays less than your old oil and gas job, the province will provide temporary Wage Top Ups for up to four years. These top ups begin by covering the full wage difference and then gradually decline over time.
+	- If your new job pays less than your old oil and gas job, the province will provide temporary Wage Top-Ups for up to four years. These top-ups begin by covering the full wage difference and then gradually decline over time.
 
 - What kind of new jobs will be available?
 	- Jobs that match the real skills these workers already have. Drillers can move into geothermal and ambient loop projects. Welders can work on high-pressure energy infrastructure. Field workers can cap wells, clean legacy sites, and build the next generation of Saskatchewan energy systems. We are not asking roughnecks to become software engineers. 
 
 - Is this mandatory?
-	- No. These pathways are voluntary. Workers who want to stay in oil and gas may do so, though they are encouraged to plan for the industry's eventual sunset.
+	- No. These pathways are completely voluntary. Workers who want to stay in oil and gas may do so, though they are encouraged to plan for the industry's eventual sunset.
 
 - How is this funded?
 	- The Energy Veterans pathways and the Energy Veterans Agency will be funded through a dedicated Energy Veterans Transition Fund. This Fund will be financed through a combination of sector transition levies on the oil and gas industry, resource revenues, and transfers from general revenues as required during the transition period.

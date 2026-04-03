@@ -6,7 +6,7 @@ Education is underfunded, overburdened, under-appreciated, and built for the las
 
 #### The Promise
 
-The NCP will create the best environment for education in the country by funding our education system like never before and ensure that it grows to meet the needs of residents no matter their stage of life.
+The NCP will create the best environment for education in the country by funding our education system like never before and ensuring that it grows to meet the needs of residents no matter their stage of life.
 
 #### The Plan
 
@@ -31,9 +31,9 @@ Universal, publicly-funded pre-kindergarten will be available to all four-year-o
 
 <strong><u>K-12</u></strong>
 
-The goal will be to place Saskatchewan in the top three highest-funded public school system in Canada on a comparable per-student operating basis within 10 years. To get there, the Province will first restore funding to keep pace with inflation, enrolment growth, and classroom complexity, then move Saskatchewan into the top three provinces within five years, and to first place by the end of the 10-year transition. 
+The goal will be to place Saskatchewan in the top three highest-funded public school systems in Canada on a comparable per-student operating basis within 10 years. To get there, the Province will first restore funding to keep pace with inflation, enrolment growth, and classroom complexity, then move Saskatchewan into the top three provinces within five years, and to first place by the end of the 10-year transition. 
 
-To support student health and education, free breakfast and lunches will be provided by the schools. Grants will be given to ensure every school can provide these free healthy meals to all students, regardless of family income, within that same 10 year period. 
+To support student health and education, free breakfast and lunches will be provided by the schools. Grants will be given to ensure every school can provide these free healthy meals to all students, regardless of family income, within that same 10-year period. 
 
 Additional student transportation funding will also be provided to ensure rural and remote students have reliable access to schools regardless of distance.
 
@@ -41,19 +41,19 @@ For clarity, transportation, capital construction, and other extraordinary costs
 
 First Nations-operated schools will be eligible, where requested by the governing First Nation and through negotiated agreement, for provincial per-student operating top-ups to achieve parity with comparable provincial schools. These top-ups are intended to supplement, not replace, federal education funding, and will not limit First Nations control over governance, language, curriculum, staffing, or school operations.
 
-No educator will be left behind. Education Assistants and support staff will receive dedicated statutory funding based on school size and staffing ratios established through binding agreement with the Saskatchewan Teacher's Federation (STF). There will also be new trainings and rules around student behaviours as to protect our educators and students with mandatory external safety audits for violent incidents. Work refusals for unsafe classrooms are explicitly protected under the new Fair Work Authority.
+No educator will be left behind. Education Assistants and support staff will receive dedicated statutory funding based on school size and staffing ratios established through binding agreement with the Saskatchewan Teachers' Federation (STF). There will also be new training and rules around student behaviours as to protect our educators and students with mandatory external safety audits for violent incidents. Work refusals for unsafe classrooms are explicitly protected under the new Fair Work Authority.
 
 Students with complex learning, behavioural, or physical needs will receive individualized support plans developed with families, educators, and specialists. Funding will follow the student, ensuring supports are available regardless of which school they attend.
 
 A new statutory school supplies grant will be given to schools to ensure each classroom has the supplies they need for class work and classroom decoration. No longer will teachers be expected to pay out of pocket. 
 
-New increased minimum prep times will be introduced with guaranteed hours based on class sizes and grade.
+New minimum prep times will be introduced, with guaranteed hours based on class sizes and grade.
 
 Class sizes will be capped and reduced so that educators can give adequate attention and support to all their students. The specific class sizes and staffing ratios will be established through binding agreement with the STF.
 
-Extra Curricular Activities, especially those outside of school hours, will receive new and increased funding that includes educator pay for presiding over such activities. Educators must be fairly compensated for any extra curricular work. 
+Extracurricular Activities, especially those outside of school hours, will receive new and increased funding that includes educator pay for presiding over such activities. Educators must be fairly compensated for any extracurricular work. 
 
-Arts programs will receive new and additional funding to ensure students have access to, and education as a necessary part of the human experience and the expression of Saskatchewan. 
+Arts programs will receive new and additional funding to ensure students have access to arts education as a necessary part of the human experience and the expression of Saskatchewan. 
 
 Educators will be offered new bursaries to expand their knowledge and teaching abilities in the following:
 
@@ -74,12 +74,12 @@ Public funding for private and independent schools will be phased out over five 
 
 Catholic schools, as constitutionally protected separate schools, will continue to receive public funding. However, they must teach the provincial curriculum, follow provincial labor standards, and may not discriminate against students or staff on any Human Rights Code protected ground.
 
-Home Schooling will have new restrictions and rules:
+Homeschooling will have new restrictions and rules:
 
 - Educators must register and get a free license from the province in order to homeschool. 
 - Educators must submit background checks to the province. 
 - Educators must submit annual learning and curricula plans to the Ministry, following the provincial curriculum.
-- Students and Educators must meet with Ministry of Education representatives for a biannual portfolio review. 
+- Students and educators must meet with Ministry of Education representatives for a biannual portfolio review. 
 - Students must be enrolled, for free, in the Saskatchewan Distance Learning Centre. 
 	- Grants will be provided for devices as well as internet and electricity bills.
 - Students must complete an annual standardized test for their grade level to ensure accountability and quality of education. 
@@ -88,9 +88,9 @@ Home Schooling will have new restrictions and rules:
 
 <strong><u>New Curriculum</u></strong>
 
-The Government will work in partnership with Indigenous nations, governing bodies, and organizations, as well as the universities and trades schools in Saskatchewan, to design an updated and modern provincial education curriculum for k-12. 
+The Government will work in partnership with Indigenous nations, governing bodies, and organizations, as well as the universities and trades schools in Saskatchewan, to design an updated and modern provincial education curriculum for K-12. 
 
-The curriculum will be outcomes based, without new or additional standardized testing. The goal is not to create more work for the teachers, but to make their work more meaningful.
+The curriculum will be outcomes-based, without new or additional standardized testing. The goal is not to create more work for the teachers, but to make their work more meaningful.
 
 Suggested new subjects, to be taught alongside existing subjects as to not overwhelm teachers, include:
 
@@ -106,17 +106,17 @@ Suggested new subjects, to be taught alongside existing subjects as to not overw
 
 <strong><u>Post Secondary</u></strong> 
 
-Statutory, multi-year funding agreements will be made to ensure post secondary institutions have reliable and predictable funding. A floor to stand on.
+Statutory, multi-year funding agreements will be made to ensure post-secondary institutions have reliable and predictable funding. This will provide a reliable floor to stand on.
 
 Additional operating grants will be set to clear benchmarks around inflation, enrolment growth, population, and agreed upon program expansions. 
 
-Tuition will be capped so that it can only increase annually by Saskatchewan's CPI inflation plus a small margin determined in partnership with post secondary sector partners.
+Tuition will be capped so that it can only increase annually by Saskatchewan's CPI inflation plus a small margin determined in partnership with post-secondary sector partners.
 
-Tuition Vouchers, which cover tuition, fees, books, etc, must be redeemable by the post secondary institution in order to receive any other funding by the province. Redemption of vouchers will be dependent on seat availability in the selected program each year. If a program is at capacity, voucher holders may defer redemption to the following intake, apply to a related program, or request placement on a priority waitlist. Vouchers do not expire due to program capacity constraints.
+Tuition Vouchers, which cover tuition, fees, books, etc, must be redeemable by the post-secondary institution in order to receive any other funding from the province. Redemption of vouchers will be dependent on seat availability in the selected program each year. If a program is at capacity, voucher holders may defer redemption to the following intake, apply to a related program, or request placement on a priority waitlist. Vouchers do not expire due to program capacity constraints.
 
 	See Policy 11 - The Saskatchewan Century Corps for more.
 
-Crowns and Ministries will partner with post secondary institutions for training, as well as long-term research on the various new initiatives taken on by the Government of Saskatchewan. 
+Crowns and Ministries will partner with post-secondary institutions for training, as well as long-term research on the various new initiatives taken on by the Government of Saskatchewan. 
 
 A Capacity Expansion Fund will be created. The funding will be tied to that year's demand from SCC Tuition Vouchers and Energy Veterans retraining, and overall labour market metrics. For example, with every 100 Tuition Vouchers redeemed in a program area, the Capacity Expansion Fund will provide funding for one additional faculty position and proportional facility expansion in that area up to the institution's physical capacity. 
 
@@ -128,7 +128,7 @@ The Capacity Expansion Fund will fund:
 - Instructional design staff for SaskDLC and other hybrid programs.
 - New research funding. 
 
-The post secondary institutions in Saskatchewan will also be eligible for grants to do public research in Saskatchewan's interest. The Saskatchewan Advanced Research Projects Agency (SARPA) will be established to handle these research initiatives. Exact details will be made in partnership with the post secondary institutions.  
+The post-secondary institutions in Saskatchewan will also be eligible for grants to do public research in Saskatchewan's interest. The Saskatchewan Advanced Research Projects Agency (SARPA) will be established to handle these research initiatives. Exact details will be made in partnership with the post-secondary institutions.  
 
 
 <strong><u>The Saskatchewan Library Authority (SLA):</u></strong> 
@@ -145,7 +145,7 @@ Physical book delivery will be managed in partnership with the new Saskatchewan 
 
 Participating central libraries will receive grants to expand their buildings and services to include maker spaces and equipment lending. They will also receive grants to purchase connected devices for long term rental periods, such as an education semester, with priority given to SaskDLC students. Participating libraries will be prohibited from charging any late fees. 
 
-A Saskatchewan Open Library program will be introduced that collects out of print, and public domain materials. Such materials will be stored and operated by the SLA and have no limits on digital lending. 
+A Saskatchewan Open Library program will be introduced that collects out-of-print and public domain materials. Such materials will be stored and operated by the SLA and have no limits on digital lending. 
 
 The Government of Saskatchewan will seek Most Favoured Nation terms in publisher negotiations and will prioritize publishers who offer equitable and accessible licensing across Canadian jurisdictions.
 
@@ -153,15 +153,15 @@ Data generated by the SLA and participating libraries cannot be given or sold to
 
 <strong><u>The Saskatchewan Distance Learning Centre</u></strong> 
 
-The Saskatchewan Distance Learning Centre (SaskDLC) will receive a new mandate and new funding to expand their services. 
+The Saskatchewan Distance Learning Centre (SaskDLC) will receive a new mandate and new funding to expand its services. 
 
-Educators from the STF will be recruited and paid their union wages to help create free, self-paced, Adult Basic Education programs, Adult Literacy programs, High School Upgrading programs, and a self paced K-12 program. All of which must follow the provincial curriculum and thus are eligible for official transcripts. Delivery will be both synchronous and asynchronous for learners to choose their preference, with educators staffed for synchronous delivery of their lessons. 
+Educators from the STF will be recruited and paid their union wages to help create free, self-paced, Adult Basic Education programs, Adult Literacy programs, High School Upgrading programs, and a self-paced K-12 program. All of which must follow the provincial curriculum and thus are eligible for official transcripts. Delivery will be both synchronous and asynchronous for learners to choose their preference, with educators staffed for synchronous delivery of their lessons. 
 
-Prior Learning Assessment and Recognition programs for new comers and residents will be offered for low to no-cost depending on ability to pay. 
+Prior Learning Assessment and Recognition programs for newcomers and residents will be offered for low- to no-cost depending on ability to pay. 
 
-Tutoring services will be offered to any and all residents using Education Program students in the Universities. These positions would be paid union rates. 
+Tutoring services will be offered to all residents using Education Program students from the universities. These positions would be paid union rates. 
 
-The SaskDLC will have a goal of being as accessible as possible with various language options, disability first designs, and human-made subtitles. 
+The SaskDLC will have a goal of being as accessible as possible with various language options, disability-first design, and human-made subtitles. 
 
 Data generated by students, educators, and the SaskDLC is prohibited from being sold, distributed, or used outside the Government of Saskatchewan. Student learning data will be prohibited from being used to train any form of artificial intelligence models.
 
@@ -184,13 +184,13 @@ Materials and works where AI-generated content is the primary creative output ar
 
 #### The Funding
 
-Education funding shall come out of the General Revenue fund. 
+Education funding shall come out of the General Revenue Fund. 
 
 #### What It Means For You
 
 It means a quality education no matter your age or ability. 
 
-It means our educators get the pay recognition they deserve. 
+It means our educators get the pay and recognition they deserve. 
 
 It means the dignity in always learning. 
 
@@ -217,4 +217,4 @@ It means the dignity in always learning.
 	- A new, federated, opt-in group for all libraries in Saskatchewan offering a single unified Library Card, unified catalogue, maker spaces, and equipment lending. No late fees at participating libraries.
 
 - Will post-secondary tuition be capped?
-	- Yes. Tuition can only increase annually by CPI plus 1.5% or a small margin determined in partnership with post-secondary partners. SCC Tuition Vouchers must be accepted by institutions that receive provincial funding.
+	- Yes. Tuition can only increase annually by CPI plus a small margin determined in partnership with post-secondary partners. SCC Tuition Vouchers must be accepted by institutions that receive provincial funding.
