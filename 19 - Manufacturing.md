@@ -81,6 +81,8 @@ SMC-H1 will focus on building modular, easily connected, volumetric modules, suc
 
 New supply agreements and partnerships will be made with the Saskatchewan Forestry sector to ensure that local resources are used where possible.
 
+	See Policy 15 - Resource and Energy Sovereignty for more.
+
 SMC-H factories will be designed for continuous operation, using six rotating crews or another equivalent staffing model sufficient to maintain 24/7 production while preserving 30-hour work weeks under the new Fair Labour Standards.
 
 	See Policy 09 - Fair Labour for more. 

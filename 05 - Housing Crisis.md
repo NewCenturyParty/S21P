@@ -34,7 +34,7 @@ A vacancy tax, and a dormant land tax will be put in place on long-term empty an
 
 The Saskatchewan Housing Corporation (SHC) will be given major new investments and be directed to complete a Rapid Rebuild Program for their public housing stock by both renovating existing units and purchasing or long-term, or master leasing, existing housing units. 
 
-The SHC will hire and use prequalified contractors to immediately begin inspecting and renovating every unit within SHC's housing supply, starting with the most neglected and distressed units. 
+The SHC will hire and use prequalified contractors to immediately begin inspecting and renovating every unit within SHC's housing supply, starting with the most neglected and distressed units. For clarity, this will be done on all units in the province, not just those in the major cities. 
 
 To incentivize private development in markets with low vacancy or high-waitlists, the SHC will offer to pre-lease 15% of family-sized, seniors, or accessibly designed housing units in new developments and builds for a 15 year term. The operations and management of these units will be managed by the SHC.
 
@@ -48,7 +48,7 @@ The Office of Residential Tenancies shall establish regulations, audit powers, r
 
 Saskatchewan needs homes that will meet the needs of its people where they are, both today and in the future. An NCP government will immediately start creating a standardized housing design book for Saskatchewan made homes. 
 
-These "SaskHomes" will have universal, modular, designs, using standardized supplies and materials, so that they can be built easily on site by hand, the traditional way we know how, and also off site in a new prefab modular housing factory. The Saskatchewan Housing Corporation will order 100,000 units for public housing over 15 - 20 years, ensuring that the factory has the demand to operate at full capacity, 24/7 and that the people have homes within their lifetimes. 
+These "SaskHomes" will have universal, modular, designs, using standardized supplies and materials, so that they can be built easily on site by hand, the traditional way we know how, and also off site in a new prefab modular housing factory. The Saskatchewan Housing Corporation will order 100,000 units for public housing over 15 - 20 years, across the entire province, ensuring that the factory has the demand to operate at full capacity, 24/7 and that the people have homes within their lifetimes. 
 
 	See Policy 19 - Manufacturing for more. 
 
@@ -56,7 +56,7 @@ There will be a variety of unit types like single family homes that have an full
 
 	See Policy 06 - 21st Century Connected Communities for more.
 
-For public SaskHomes, rent will be set at 35% of family income. Family income means the combined income of the tenant and their married or common-law spouse or partner. Unrelated roommates will be treated as separate benefit units and assessed separately. Where multiple benefit units share one dwelling, rent will be apportioned among them under rules set by regulation, and the total charged for the unit shall not exceed the lawful rent for that unit.
+For public SaskHomes, rent will be set at 35% of family income. Family income means the combined income of the tenant and their married or common-law spouse or partner. Unrelated roommates will be treated as separate benefit units and assessed separately. Where multiple benefit receivers share one dwelling, rent will be apportioned among them under rules set by regulation, and the total charged for the unit shall not exceed the lawful rent for that unit.
 
 No residential rental unit may have its lawful rent increased more than once in any 12-month period. A change in tenancy does not reset the annual rent-increase clock for that unit. The Saskatchewan Rental Registry will record the lawful rent history of each unit for enforcement purposes.
 
@@ -81,6 +81,8 @@ Homeowners will have access to low or no-interest loans, depending on their year
 - Ensure a certain level of acoustic comfort for every unit. 
 
 Retrofit financing through SaskEnergy, SaskPower, and the Saskatchewan Housing Corporation will be delivered through a single application portal and one coordinated approval process, so that residents do not have to navigate multiple agencies to access support.
+
+The SaskHomes will be placed around the province to meet demand everywhere. This will not be a major city expansion only. Rural municipalities, small towns, Indigenous lands and reserves in strict co-development and partnership, as well as the cities, will receive new public rental unit SaskHomes. This is about building a livable province as whole, not just the large cities. 
 ### The Funding
 
 The immediate capital for the Rapid Rebuild Program and repair grants will come from the General Revenue Fund.

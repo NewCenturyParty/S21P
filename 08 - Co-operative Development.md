@@ -61,7 +61,7 @@ To be clear, transfers to a genuine family successor may be approved on an exped
 
 In the event of the death of a Business Owner, the estate and surviving family members will be treated equivalently to a voluntary family transfer and the FWA will approve the transition immediately. Where no family member wishes to take over and the business is assessed by the FWA — in consultation with the SCDA — to be non-viable for worker conversion (including circumstances where the financial, operational, or workforce conditions make a successful employee buyout unreasonable), the FWA may waive the 180-day exclusivity window and release the estate from the Notice of Intent obligations. The SCDA may still offer voluntary support to any interested employees, but no bid will be compelled. The purpose of this exemption is to avoid placing undue burden on grieving families or prolonging the wind-down of a business that cannot be reasonably saved, and it shall be applied with compassion and practicality.
 
-During this 180 day window, the SCDA will contact any employees who currently work, and have worked for more than one year, at the business and inform them of their Right of First Refusal to collectively, with other employees of the same or higher seniority, purchase the business that employs them. During this 180 day window, no sale may be completed, and no exclusive agreement may be entered into with another buyer, unless the employees formally decline to exercise their Right of First Refusal or the Fair Work Authority determines that the employees are not pursuing a serious bid in good faith.
+During this 180 day window, the SCDA will contact any employees who currently work, and have worked for more than one year, be it full-time or part-time, at the business and inform them of their Right of First Refusal to collectively, with other employees of the same or higher seniority, purchase the business that employs them. During this 180 day window, no sale may be completed, and no exclusive agreement may be entered into with another buyer, unless the employees formally decline to exercise their Right of First Refusal or the Fair Work Authority determines that the employees are not pursuing a serious bid in good faith.
 
 Furthermore, if within 12 months following the end of the 180 day exclusivity window, the owner receives a bona fide third-party offer on substantially similar terms, that offer must be disclosed to eligible employees so they may choose whether to match it. Where the employee offer and the third-party offer are substantially equivalent, the owner must give preference to the employee offer.
 
@@ -74,6 +74,8 @@ Related-party and below-market deals are considered as full sales subject to the
 This Act applies to businesses with five or more employees. Sole proprietors and businesses with fewer than five employees are exempt from the Notice of Intent requirement but may voluntarily engage the SCDA for succession planning.
 
 Businesses operating under franchise agreements are subject to the terms of those agreements, which may limit conversion options. 
+
+For successful conversions to worker-owned co-ops, the financing terms will include a grace period on principle repayment for the first three years as to give the worker-owners time to build the business and achieve profitability. 
 
 #### The Funding
 

@@ -57,7 +57,7 @@ Software developed by or for SDS will be open source by default. Exceptions may 
 
 In-person and telephone service options will be maintained for all government services. Digital services supplement but do not replace traditional access channels.
 
-<strong><u>The Saskatchewan Data Sovereignty Act:</u></strong> 
+<strong><u>The Saskatchewan Digital Sovereignty Act:</u></strong> 
 
 Within 15 years: all Government of Saskatchewan data, including its personal information on residents, must be stored and located within local Saskatchewan data servers. This includes all needed cloud infrastructure for Government of Saskatchewan operations. The primary goal will be to close out all possible back doors or unauthorized access to resident data. 
 
@@ -68,6 +68,66 @@ The Province will negotiate data-sharing agreements with federal agencies that s
 Indigenous-governed data may only be shared with the express authorization of the relevant Indigenous governing body or bodies. The Government of Saskatchewan will have no unilateral authority to disclose, transfer, or grant access to such data.
 
 Residents have the right to request a complete copy of all personal data held by the Government of Saskatchewan in a machine-readable format. Requests will be fulfilled within 30 days at no cost.
+
+<strong><u>Automated Decision-Making and Artificial Intelligence:</u></strong>
+
+Any automated decision system, including artificial intelligence, machine learning, large language models, rules engines, predictive analytics, scoring systems, or any similar future technology, can never be the sole decider of any consequential decision affecting human life in Saskatchewan.
+
+For the purpose of this Act, a consequential decision is any public decision that affects a resident's legal rights, privileges, or interests. These decisions will be treated in tiers, with stronger safeguards as the consequences become more serious.
+
+**Tier 1 — Decisions affecting interests:**  
+
+These include decisions about service triage, prioritization, scheduling, routine eligibility screening, inspection targeting, administrative flags, or other decisions that may affect a person's practical interests but do not by themselves determine legal rights or statutory status.
+
+Tier 1 systems may be used only with clear public notice, logging, auditability, and meaningful human supervision. A resident must be told when an automated system materially assisted a decision, and must have the right to request human reconsideration.
+
+**Tier 2 — Decisions affecting privileges or status:**  
+
+These include decisions about licences, permits, certifications, professional status, public contracting eligibility, regulatory compliance findings, public-sector employment discipline, or the granting, suspension, reduction, or termination of significant statutory benefits or services.
+
+Tier 2 decisions may not be made final without active human review by a properly delegated public official who has authority to depart from the system's recommendation, consider the resident's circumstances, and give written reasons. Residents must have a right to internal reconsideration and a right of independent review.
+
+**Tier 3 — Decisions affecting legal rights, liberty, bodily integrity, housing, family integrity, or other serious life consequences:**  
+
+These include decisions relating to child intervention, involuntary treatment, detention or correctional classification, policing or public-safety risk scoring, housing eviction from public systems, emergency deprivation of benefits necessary for subsistence, or any other decision prescribed by regulation as high consequence.
+
+Tier 3 systems may never act as the sole or primary decider. In these matters, automated systems may assist with information management, clerical support, or flagging, but the actual decision must be made by human beings exercising public judgment under law. Affected residents must receive written reasons, meaningful disclosure of the role the system played, urgent access to human review, and a right of independent appeal.
+
+Human review and appeal rights must be real, not cosmetic.
+
+Any human reviewer must be able to:
+
+- Access the record relied upon by the system;
+- Understand the system's role, inputs, and limits to the degree necessary to review the decision fairly;
+- Receive and consider new information from the affected person;
+- Depart from, override, or reject the automated recommendation;
+- Give written reasons in plain language.
+
+Any independent reviewer or appeal body must be institutionally separate from the original decision-maker and must not be a person who designed, procured, trained, deployed, or directly supervised the system being challenged. Independent review must be impartial, procedurally fair, and empowered to confirm, vary, reverse, or remit the matter for redetermination.
+
+The following minimum timelines will apply:
+
+- for Tier 1 decisions, a resident may request human reconsideration within 30 days, and a human decision must be provided within 15 business days;
+- for Tier 2 decisions, a resident may request reconsideration within 30 days, and a human reconsideration decision with written reasons must be provided within 10 business days, with independent review available thereafter;
+- for Tier 3 decisions, urgent human review must be available immediately or as soon as practicable, and in any event no later than 72 hours after request unless a shorter period is required by the nature of the decision.
+
+If a review deadline is missed, the matter will automatically escalate to the next level of review. Where the decision affects subsistence, housing, family integrity, or bodily liberty, the status quo must be preserved pending review unless immediate action is required by law for reasons of safety or emergency.
+
+Saskatchewan Digital Services must publish public standards governing automated decision systems used by the Province, including:
+
+- The purpose of each system;
+- The classes of decisions it may assist;
+- The data sources it uses;
+- The impact tier assigned to it;
+- Testing, audit, and monitoring requirements;
+- Bias, accessibility, and error-reporting requirements;
+- The applicable review and appeal process.
+
+No Government of Saskatchewan data, and no resident data held on behalf of the Government of Saskatchewan, may be used to train external private AI models.
+
+The Province also acknowledges a broader federal gap. Canada still lacks a dedicated, generally applicable AI statute governing the use of artificial intelligence across the economy. While the federal government has adopted internal public-service rules for automated decision-making, those rules do not create a complete national baseline for residents, workers, or provincial public institutions. Saskatchewan therefore calls on Ottawa to enact strong, rights-protecting federal legislation governing high-impact AI systems, meaningful contestation rights, independent oversight, and clear limits on automated decision-making affecting human beings.
+
+This is not a light or easy subject and the NCP will not treat it as such. The people of Saskatchewan are not data points to be optimized. They are human beings to be served.
 
 <strong><u>SaskTel:</u></strong> 
 

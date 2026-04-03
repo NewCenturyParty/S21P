@@ -51,6 +51,8 @@ This Act will expand Saskatchewan's Medicare to create a new Single Payer plan t
 	- Care in long-term care homes and personal care homes that will be mandated to transition to public or not-for-profit operation. 
 	- Medically necessary nursing, personal care, and allied health services in these settings. 
 
+Wherever possible, TeleHealth and virtual options will be provided as to accommodate those who are not able to travel to see a clinician in person, be it for physical or mental health. TeleHealth will be entirely covered and treated with parity with physical presence as part of the Universal Health policy. 
+
 <strong><u>Phased In:</u></strong>
 
 The coverage for these areas of healthcare will be carefully phased in over a 10 year period to ensure that there is a smooth transition with the funding and staffing to back it. Each area will be phased by cost, implementation readiness, downstream savings, and what is determined by regulation. 
@@ -59,6 +61,7 @@ Phase 1 (Years 1 - 2)
 - Expansion of team based primary care 
 - Mental Health and Addictions for serious conditions
 - Essential Pharmacare
+- TeleHealth functionality and expansion 
 
 Phase 2 (Years 3 - 5)
 - Broader Pharmacare coverage

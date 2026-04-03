@@ -53,7 +53,7 @@ For those who want to go and learn something new, or further their existing know
 		- Year 2: 75% of interest
 		- Year 3: 50% of interest
 		- Year 4: 25% of interest 
-- A 1 : 1 Pension / Ticket Parity. We will honour your ticket and earned experience, including time used for education. This means if you have 20 years in the patch, you will have 20 years of pension seniority. 
+- A 1 to 1 Pension / Ticket Parity. We will honour your ticket and earned experience, including time used for education. This means if you have 20 years in the patch, you will have 20 years of pension seniority and ticket seniority. Nobody is starting from the bottom. 
 - A full scholarship (tuition, fees, books, tools, bus pass) for any post-secondary or vocational training done in Saskatchewan, provided they meet satisfactory academic progress and performance.
 - Wage replacement matching, while in school, up to 75% of the average of the three best T4s from the past five years worked. However, there will be a limit of $55,000 per year, with satisfactory academic performance stipulations.
 - A monthly childcare stipend for workers with children under 13, or 18 if they have special needs, while in full-time education, covering up to 90% of licensed childcare costs.
@@ -71,7 +71,7 @@ For those ready to do the job of tomorrow, today, the province will offer:
 		- Year 2: 75% of interest
 		- Year 3: 50% of interest
 		- Year 4: 25% of interest 
-- A 1 : 1 Pension / Ticket Parity. We will honour your ticket and earned experience, including time used for education. This means if you have 20 years in the patch, you will have 20 years of pension seniority. 
+- A 1 to 1 Pension / Ticket Parity. We will honour your ticket and earned experience, including time used for education. This means if you have 20 years in the patch, you will have 20 years of pension seniority and ticket seniority. Nobody is starting from the bottom. 
 - Job placement priority in partnership with SaskJobs, who will actively place skilled workers into relevant positions ready to start right away, or in a position in the Saskatchewan Century Corps to learn a new role on the job. No one is making a driller learn to code. 
 - Employers like SaskEnergy will hire drillers for their geothermal and ambient loop projects. SaskPower will hire skilled welders for the high pressure CANDU nuclear reactors piping. We aren't asking roughnecks to learn to code. Companies will need experts on these wells in order to clean and cap them properly. We are asking them to do the same jobs, just with more security, pensions, and the ability to sleep in their own beds at the end of the day. 
 - Hazardous duty pay added to the base rate to match industry norms.

@@ -6,7 +6,7 @@
 
 ## Part I — The Fiscal Philosophy
 
-The Saskatchewan 21 Policies represent one of the most ambitious provincial platforms in Canadian history. They demand an equally ambitious and transparent funding model. This policy is the keystone that holds the other twenty together. The costs identified below are matched to funding lanes, modelled offsets, borrowing instruments, or clearly stated areas of uncertainty. Where long-run feedback effects are plausible but not yet bankable enough for the base case, they are discussed openly rather than quietly counted as hard revenue. Where uncertainty remains, it is presented as a range, not hidden behind a single confident number.
+The Saskatchewan 21 Policies represent one of the most ambitious provincial platforms in Canadian history. They demand an equally ambitious and transparent funding model. This policy is the keystone that holds the other twenty together. The costs identified below are matched to funding lanes, modelled offsets, explicit tax measures, borrowing instruments, or clearly stated areas of uncertainty. Where long-run feedback effects are plausible but not yet bankable enough for the base case, they are discussed openly rather than quietly counted as hard revenue. Where uncertainty remains, it is presented as a range, not hidden behind a single confident number.
 
 The fiscal philosophy of the NCP rests on five principles:
 
@@ -21,6 +21,47 @@ The fiscal philosophy of the NCP rests on five principles:
 Saskatchewan's 2025-26 fiscal position is already large. The provincial operating budget is roughly a C$21 billion state, and the Crown sector is already carrying a multi-billion-dollar annual utility capital program. That matters because Policy 21 is not being proposed as a one-year bolt-on to a tiny baseline. It is being proposed against a province that already manages large operating systems, large Crown balance sheets, and long-horizon infrastructure commitments.
 
 The correct comparison, then, is not between "normal government" and "suddenly huge government." It is between the current structure of Saskatchewan's public spending and a different 25-year structure that shifts more of that spending into housing, health, energy sovereignty, education, public assets, and household cost reduction.
+
+### The Revenue Package, Up Front
+
+Yes. This framework includes explicit tax increases. They are not left as vague future budget choices. The cost model itself is not reliant on them. What it does effect is the balance model: Policy 21 layers a calibrated provincial revenue package on top of the existing policy costs and policy-specific offsets.
+
+The package is legislated in Year 1. The 2.5% Energy Veterans levy begins in Year 1. The Provincial Services Tax (PST), Personal Income Taxes (PIT), and Corporate Income Taxes (CIT) changes take effect in Year 2 for the first full tax year after implementation. 
+
+PIT and CIT thresholds are CPI-indexed in real terms inside this constant-2026-dollar model. No separate PST relief package is modelled here; if a future government wants one, it should be costed openly against this framework.
+
+| Revenue Measure | Change | Effective Model Year | 25-Year Gross Gain (C$B) |
+|---|---|---:|---:|
+| PST | 6% to 8% | 2 | 26.65 |
+| PIT | New five-bracket structure | 2 | 9.49 |
+| CIT | Retain 1% small-business rate; 14% / 15% / 16% on larger corporate bands | 2 | 7.73 |
+| Energy Veterans levy | 2.5% sector transition levy on specified Saskatchewan O&G revenues | 1 | 3.72 |
+| **Gross package total** |  |  | **47.58** |
+| **Net additional revenue counted in the whole-platform balance model** |  |  | **46.88** |
+
+**Note:** Component rows are rounded to two decimals. Totals may not sum exactly at that level of display.
+
+#### New Personal Income Tax (PIT) Schedule
+
+| Taxable Income      | Current Rate | New Rate | Change |
+| ------------------- | ------------ | -------- | ------ |
+| $0 – $53,462        | 10.5%        | 11.5%    | +1.0%  |
+| $53,462 – $99,287   | 12.5%        | 13.5%    | +1.0%  |
+| $99,287 – $200,000  | 14.5%        | 16.0%    | +1.5%  |
+| $200,000 – $500,000 | 14.5%        | 17.0%    | +2.5%  |
+| $500,000+           | 14.5%        | 18.0%    | +3.5%  |
+
+#### New Corporate Income Tax (CIT) Schedule
+
+| Business Limit             | Current Rate | New Rate | Change |
+| -------------------------- | ------------ | -------- | ------ |
+| $0 – $600,000*             | 1%           | 1%       | 0%     |
+| $600,000 – $1,200,000*     | 12%          | 12%      | 0%     |
+| $1,200,000 – $10,000,000   | 12%          | 14%      | +2.0%  |
+| $10,000,000 - $100,000,000 | 12%          | 15%      | +3.0%  |
+| $100,000,000 +             | 12%          | 16%      | +4.0%  |
+
+This is a broad revenue package because the platform it funds is broad. The largest single lever is the PST. That is deliberate. The trade being offered is not higher tax for nothing. It is higher tax in exchange for durable public systems, lower household cost pressures throughout the platform, and a more self-sufficient provincial economy. For once, your taxes will buy you a better life. 
 
 ### What the Platform Costs
 
@@ -42,19 +83,21 @@ Those numbers need to be read carefully. They do not describe a permanent annual
 | Modeled Offsets | (49.96) | (76.79) | (131.42) | (42.22%) |
 | **Net Platform Cost** | **120.71** | **181.89** | **282.72** | **100.00%** |
 
-The platform cannot be described as one giant undifferentiated call on the General Revenue Fund. A large share of the fiscal weight is tied to assets, systems, and recoveries that have to be understood on their own terms.
+The platform cannot be described as one giant undifferentiated call on the General Revenue Fund. A large share of the fiscal weight is tied to assets, systems, and recoveries that have to be understood on their own terms. These are cost totals after policy-specific offsets but before the broader PIT, CIT, PST, and Energy Veterans revenue package above is layered into the balance model.
 
 ### Modeling Rules
 
 All figures are expressed in constant 2026 Canadian dollars over a 25-year horizon. The model uses low, base, and high scenarios to reflect real uncertainty around uptake, construction costs, delivery pace, workforce constraints, and revenue recovery.
 
-The base case includes direct policy costs and hard offsets only — explicit levies, rents, rates, royalties, contract recovery, vendor savings, and conservative cost-sharing where the policy design already provides for them. It does not depend on major lawsuit winnings, aggressive export upside, or sweeping assumptions about GDP growth. Where the political case for the platform includes plausible-but-not-yet-bankable returns, those appear later as upside scenarios rather than being smuggled into the core math.
+The core cost tables include direct policy costs and hard policy-specific offsets only — explicit levies, rents, rates, royalties, contract recovery, vendor savings, and conservative cost-sharing where the policy design already provides for them. Separate revenue-integrated balance tables later in this document then layer on the explicit PST, PIT, CIT, and Energy Veterans levy package. The model does not depend on major lawsuit winnings, aggressive export upside, or sweeping assumptions about GDP growth. Where the political case for the platform includes plausible-but-not-yet-bankable returns, those appear later as upside scenarios rather than being smuggled into the core math. We are going to be as honest and upfront as we possible can be. 
 
 ---
 
 ## Part II — The Fiscal Character of the Platform
 
-Government cannot pretend that all spending is the same. There is a meaningful difference between routine operating spending, social stabilization, and long-lived productive public capital. A government that borrows to cover recurring shortfalls with no structural reform is engaging in fiscally corrosive borrowing. A government that borrows to build housing stock, grid capacity, thermal systems, digital infrastructure, factories, and resilience assets is doing something fundamentally different. Those assets last. They lower future costs, generate recoveries, or increase the province's durable productive capacity.
+Government cannot pretend that all spending is the same. 
+
+There is a meaningful difference between routine operating spending, social stabilization, and long-lived productive public capital. A government that borrows to cover recurring shortfalls with no structural reform is engaging in fiscally corrosive borrowing. A government that borrows to build housing stock, grid capacity, thermal systems, digital infrastructure, factories, and resilience assets is doing something fundamentally different. Those assets last. They lower future costs, generate recoveries, or increase the province's durable productive capacity.
 
 | Fiscal Character | Included Policies | Base 25-Year Net Cost (C$B) | Share | What It Means |
 |---|---|---|---|---|
@@ -63,9 +106,9 @@ Government cannot pretend that all spending is the same. There is a meaningful d
 | Institutional balance-sheet architecture | 17 | 2.68 | 1.47% | The SSF and SFG reshape the province's treasury and wealth architecture. |
 | Foundational governance and rights | 01, 13 | 0.54 | 0.29% | Rights, enforcement, and climate-accountability architecture with limited direct fiscal weight. |
 
-More than half of the platform's net 25-year cost sits in productive capital and public asset buildout. That distinction matters. Not every public asset becomes a profit centre — some investments are justified because they reduce long-run harm, stabilize households, and make the province more governable and productive over time. Universal healthcare, anti-poverty policy, reconciliation, and democratic renewal cannot be forced into a crude "cash return" frame to be defensible.
+More than half of the platform's net 25-year cost sits in productive capital and public asset buildout. That distinction matters. Not every public asset becomes a profit centre — some investments are justified because they reduce long-run harm, stabilize households, and make the province more governable, productive, and a genuinely great place to live over time. That said, universal healthcare, anti-poverty policy, reconciliation, and democratic renewal cannot be forced into a crude "cash return" frame to be defensible.
 
-The fiscal goal of the platform is not austerity. It is to build a province with lower recurring social harm, stronger public capacity, more in-province ownership, and a larger share of long-run value retained in Saskatchewan.
+The fiscal goal of the platform is explicitly anti-austerity. That is to say, our goal here is to build a province with lower recurring social harm, stronger public capacity, more in-province ownership, and a larger share of long-run value retained in Saskatchewan. We will sit in the shade of the trees we plant. 
 
 ---
 
@@ -75,19 +118,19 @@ Most of the platform's cost is concentrated in a relatively small number of majo
 
 ### Major Cost Drivers
 
-| Policy | Base 25-Year Net Cost (C$B) | Share | Base Peak Annual (C$B) | What Drives Cost |
-|---|---|---|---|---|
-| 05 — Housing Crisis | 40.95 | 22.51% | 1.86 | SaskHomes capital build, housing operations, repairs, acquisitions, retrofit support |
-| 03 — Universal Health | 34.15 | 18.78% | 1.86 | Workforce compensation reset, phased coverage expansion, LTC conversion |
-| 15 — Resource & Energy Sovereignty | 30.90 | 16.99% | 2.19 | Grid modernization, reactor buildout, renewable expansion, public equity participation |
-| 12 — Lifelong Learning | 23.75 | 13.06% | 1.06 | K-12 operating uplift, universal pre-K, school meals, post-secondary expansion |
-| 06 — Connected Communities | 9.18 | 5.04% | 0.66 | Thermal utility networks, municipal infrastructure grants, STC revival |
-| 14 — Food Sovereignty | 7.59 | 4.17% | 0.40 | RRMP support, soil-health supports, Farmland Trust, SaskGrocery rollout |
-| 09 — Fair Labour | 6.46 | 3.55% | 0.30 | Sick-day tax credit, SME transition support, public-employer adaptation |
+| Policy                             | Base 25-Year Net Cost (C$B) | Share  | Base Peak Annual (C$B) | What Drives Cost                                                                       |
+| ---------------------------------- | --------------------------- | ------ | ---------------------- | -------------------------------------------------------------------------------------- |
+| 05 - Housing Crisis                | 40.95                       | 22.51% | 1.86                   | SaskHomes capital build, housing operations, repairs, acquisitions, retrofit support   |
+| 03 - Universal Health              | 34.15                       | 18.78% | 1.86                   | Workforce compensation reset, phased coverage expansion, LTC conversion                |
+| 15 - Resource & Energy Sovereignty | 30.90                       | 16.99% | 2.19                   | Grid modernization, reactor buildout, renewable expansion, public equity participation |
+| 12 - Lifelong Learning             | 23.75                       | 13.06% | 1.06                   | K-12 operating uplift, universal pre-K, school meals, post-secondary expansion         |
+| 06 - Connected Communities         | 9.18                        | 5.04%  | 0.66                   | Thermal utility networks, municipal infrastructure grants, STC revival                 |
+| 14 - Food Sovereignty              | 7.59                        | 4.17%  | 0.40                   | RRMP support, soil-health supports, Farmland Trust, SaskGrocery rollout                |
+| 09 - Fair Labour                   | 6.46                        | 3.55%  | 0.30                   | Sick-day tax credit, SME transition support, public-employer adaptation                |
 
 Housing alone accounts for roughly 22.5% of the platform's base 25-year cost. Universal Health accounts for about 18.8%. Resource and Energy Sovereignty accounts for about 17%. Lifelong Learning accounts for about 13.1%. Together, those four policies make up over 70% of the fiscal picture.
 
-That tells the public where the real argument is. The debate is not mainly about whether a small agency should cost a few million dollars more or less. The debate is about whether Saskatchewan is willing to build public housing at scale, expand health coverage, remake its energy system, rebuild education, and modernize core infrastructure over a generation.
+That tells the public where the real argument is. The debate is should not be mainly about whether a small agency should cost a few million dollars more or less. The debate should be about whether Saskatchewan is willing to build public housing at scale, expand health coverage, remake its energy system, rebuild education, and modernize core infrastructure over a generation. The question is: what kind of society do we want to live in?
 
 ### Full Policy Cost Summary
 
@@ -118,6 +161,7 @@ Notes:
 - Policy 02 goes slightly negative in the low case because modelled replacement of current provincial programs outweighs new expansion costs under low uptake assumptions.
 - These are net policy totals, not gross program totals. Modelled offsets and recoveries are already subtracted.
 - The low, base, and high cases are cost scenarios reflecting real uncertainty. The low case is not a promise of effortless affordability. The high case is not a prediction of failure.
+- Rounded policy rows may not sum exactly to the platform totals shown elsewhere in the document.
 
 ---
 
@@ -139,15 +183,17 @@ The SSS should have a strong local-demand effect because lower-income households
 
 ### Policy 3 — Universal Health
 
-**Base 25-year net cost: C$34.15B | Low: C$29.66B | High: C$50.68B.** This is the second-largest policy by cost. The main drivers are the workforce compensation reset (bringing health worker wages to competitive levels), phased coverage expansion (pharmacare, dental, vision, mental health, hearing, home and community care), and long-term care conversion.
+**Base 25-year net cost: C$34.15B | Low: C$29.66B | High: C$50.68B.** This is the second-largest policy by cost. The main drivers are the workforce compensation reset (bringing health worker wages to competitive and well deserved levels), phased coverage expansion (pharmacare, dental, vision, mental health, hearing, home and community care), and long-term care conversion.
 
-The Universal Health Levy — a new payroll tax replacing existing private health insurance premiums — is already modelled as a C$13.33B offset over 25 years. The UHL is the single largest dedicated revenue source in the platform. Its purpose is to replace costs many workers and employers are already bearing privately, with those funds redirected into the provincial health system. Employers are prohibited by law from clawing back the levy through wage cuts or benefit reductions.
+The Universal Health Levy — a new payroll tax replacing existing private health insurance premiums — is modelled as a C$13.33B offset over 25 years. 
+
+The UHL is the single largest dedicated revenue source in the platform. Its purpose is to replace costs many workers and employers are already bearing privately, with those funds redirected into the provincial health system. Employers are prohibited by law from clawing back the levy through wage cuts or benefit reductions.
 
 **Economic Returns:** Universal pharmacare, mental-health expansion, dental care, and earlier intervention should reduce downstream emergency, justice, and employer cost pressures over time. But those savings are lagged and unevenly timed — they belong in the conservative feedback case, not the hard base case.
 
 ### Policy 4 — Reconciliation
 
-**Base 25-year net cost: C$1.05B | Low: C$0.58B | High: C$1.83B.** This covers the Reconciliation Commissioner Office, MMIWG2S Office, consent-process capacity funding, TRC and UNDRIP implementation capacity across government, Crown land right-of-first-refusal administration, and the public-sector cost of the National Day for Truth and Reconciliation. The current base model does not rely on early SSF disbursements to fund reconciliation, because the SSF is treated as a true long-term fund rather than a short-run spending pool. Reconciliation is a foundational public good and is defended on its merits, not on its cash return.
+**Base 25-year net cost: C$1.05B | Low: C$0.58B | High: C$1.83B.** This covers the Reconciliation Commissioner Office, MMIWG2S Office, consent-process capacity funding, TRC and UNDRIP implementation capacity across government, Crown land right-of-first-refusal administration, and the public-sector cost of the National Day for Truth and Reconciliation. Reconciliation is a foundational public good and is defended on its merits, not on its cash return.
 
 ### Policy 5 — Housing Crisis
 
@@ -177,7 +223,7 @@ The 30-hour work week does not have a direct government cost but has substantial
 
 ### Policy 10 — Energy Veterans
 
-**Base 25-year net cost: C$1.64B | Low: C$1.00B | High: C$2.72B.** Funded primarily through the Energy Veterans sector transition levy (C$0.70B modelled offset). The program covers bonuses, debt shield, pension bridge payments, retraining, wage top-ups, and EVA operations. It sunsets after 15 years. The fiscal logic is straightforward: it is cheaper to transition skilled workers into new employment than to absorb long-tail unemployment, debt distress, and community decline.
+**Base 25-year net cost: C$1.64B | Low: C$1.00B | High: C$2.72B.** Policy 10's own costing already includes a conservative C$0.70B levy allowance inside the net total shown here. Separately, the whole-platform balance model counts the full 2.5% Energy Veterans sector transition levy, which raises roughly C$3.72B gross over the 15-year sunset. To avoid counting the same levy twice, only the revenue above that policy-level allowance is added again in the platform-wide balance tables. The program covers bonuses, debt shield, pension bridge payments, retraining, wage top-ups, and EVA operations. It sunsets after 15 years. Its primary fiscal purpose is to fund the worker transition itself, not to serve as the main solvency engine for the wider platform.
 
 ### Policy 11 — Saskatchewan Century Corps
 
@@ -213,7 +259,7 @@ Reactors, grid expansion, and major energy buildout must be phased and gated thr
 
 ### Policy 18 — Democratic Renewal
 
-**Base 25-year net cost: C$1.53B | Low: C$0.77B | High: C$2.70B.** This covers MMP implementation, Elections Saskatchewan expansion, election-week delivery costs, mandatory-voting administration, ethics and political-finance enforcement, CodeShare Civics, legislative digitization, and civic outreach. Democratic renewal is fiscally modest relative to the largest social and capital planks in the platform, and it is defended as a foundational public good.
+**Base 25-year net cost: C$1.53B | Low: C$0.77B | High: C$2.70B.** This covers MMP implementation, Elections Saskatchewan expansion, election-week delivery costs, mandatory-voting administration, ethics and political-finance enforcement, CodeShare Civics, legislative digitization, and civic outreach. Democratic renewal is fiscally modest relative to the largest social and capital planks in the platform, and it is defended as a foundational public good. You can't have a strong economy without an equally strong democracy. 
 
 ### Policy 19 — Manufacturing
 
@@ -256,9 +302,11 @@ Because the platform is not one kind of spending, it cannot be funded through on
 
 #### General Revenue Approach
 
-The current cost model does not hard-code a full province-wide PIT, CIT, and PST reform table into the base case. Instead, it assumes these core operating functions are financed through Saskatchewan's ordinary tax base, federal transfers, and annual budget decisions taken by future governments within the fiscal guardrails of Policy 21.
+Policy 21 sets out an explicit general-revenue package: PST at 8%, a new five-bracket PIT schedule, a stepped CIT schedule that keeps the 1% small-business rate while raising rates on larger taxable-income bands, and a 2.5% Energy Veterans sector transition levy. Gross 25-year revenue from that package is C$47.58B. Because Policy 10's own net cost already includes a conservative C$0.70B levy allowance, the additional revenue counted in the whole-platform balance model is C$46.88B.
 
-That is the more honest approach at this stage. A future government may choose a more progressive tax package, a broader base, narrower credits, or other general-revenue reforms. But those choices should be published and costed transparently in the budget that actually proposes them, rather than buried here as false precision.
+PIT and CIT thresholds are CPI-indexed in real terms. PST and the Energy Veterans levy are not. The package is legislated in Year 1, with PIT, PST, and CIT taking effect in Year 2 and the Energy Veterans levy in Year 1. This is a broad tax package because the platform it funds is broad. 
+
+The NCP is not pretending universal systems can be financed by wishful thinking, one-time windfalls, or hidden cuts somewhere else. You can't cut taxes forever and expect the same level of service. If we want better service, we must accept stronger taxes. The NCP will make sure we get our money's worth. 
 
 ### B. Dedicated Levies and Earmarked Revenue
 
@@ -271,7 +319,7 @@ That is the more honest approach at this stage. A future government may choose a
 
 **Resource Royalties and Levies — Complete Redesign:** The current royalty regime is opaque, riddled with holidays and deductions, and fails to capture fair value for Saskatchewan residents. Policy 15 assumes a materially stronger royalty, windfall levy, dormant-lease, and value-add framework than exists today. The model carries C$13.50B in incremental 25-year resource revenue from those reforms. The exact legal design should be set transparently in the Resource Sovereignty Act rather than hidden in ad hoc incentive programs and deductions.
 
-**Energy Veterans Security Surcharge:** See Policy 10. A surcharge on Saskatchewan O&G industry revenues. Modelled 25-year recovery: C$0.70B. Sunsets with the O&G operational sunset.
+**Energy Veterans Transition Levy:** See Policy 10. An explicit 2.5% levy on specified Saskatchewan oil and gas revenues, designed primarily to fund the Energy Veterans transition itself during the 15-year fossil sunset. Modelled 25-year gross recovery: C$3.72B. Because Policy 10's own net cost already carries a C$0.70B levy allowance, the platform-wide balance tables count only the additional revenue above that amount.
 
 ### C. Crown / Utility Borrowing with Rate-Backed Recovery
 
@@ -350,7 +398,7 @@ The sequence:
 
 Not all capital commitments happen at once. Major buildouts must be staged. Reactors, major grid expansion, public factories, and large-scale housing programs proceed in phases tied to readiness, workforce capacity, supply chains, business cases, and public need. Announcing a long-term program is not the same as issuing an irrevocable cheque for every future phase on day one.
 
-### Debt Service and the Real Budget Pressure
+### Debt Service, Revenue, and the Real Budget Pressure
 
 The platform should be read in two ways at once.
 
@@ -372,21 +420,28 @@ For the debt-service model, eligible capital is financed on different horizons d
 
 This is the tradeoff debt financing creates. It lowers the first-25-year cash burden materially, but it does not make the platform cheap. It replaces large early capital outlays with a long financing tail. In this model, the later years do not become effortless. They carry a substantial operating state plus accumulated debt service from the buildout years.
 
+The cost views above still matter, but they do not tell the whole story on their own. Policy 21 also includes an explicit general-revenue package. Gross revenue from that package totals C$47.58B over 25 years. Because Policy 10's own net cost already includes a C$0.70B levy allowance, the additional revenue counted in the whole-platform balance math is C$46.88B. The package raises about C$2.22B in Year 2, its first full tax year, and about C$1.83B in Year 25, all in constant 2026 dollars.
+
+| Measure | Direct-Capital View | Debt-Service View |
+|---|---:|---:|
+| Year-25 platform-only gap before explicit tax package | C$6.47B | C$7.36B |
+| Year-25 platform-only gap after explicit tax package | C$4.64B | C$5.53B |
+
 ### Does It Balance?
 
-On the hard base case, no. Even with financed capital, the platform does not return to annual balance within the 25-year horizon unless Saskatchewan also grows its fiscal capacity beyond what is already hard-coded in the base model.
+With the explicit tax package included, the answer becomes more nuanced. The package materially narrows the gap, but it does not fully close it on the platform-only case. Once broader growth and feedback assumptions are added, annual balance returns materially earlier than under the tax-free platform-only case.
 
-To test that question honestly, the model uses three breakeven scenarios. Here, "real fiscal-capacity growth" means growth in provincial revenue capacity above ordinary inflation and baseline service pressure, not just nominal GDP getting bigger on paper.
+Here, "real fiscal-capacity growth" means growth in provincial revenue capacity above ordinary inflation and baseline service pressure, not just nominal GDP getting bigger on paper.
 
-| Scenario | Additional Assumption | Annual Balance Returns | Cumulative Payback | Year-25 Position |
-|---|---|---:|---:|---:|
-| Platform-only | No added fiscal-capacity growth beyond the current hard model | Not within horizon | Not within horizon | -C$7.36B |
-| Moderate balance path | 1.0% annual real fiscal-capacity growth plus C$1.0B/year of extra feedbacks by 2051 | 2053 | 2069 | -C$0.40B |
-| Transformation path | 1.25% annual real fiscal-capacity growth plus C$2.5B/year of extra feedbacks by 2051 | 2042 | 2054 | +C$2.83B |
+| Scenario | Additional Assumption | Direct Annual Balance | Direct Cumulative Payback | Direct Year-25 Position | Debt-Service Annual Balance | Debt-Service Cumulative Payback | Debt-Service Year-25 Position |
+|---|---|---:|---:|---:|---:|---:|---:|
+| Platform-only | Explicit tax package only; no added growth or extra feedbacks beyond the hard model | Not within horizon | Not within horizon | -C$4.64B | Not within horizon | Not within horizon | -C$5.53B |
+| Moderate balance path | Explicit tax package plus 1.0% annual real fiscal-capacity growth and feedbacks ramping to C$1.0B/year by 2051 | 2047 | 2063 | +C$2.32B | 2028 | 2052 | +C$1.43B |
+| Transformation path | Explicit tax package plus 1.25% annual real fiscal-capacity growth and feedbacks ramping to C$2.5B/year by 2051 | 2043 | 2053 | +C$5.55B | 2028 | 2037 | +C$4.65B |
 
-That means the platform only becomes self-balancing inside a generation if the broader economic thesis works to at least a moderate degree. In the moderate case, annual balance returns in the early 2050s. In the stronger transformation case, annual balance returns in the early 2040s. In both cases, cumulative payback of the earlier buildout years takes longer.
+That does not mean the platform suddenly pays for itself. It means the balance picture improves sharply once the tax side is modelled honestly. In the direct-capital view, the platform-only case is still materially in the red in 2051. In the debt-service view, the moderate and transformation paths reach annual balance almost immediately because the revenue package arrives faster than the debt-service tail. But cumulative payback still takes much longer.
 
-This is why Policy 21 cannot honestly claim that the platform simply pays for itself. What it can claim is narrower and more serious: debt financing makes the buildout more manageable, and long-run balance becomes plausible if Saskatchewan actually captures the growth, savings, and value-retention effects the rest of the platform is designed to create.
+**Note:** Direct-model cumulative payback beyond 2051 assumes the Year-25 mature-state platform cost is carried forward in real terms. Debt-service cumulative payback uses the full extended debt-service schedule.
 
 ---
 
@@ -407,12 +462,14 @@ One of the easiest ways to misread this platform is to treat its gross costs as 
 | 06 — Connected Communities | Municipal and federal infrastructure cost-sharing | (1.01) | External cost-sharing |
 | 16 — Digital Sovereignty | Reduced external vendor spend and platform consolidation savings | (1.00) | Vendor savings |
 | 20 — Disaster Resilience | Federal resilience and mitigation cost-sharing | (0.84) | External cost-sharing |
-| 10 — Energy Veterans | Sector transition levy | (0.70) | Dedicated levy |
+| 10 — Energy Veterans | Conservative levy allowance already counted inside Policy 10 net costing | (0.70) | Dedicated levy allowance |
 | 17 — Financial Sovereignty | SFG treasury income, wholesale spreads, and service-fee recovery | (0.66) | Treasury/financial recovery |
 | 13 — Climate Crossroads | Fossil-fuel subsidy and incentive termination savings | (0.60) | Spending reduction |
 | 07 — Public Safety | Redirected Saskatchewan Marshals funding | (0.50) | Program redirection |
 
 These offsets are not fantasy numbers pulled from general optimism. They come from explicit policy mechanisms already written into the platform. Critics will often cite the largest gross numbers and ignore the fact that major offsets are already embedded in the base-case math. The platform is not being sold on pure gross expansion. It is already modelled as a net fiscal program with substantial recoveries.
+
+One clarification matters here. The Policy 10 row above is a conservative levy allowance already counted inside Policy 10's own net cost. The whole-platform balance tables therefore count only the additional revenue from the 2.5% Energy Veterans levy above that built-in allowance, rather than counting the same money twice.
 
 At the same time, the document does not oversell these offsets. Some are very hard and explicit — levy revenue, vendor savings. Others are more operational — rent recovery, contract recovery. They reduce net cost, but they do not erase the need for large upfront capital and operating commitments.
 
@@ -440,6 +497,8 @@ The strongest candidates are concentrated in a handful of policies. Saskatchewan
 
 These savings are politically important because they show that poverty, instability, and institutional failure are already expensive. Saskatchewan is already paying for unmanaged social harm. It is simply paying for it in the most reactive and inefficient way possible.
 
+To repeat: When all is accounted for, we are already spending the money. It is being spent inefficiently, without any upsides except for the few who benefit from the system as it stands. The NCP chooses to be upfront about the costs so that we may spend efficiently, uplift people and businesses, and reap the rewards of proper investment in society. 
+
 But the platform remains disciplined here. A large anti-poverty or preventive-health investment does not instantly return dollar-for-dollar to the Treasury in the same year. Most of these effects arrive slowly, unevenly, and across multiple systems. That is why they belong in a conservative feedback case rather than the hard base case.
 
 ### Household Cost Compression
@@ -462,14 +521,14 @@ That does not mean every local or public structure automatically outperforms eve
 
 ### Upside Scenarios (Not Included in Core Projections)
 
-| Upside Channel | Potential Effect | Why Excluded From Base Case |
-|---|---|---|
-| Climate Lawsuit Success (Policy 13) | Very large non-core recovery if successful | Litigation outcomes are too uncertain to count on |
-| Stronger In-Migration | Larger workforce, higher tax base, more business formation | Also creates added housing and service demand |
-| Stronger Resource and Power Revenues | Larger long-run public revenue and ownership earnings | Commodity prices, export demand, and build pace are uncertain |
-| Stronger Public-Enterprise Performance | Higher rents, utility recovery, manufacturing sales, vendor savings | Management, demand, and ramp-up risk make aggressive early counting unwise |
-| Large Productivity Gains from Health and Education | Stronger GDP, participation, earnings, and tax capacity | Hard to time and easy to overclaim |
-| Larger Local-Demand Effects | More PST-generating spending and stronger small-business activity | Some spending leaks out of province |
+| Upside Channel                                     | Potential Effect                                                    | Why Excluded From Base Case                                                |
+| -------------------------------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Climate Lawsuit Success (Policy 13)                | Very large non-core recovery if successful                          | Litigation outcomes are too uncertain to count on                          |
+| Stronger In-Migration                              | Larger workforce, higher tax base, more business formation          | Also creates added housing and service demand                              |
+| Stronger Resource and Power Revenues               | Larger long-run public revenue and ownership earnings               | Commodity prices, export demand, and build pace are uncertain              |
+| Stronger Public-Enterprise Performance             | Higher rents, utility recovery, manufacturing sales, vendor savings | Management, demand, and ramp-up risk make aggressive early counting unwise |
+| Large Productivity Gains from Health and Education | Stronger GDP, participation, earnings, and tax capacity             | Hard to time and easy to overclaim                                         |
+| Larger Local-Demand Effects                        | More PST-generating spending and stronger small-business activity   | Some spending leaks out of province                                        |
 
 ---
 
@@ -496,7 +555,7 @@ Each new Crown Corporation must publish quarterly financial dashboards and face 
 GRF operating expansion, Crown capital investment, utility borrowing, rate-backed recovery systems, and intergenerational wealth architecture must always be reported separately. A government that blurs those categories will make the platform less legible and easier to attack.
 
 ### 7. Sunset Provisions
-The SME Transition Grants, Energy Veterans Surcharge, and Oil & Gas operational licences automatically sunset as specified in their respective policies. Temporary transition supports remain temporary — they do not silently become permanent entitlements without explicit political approval and public costing.
+The SME Transition Grants, Energy Veterans Transition Levy, and Oil & Gas operational licences automatically sunset as specified in their respective policies. Temporary transition supports remain temporary — they do not silently become permanent entitlements without explicit political approval and public costing.
 
 ### 8. Staged Approval of Major Capital
 The biggest commitments proceed through decision gates rather than being treated as all-or-nothing instant obligations. This is especially important for reactors, major grid works, large factory buildouts, and other complex infrastructure.
@@ -544,13 +603,13 @@ These risks do not invalidate the platform. They are the reason the document use
 
 Every number above is a range. Every assumption is stated. Every risk is acknowledged.
 
-The honest truth is this: the Saskatchewan 21 Policies cost a great deal of money. They also build a great deal of wealth — human, social, and financial — that compounds over decades. The question is not whether we can afford to do this. The question is whether we can afford not to.
+The honest truth is this: the Saskatchewan 21 Policies cost a great deal of money. They also build a great deal of wealth — human, social, and financial — that compounds over decades. The question is not whether we can afford to do this. The question is whether we can afford not to. We already pay for the system we have now, and receive very little in return. 
 
-Saskatchewan currently exports raw resources, imports finished goods, and watches its young people leave for opportunities elsewhere. The S21P reverses that flow: we process our own resources, build our own goods, train our own people, and create an economy so attractive that people come to us.
+Saskatchewan currently exports raw resources, imports finished goods, and watches its young people leave for opportunities elsewhere. The S21P aims to reverse that flow: we process our own resources, build our own goods, train our own people, and create an economy so attractive that the brain-drain becomes a brain-gain.
 
 The first decade will be hard. The costs are real. The debt is real. But so are the homes, the hospitals, the factories, the geothermal loops, the nuclear reactors, the schools, the grocery stores, and the families with a stable place to live.
 
-The platform is not sold as cheap. It is not sold as risk-free. It is not sold as instantly self-financing. On the hard base case it does not fully balance within 25 years. It is sold as ambitious, difficult, costly, and coherent. It is a 25-year program to build a more stable, more sovereign, less extractive Saskatchewan.
+The platform is not sold as cheap. It is not sold as risk-free. It is not sold as instantly self-financing. Policy 21 says openly that broad public systems require broad public revenue. That means an 8% PST, higher PIT rates, higher CIT on larger firms, and a 2.5% Energy Veterans levy alongside the existing dedicated health and resource revenue measures. Even with that package, the platform-only case does not fully balance within 25 years. It is sold as ambitious, difficult, costly, and coherent. It is a 25-year program to build a more stable, more sovereign, less extractive Saskatchewan.
 
 That is the real choice before the province: not between spending and not spending, but between planned reconstruction and continued unmanaged cost escalation. Policy 21 exists to show that this reconstruction has been costed, phased, and tied to a real fiscal framework rather than to wishful thinking.
 
@@ -579,6 +638,8 @@ See all other policies for their specific implementation details.
 
 It means the major costs, offsets, and risks are accounted for.
 
+It means the tax increases are named up front rather than hidden in footnotes or vague future budgets.
+
 It means fewer hidden assumptions, fewer fiscal illusions, and no fake precision.
 
 It means the dignity of an honest government.
@@ -588,7 +649,7 @@ It means the dignity of an honest government.
 # FAQ
 
 - How can you afford all of this?
-	- The same way every major economy has ever built transformative infrastructure: you invest public money in productive assets that grow the economy, and you capture a fairer share of the wealth already produced in the province. In this model, the platform is funded through a mix of ordinary provincial revenue, dedicated levies that replace private costs, redesigned resource revenue capture, long-dated capital borrowing, and conservative public-system recoveries. It is a long-horizon restructuring program, not a one-year budget trick, and it is presented with ranges and uncertainty because that is the honest way to do it.
+	- Partly by taxing more, and saying so openly. Policy 21 explicitly models an 8% PST, a new five-bracket PIT schedule, higher CIT rates on larger firms while preserving the 1% small-business rate, and a 2.5% Energy Veterans levy, alongside the Universal Health Levy, stronger resource revenue capture, long-dated capital borrowing, and conservative public-system recoveries. Over 25 years that package adds about C$47.58B gross, or C$46.88B of additional whole-platform revenue after accounting for the levy allowance already built into Policy 10's own net cost. This is a long-horizon restructuring program, not a one-year budget trick.
 
 - Won't this drive businesses out of Saskatchewan?
 	- We are building a healthier, better-educated, better-housed workforce, connected by stronger infrastructure, powered by abundant energy, and backed by public and local financial institutions that keep more capital circulating here. Some employers will face higher costs in the short term, but the transition grants, stronger consumer demand, better worker retention, and improved infrastructure are designed to make Saskatchewan a more attractive place to invest over time.
@@ -600,7 +661,7 @@ It means the dignity of an honest government.
 	- Saskatchewan's capital borrowing funds homes, factories, nuclear reactors, and infrastructure that build real public assets. Unlike consumption debt, productive debt finances systems that lower future costs, create recoveries, or expand the province's long-run productive capacity. SaskBonds are meant to be transparent, staged, and tied to specific asset classes rather than treated as a blank cheque. Annual debt and debt-service reporting is what keeps that borrowing disciplined.
 
 - Does the platform balance within 25 years?
-	- Not on the hard base case. In the direct-capital model, the platform is still materially in the red in 2051. In the debt-service model, annual balance becomes plausible only if Saskatchewan also achieves meaningful real fiscal-capacity growth and secondary savings beyond the currently modeled hard offsets. In the moderate balance path, annual balance returns around 2053. In the stronger transformation path, it returns around 2042. Cumulative payback takes longer in both cases.
+	- Even with the explicit tax package, not on the platform-only case. By 2051 the remaining gap is about C$4.64B in the direct-capital view and about C$5.53B in the debt-service view. Once broader growth and feedback assumptions are layered in, annual balance returns in 2047 on the moderate direct path and 2043 on the transformation direct path. In the debt-service view, annual balance returns as early as 2028 on both the moderate and transformation paths because the new revenue package arrives faster than the debt-service tail. Cumulative payback still takes longer.
 
 - What if resource prices crash?
 	- The base case is already conservative about long-run resource revenue, and the platform deliberately diversifies both its revenue base and its economic base. It does not depend on one commodity or one price window to stay viable. Phased capital commitments and diversified public revenue streams are the main protection against commodity volatility.
@@ -615,7 +676,10 @@ It means the dignity of an honest government.
 - All figures are in constant 2026 Canadian dollars unless otherwise stated.
 - 25-year horizon (2027–2051).
 - Low, base, and high scenarios reflect uncertainty in construction costs, uptake, delivery pace, workforce constraints, and revenue recovery.
-- The base case includes direct costs and hard offsets only. It does not depend on lawsuit winnings, aggressive export upside, or sweeping GDP growth assumptions.
+- The core cost tables include direct costs and hard policy-specific offsets only. Separate revenue-integrated balance tables then layer on the explicit PST, PIT, CIT, and 2.5% Energy Veterans levy package.
+- PST, PIT, and CIT are legislated in Year 1 and take effect in Year 2. The Energy Veterans levy begins in Year 1.
+- PIT and CIT thresholds are CPI-indexed in real terms inside the constant-2026-dollar model. No separate PST relief package is modelled here.
+- The model does not depend on lawsuit winnings, aggressive export upside, or sweeping GDP growth assumptions.
 - This document includes a stylized debt-service model for financed capital, but formal government budgets would still require instrument-specific debt-service and amortization schedules for GRF-backed, Crown-backed, rate-backed, and bond-funded capital streams.
 - Climate Lawsuit proceeds are excluded from all projections.
 - All projections are estimates and will be updated annually, with a full model refresh every five years.
@@ -624,11 +688,17 @@ It means the dignity of an honest government.
 # References:
 
 - Saskatchewan Provincial Budget 2025-26
+- Saskatchewan Personal Income Tax Structure
+- Saskatchewan Corporation Income Tax
+- Saskatchewan Provincial Sales Tax
 - Parliamentary Budget Officer — Costing Methodology
 - IMF Fiscal Monitor — Fiscal Multiplier Estimates
 - OECD — Revenue Statistics
 - Bank of Canada — Inflation Target
 - Alaska Permanent Fund Corporation — Annual Reports
 - Norway Government Pension Fund Global — Annual Reports
+- CRA Individual Tax Statistics by Bracket — Saskatchewan
+- CRA T2 Corporate Statistics
+- Saskatchewan Public Accounts 2024-25, Volume 1
 - Statistics Canada — Saskatchewan Economic Accounts
 - Saskatchewan Bureau of Statistics — Population Projections

@@ -10,7 +10,9 @@ An NCP government will not promise something it cannot keep. We cannot promise t
 
 ### The Plan 
 
-Upon gaining office, the Government of Saskatchewan will formally reach out to all Saskatchewan Treaty Nations, Indigenous Communities and organizations, as well as welcome any non-organized Indigenous voices, to begin the formal process of building the Consent Protocol. 
+Upon gaining office, the Government of Saskatchewan will formally reach out to all Saskatchewan Treaty Nations, Indigenous, First Nations, and Métis communities and organizations, as well as welcome any non-organized Indigenous voices, to begin the formal process of building the Consent Protocol. 
+
+This process will involve facilitated nation-to-nation dialogues with timelines and neutral facilitators, chosen by the Indigenous Nations, as to ensure the process is structured, fair, timely, and without Provincial dictation. The Province commits to providing no strings attached capacity funding to meet this goal and allow the nations the ability to properly participate without disadvantage.  
 
 The Consent Protocol will establish clear rules, co-developed with Indigenous nations and organizations, for determining which governing body or bodies must be engaged in any given matter, including cases of shared territory, overlapping interests, Métis representation, urban Indigenous communities, and other situations where more than one Indigenous authority or organization may be affected.
 
@@ -30,6 +32,10 @@ Two new Provincial Offices will be established: The Office for the Reconciliatio
 The Right of First Refusal on provincial Crown Land sales will be provided through a framework co-developed with First Nations, Métis governments, and other relevant Indigenous governing bodies, so that the Indigenous peoples most directly connected to the land are offered the first opportunity before any private sale.
 
 And the first September 30th after the NCP forms government shall be the first statutory holiday in recognition of the National Day for Truth and Reconciliation. 
+
+For all new or newly expanded resource or energy projects in the province, an NCP Government of Saskatchewan commits to a trilateral ownership structure. This will involve the creation of an Indigenous Peoples Resource Trust. The Trust will be established through the same nation-to-nation process as the Consent Protocol with its own capacity funding, timelines, and neutral facilitators, chosen by the Indigenous Nations. The Province will provide additional, no strings attached, capacity funding for this purpose. 
+
+	See Policy 15 - Resource Sovereignty for more. 
 
 What comes next cannot be dictated. Only walked, hand in hand, together. 
 

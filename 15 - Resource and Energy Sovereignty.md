@@ -12,23 +12,25 @@ The NCP will capture the future resources sector ensuring the benefits go to the
 
 The NCP will introduce The Saskatchewan Natural Resources Sovereignty Act and amendments to the Power Corporation Act. Together this will allow Saskatchewan to have the resources and power be built and extracted by the people and for the people. 
 
-The Act will mandate that all new major or newly expanded resource projects must operate under a trilateral co-ownership model. Ownership will be divided equally between the Provincial Crown, the Treaty Nations Resource Trust, and the private operating partner, with each holding a 33 1/3% working interest.
+The Act will mandate that all new major or newly expanded resource projects must operate under a trilateral co-ownership model. Ownership will be divided equally between the Provincial Crown, the Indigenous Peoples Resource Trust, and the private operating partner, with each holding a 33 1/3% working interest.
 
 - 33 1/3% of the project shall be owned by the Government of Saskatchewan, and they will have a veto over the project. 
-- 33 1/3% of the project shall be owned by the Treaty Resource Trust of Saskatchewan, and they will have a veto over the project. 
+- 33 1/3% of the project shall be owned by the Indigenous Peoples Resource Trust of Saskatchewan, and they will have a veto over the project. 
 - 33 1/3% of the project shall be owned by the company, and they will not have a veto on the project. 
 
 To achieve this structure, the Province will reserve the right to acquire a 66 2/3% working interest, purchased at audited cost to date, with one-half of that acquired interest immediately transferred at audited cost to the Treaty Nations Resource Trust.
 
-The Saskatchewan Indigenous Resource Trust will hold the Indigenous ownership share in projects operating under the trilateral model.
+The Saskatchewan Indigenous Peoples Resource Trust will hold the Indigenous ownership share in projects operating under the trilateral model.
 
-The Trust will be established through a governance framework co-developed with First Nations, Métis governments, and other relevant Indigenous governing bodies in Saskatchewan, consistent with the Consent Protocol and the Saskatchewan UNDRIP Implementation Act. The Province will not unilaterally determine who is entitled to participate in the Trust or how the Trust is governed. 
+The Trust will be established through a governance framework co-developed with First Nations governments, Métis governments, and other relevant Indigenous governing bodies in Saskatchewan, consistent with the Consent Protocol and the Saskatchewan UNDRIP Implementation Act. 
 
-That framework will determine membership, representation, voting rules, revenue allocation, and the process for identifying which Indigenous governing body or bodies are most directly connected to a given project by treaty, territory, community connection, or other recognized Indigenous interest.
+The Province will not unilaterally determine who is entitled to participate in the Trust or how the Trust is governed. The Province will facilitate a nation-to-nation process with timelines and neutral facilitators to ensure that the nations themselves can decide what is best. 
+
+That framework will determine membership, representation, voting rules, revenue allocation, and the process for identifying which Indigenous governing body or bodies are most directly connected to a given project by treaty, territory, community connection, or other recognized Indigenous interest. 
 
 As a general rule, the Trust will provide for broad Indigenous participation at the provincial level, while ensuring that the Indigenous nations, governments, and communities most directly affected by or connected to a specific project have the strongest role in decisions, consent, and benefit sharing related to that project.
 
-The Province will provide initial capacity funding to support the creation of the Trust, but final authority over its governance structure will rest with the participating Indigenous governments and governing bodies themselves.
+The Province will provide capacity funding to support the creation of the Trust, which will take substantive work and conversation, but final authority over its governance structure will rest with the participating Indigenous governments and governing bodies themselves. The Province will not control the wealth or power of the Indigenous Peoples of Saskatchewan beyond the initial offer of equal 33 1/3% equity, or 50 / 50 equity should the corporations refuse their share. 
 
 	See Policy 04 - Reconciliation for more. 
 
@@ -77,7 +79,7 @@ Projects operating under the trilateral ownership model will deliver public retu
 
 <strong><u>The Saskatchewan Natural Resources Corporation (SNRC):</u></strong>
 
-The Act will establish a new Crown corporation to be known as the Saskatchewan Natural Resources Corporation (SNRC), with a mandate to set up and operate new or expanded major resource projects in direct partnership with industry and local Indigenous governing bodies, communities and organizations.They will be the representative of the Crown for the 33 - 33 - 33 trilateral ownership split. 
+The Act will establish a new Crown corporation to be known as the Saskatchewan Natural Resources Corporation (SNRC), with a mandate to set up and operate new or expanded major resource projects in direct partnership with industry and local Indigenous governing bodies, communities and organizations. They will be the representative of the Crown for the 33 1/3 - 33 1/3 - 33 1/3 trilateral ownership split. 
 
 The SNRC will prioritize building new mines and other non-renewable resource extraction projects in the province. The SNRC will lead development of all new non-fossil fuel resource projects This means opening new mines and reopening or expanding older mines, all of which will be subject to the new trilateral ownership model. The main priority will be Uranium mining and refinement. 
 
@@ -141,6 +143,70 @@ To reiterate, we will be using CANDU reactors, burning our own unenriched uraniu
 
 These new reactors will use fuel fabricated in Saskatchewan at the Uranium Refinery and Fuel Fabrication Facility built by the SNRC and SMC.
 
+<strong><u>Forestry and Boreal Stewardship:</u></strong>
+
+Forestry will not be treated the same way as non-renewable extraction. Forests are living systems, not one-time deposits to be emptied and abandoned. Saskatchewan's boreal forest must be governed on the basis of stewardship, renewal, Indigenous partnership, habitat protection, and local value-add.
+
+The trilateral ownership model set out above applies to new major or significantly expanded non-renewable resource extraction projects. It does not automatically apply to forestry tenure. Forestry will instead be governed through a distinct public-interest regime under the Saskatchewan Natural Resources Sovereignty Act and related forestry legislation.
+
+The first principle of that regime is simple: no further industrial encroachment into old-growth, primary, or intact forest landscapes.
+
+An immediate moratorium will be placed on any new timber allocations, new forestry roads, or new industrial harvest approvals in identified or candidate old-growth forests, intact forest landscapes, high-conservation-value forests, culturally significant forest areas, and critical habitat areas until the Province, together with Indigenous governing bodies and independent ecological experts, completes a full inventory, mapping process, and permanent protection framework.
+
+That framework will be completed within 24 months and will identify:
+
+- Old-growth and primary forest areas;
+- Intact forest landscapes and roadless areas;
+- Ecologically important wildlife corridors and watershed protection areas;
+- Culturally significant forest areas identified by Indigenous governments and communities;
+- Forest areas where harvesting may continue under stricter sustainability and renewal rules.
+
+Where permanent protection is established, industrial forestry activity will be prohibited.
+
+Outside those protected areas, forestry tenure will be redesigned around Indigenous partnership, local processing, and long-run renewal rather than raw extraction.
+
+New or renewed large-scale forestry tenures must be co-developed with the Indigenous governments and governing bodies most directly affected by the proposed harvest area. 
+
+The Province will be required to complete a Consent Protocol so that all forest planning, harvest sequencing, access-road planning, watershed protection, habitat management, and benefit-sharing must be developed together from the start.
+
+The Province will introduce an Indigenous Forestry Partnership Framework that includes:
+
+- A right of first offer on new timber allocations in affected territories for qualified Indigenous-owned or Indigenous-partnered forestry enterprises;
+- Co-developed regional forest planning tables with representation from affected Indigenous governments, workers, local communities, and the Province;
+- Revenue-sharing from stumpage, timber dues, and related Crown forestry revenues generated within affected planning areas;
+- Capacity funding for Indigenous forestry planning, monitoring, guardianship, and technical participation;
+- And stronger procurement and partnership pathways for Indigenous forestry, silviculture, restoration, and value-added wood manufacturing businesses.
+
+Forestry stumpage and timber dues will be redesigned to ensure the public receives fair value for public timber, while recognizing that forest management must also pay for renewal, habitat protection, road reclamation, and Indigenous participation in governance. Timber from Saskatchewan's public forests must no longer be treated as a cheap input to be exported with minimal local benefit.
+
+A Saskatchewan First Timber Allocation policy will be adopted so that public timber allocations prioritize domestic value-added processing, including Saskatchewan lumber, engineered wood, mass timber, modular housing components, furniture, and other secondary wood products, before supporting low-value raw export.
+
+Forestry governance must also include the return of good fire to the land.
+
+The Province will establish a Saskatchewan Cultural Fire and Prescribed Burn Program, co-developed and co-governed with First Nations, Métis governments, and other relevant Indigenous governing bodies. The program will support Indigenous-led cultural burning, fuel-reduction burns, habitat restoration burns, and resilience burns near communities, critical infrastructure, and ecologically sensitive landscapes.
+
+This is not only wildfire management. It is land stewardship. Fire has long been used by Indigenous peoples to maintain healthy landscapes, reduce fuel loads, support habitat, protect communities, and renew the boreal. Saskatchewan will treat that knowledge with the seriousness it deserves.
+
+The Province will provide long-term funding for Indigenous fire stewardship teams, planning capacity, training, equipment, guardianship, and joint burn operations. Burn planning will be integrated with forest management, habitat protection, road-access planning, and community resilience planning.
+
+Prescribed burns and cultural burns will be prioritized in areas where they can reduce catastrophic wildfire risk, restore forest health, protect communities, improve watershed resilience, and support species and habitats harmed by poor fire management or industrial disturbance.
+
+Industrial forestry schedules must adapt to ecological and cultural fire stewardship needs, not the other way around.
+
+The Saskatchewan Manufacturing Corporation and Saskatchewan Housing Corporation will be mandated to pursue supply agreements and partnerships with Saskatchewan forestry producers, wood processors, and Indigenous forestry enterprises so that Saskatchewan timber helps build Saskatchewan housing and public infrastructure first.
+
+All forestry operators will be required to meet stronger renewal and stewardship obligations. That includes:
+
+- Full reforestation and regeneration requirements;
+- Road decommissioning and landscape restoration obligations;
+- Cumulative-effects monitoring at the regional scale;
+- Stronger protections for caribou habitat, water systems, and biodiversity;
+- Annual public reporting on harvest levels, renewal outcomes, disturbance, and reclamation.
+
+No operator will be permitted to cut and walk away. If a company cannot afford to renew the forest, restore roads, and meet long-run stewardship obligations, then it cannot afford the licence.
+
+Forestry in Saskatchewan must become something different: not a quiet liquidation of the North, but a renewable public asset governed with respect, restraint, and long-term purpose.
+
 #### The Funding
 
 The upfront capital for this policy will come from a combination of SaskBond revenues, Crown borrowing, retained public revenues, and targeted support from the General Revenue Fund during the buildout phase.
@@ -155,6 +221,8 @@ SaskPower's grid modernization, Virtual Power Plant buildout, EV charging networ
 
 Major nuclear, refinery, fuel-fabrication, transmission, and export projects will proceed in phases. No major construction commitment will be made without updated business cases, financing plans, regulatory approvals, workforce planning, and public-interest assessments.
 
+Forestry stumpage and timber dues will be redesigned to ensure Saskatchewan receives fair value for public timber, but those revenues will be directed first toward reforestation, ecological stewardship, Indigenous forestry partnership, regional planning capacity, and local processing support. Forestry reform is therefore treated as fiscally responsible and strategically important, but not as a major new solvency engine in the current model.
+
 Over time, the long-term funding base for this policy will come from public ownership itself: resource dividends, power revenues, value-added processing income, fuel fabrication, electricity sales, and export earnings. The purpose of this policy is not simply to regulate private activity more tightly, but to ensure Saskatchewan captures the lasting value of its own resources and energy systems.
 
 #### What It Means For You
@@ -165,7 +233,7 @@ It means power outages are a thing of the past.
 
 It means the dignity in powering the province ourselves. 
 
-# # FAQ
+# FAQ
 
 -  What is the Saskatchewan Indigenous Resource Trust?
 	- It is the collective Indigenous ownership vehicle that will hold the Indigenous equity share in major resource projects. Its structure will be co-developed with First Nations, Métis governments, and other relevant Indigenous governing bodies in Saskatchewan. The Province will not decide on its own who belongs in the Trust or how it is governed.
