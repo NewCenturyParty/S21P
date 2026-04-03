@@ -1,6 +1,5 @@
 # Detailed Policy
 
-
 ### The Problem
 
 Cities are held back by old ways of thinking that are not compatible with human thriving. 
